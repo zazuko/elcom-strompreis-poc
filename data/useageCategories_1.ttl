@@ -1,0 +1,111 @@
+<http://elcom.zazuko.com/category/C5>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "500'000 kWh/Jahr: Grosser Betrieb' max. beanspruchte Leistung: 150 kW' Mittelspannung' eigene Transformatorenstation " .
+
+<http://elcom.zazuko.com/category/H3>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "4'500 kWh/Jahr: 4-Zimmerwohnung mit Elektroherd und Elektroboiler " .
+
+<http://elcom.zazuko.com/category/H8>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "7'500 kWh/Jahr: Grosse' hoch elektrifizierte Eigentumswohnung " .
+
+<http://elcom.zazuko.com/category/C3>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "150'000 kWh/Jahr: Mittlerer Betrieb' max. beanspruchte Leistung: 50 kW " .
+
+<http://elcom.zazuko.com/category/H1>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "1'600 kWh/Jahr: 2-Zimmerwohnung mit Elektroherd " .
+
+<http://elcom.zazuko.com/category/H6>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "25'000 kWh/Jahr: 5-Zimmer-Einfamilienhaus mit Elektroherd' Elektroboiler' Tumbler und mit elektrischer Widerstandsheizung " .
+
+<http://elcom.zazuko.com/category/conceptscheme>
+        a       <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+        <http://www.w3.org/2004/02/skos/core#hasTopConcept>
+                <http://elcom.zazuko.com/category/H2> , <http://elcom.zazuko.com/category/C2> , <http://elcom.zazuko.com/category/C5> , <http://elcom.zazuko.com/category/H7> , <http://elcom.zazuko.com/category/C6> , <http://elcom.zazuko.com/category/C3> , <http://elcom.zazuko.com/category/H5> , <http://elcom.zazuko.com/category/C4> , <http://elcom.zazuko.com/category/H3> , <http://elcom.zazuko.com/category/H6> , <http://elcom.zazuko.com/category/H1> , <http://elcom.zazuko.com/category/H4> , <http://elcom.zazuko.com/category/C7> , <http://elcom.zazuko.com/category/C1> , <http://elcom.zazuko.com/category/H8> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "Category concepts" .
+
+<http://elcom.zazuko.com/category/C1>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "8'000 kWh/Jahr: Kleinstbetrieb' max. beanspruchte Leistung: 8 kW " .
+
+<http://elcom.zazuko.com/category/C6>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "1'500'000 kWh/Jahr: Grosser Betrieb' max. beanspruchte Leistung: 400 kW' Mittelspannung' eigene Transformatorenstation " .
+
+<http://elcom.zazuko.com/category/H4>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "4'500 kWh/Jahr: 5-Zimmerwohnung mit Elektroherd und Tumbler (ohne Elektroboiler) " .
+
+<http://elcom.zazuko.com/category/C4>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "500'000 kWh/Jahr: Grosser Betrieb ' max. beanspruchte Leistung: 150 kW' Niederspannung " .
+
+<http://elcom.zazuko.com/category/H2>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "2'500 kWh/Jahr: 4-Zimmerwohnung mit Elektroherd " .
+
+<http://elcom.zazuko.com/category/H7>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "13'000 kWh/Jahr: 5-Zimmer-Einfamilienhaus mit Elektroherd' Elektroboiler' Tumbler' Wärmepumpe 5 kW zur Beheizung " .
+
+<http://elcom.zazuko.com/category/C2>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "30'000 kWh/Jahr: Kleinbetrieb' max. beanspruchte Leistung: 15 kW " .
+
+<http://elcom.zazuko.com/category/C7>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "7'500'000 kWh/Jahr: Grosser Betrieb' max. beanspruchte Leistung: 1'630 kW' Mittelspannung' eigene Transformatorenstation " .
+
+<http://elcom.zazuko.com/category/H5>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#isTopConceptOf>
+                <http://elcom.zazuko.com/category/conceptscheme> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "7'500 kWh/Jahr: 5-Zimmer-Einfamilienhaus mit Elektroherd' Elektroboiler und Tumbler " .
