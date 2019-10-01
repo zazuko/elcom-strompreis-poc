@@ -1,6 +1,7 @@
 PREFIX rr: <http://www.w3.org/ns/r2rml#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX schema: <https://schema.org/>
+
 <#StromnetzMapping>
 	rr:logicalTable [ rr:tableName "http://www.example.com/Schweizerische Gemeinden und zuständige Stromnetzbetreiber (Stand 07.09.2018).csv" ];
 	

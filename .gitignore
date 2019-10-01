@@ -1,1 +1,6 @@
 /bin/
+/.settings
+.classpath
+.project
+/elcom-pipeline/node_modules/
+target/

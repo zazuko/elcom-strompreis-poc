@@ -1,0 +1,32 @@
+{
+  "name": "elcom-pipeline",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && jest",
+    "start": "mkdir -p target source; barnard59 run --pipeline urn:pipeline:elcom-ld#Root --format text/turtle pipelines/elcom-pipeline.ttl",
+    "clean-nt": "rm -f target/everything.nt && cat target/*.nt | sed '/_:/d' | sed '/<file/d' | sed '/#(No/d' | sed '/NULL/d'  > target/everything.nt",
+    "pipeline": "npm start -- --pipeline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zazuko/blv-tierseuchen-ld.git"
+  },
+  "author": "Tomasz Pluskiewicz <tomasz@t-code.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zazuko/blv-tierseuchen-ld/issues"
+  },
+  "homepage": "https://github.com/zazuko/blv-tierseuchen-ld#readme",
+  "dependencies": {
+    "barnard59": "0.0.5",
+    "barnard59-formats": "0.0.6",
+    "node-fetch": "^2.6.0",
+    "rdf-ext": "^1.3.0",
+    "unzipper": "^0.9.11"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}

@@ -3,6 +3,7 @@ PREFIX rml: <http://semweb.mmlab.be/ns/rml#>
 PREFIX ql: <http://semweb.mmlab.be/ns/ql#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX schema: <https://schema.org/>
+
 <#StromnetzMapping>
 	rml:logicalSource [
 		rml:source "http://www.example.com/Schweizerische Gemeinden und zuständige Stromnetzbetreiber (Stand 07.09.2018).csv" ;

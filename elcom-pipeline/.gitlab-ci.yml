@@ -1,0 +1,24 @@
+image: node:8
+before_script:
+  - npm install
+
+stages:
+  - build
+  - staging
+
+tierseuchen_build:
+  stage: build
+  script:
+    - npm run start
+  # except:
+  #   variables:
+  #       - $CRON
+
+# tierseuchen_staging:
+#   stage: staging
+#   script:
+#     - npm run clean-nt
+#   only:
+#     variables:
+#         - $CRON
+

@@ -1,0 +1,19 @@
+PREFIX gont: <https://gont.ch/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX dcterm: <http://purl.org/dc/terms/>
+
+CONSTRUCT {
+    ?cantonAlias a gont:Canton ;
+        dcterms:identifier ?cantonId ;
+        rdfs:label ?cantonName .
+}
+WHERE { GRAPH <https://linked.opendata.swiss/graph/eCH-0071> {
+
+    ?cantonUri a gont:Canton ;
+        gont:id ?cantonId ;
+        gont:longName ?cantonName .
+
+    ?cantonAlias owl:sameAs ?cantonUri .
+}}

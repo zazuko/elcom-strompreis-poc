@@ -1,0 +1,165 @@
+@base <urn:pipeline:elcom-ld> .
+@prefix : <https://pipeline.described.at/> .
+@prefix code: <https://code.described.at/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+_:common-vars :variable
+  [ a :Variable; :name "targetDir"; :value "target" ] ,
+  [ a :Variable; :name "mappingsDir"; :value "metadata" ],
+  [ a :Variable; :name "outputFile"; :value "metadata/tarif.csv.meta.json" ],
+  [ a :Variable; :name "sourceDir"; :value "source" ] .
+
+# ------------------------------
+#
+# Root pipeline
+#
+# Entire workflow: download, extract and process files
+#
+# ------------------------------
+
+<#Root> a :Pipeline, :Readable ;
+  :steps [
+    :stepList (
+      [ a :Step ;
+        code:implementedBy [ a code:EcmaScript; code:link <file:../lib/sequence> ];
+        code:arguments ( <#TransformFiles> ) ]
+
+    ) ] .
+
+# ------------------------------
+#
+# Transform pipeline
+#
+# One-by-one parses and transforms the source csv files to RDF
+#
+# ------------------------------
+
+<#TransformFiles> a :Pipeline, :Readable ;
+  :steps [
+      :stepList ( <#readDir> <#doTransform> )
+    ] ;
+  :variables _:common-vars .
+
+<#readDir> a :Step ;
+  code:implementedBy
+    [
+      code:link <file:../lib/dir#iterateFiles> ;
+      a code:EcmaScript
+    ] ;
+  code:arguments (
+    "sourceDir"^^:VariableName
+   ) .
+
+<#doTransform> a :Step ;
+  code:implementedBy [
+      code:link <node:barnard59-core#forEach> ;
+      a code:EcmaScript
+    ] ;
+  code:arguments (
+    <#TransformCsv>
+	"(p, fileName) => { p.variables.set('sourceFile', fileName) }"^^code:EcmaScript
+  ) .
+
+# ------------------------------
+#
+# Transforms individual files
+#
+# ------------------------------
+
+<#TransformCsv> a :Pipeline ;
+  :steps
+    [
+      :stepList ( <#openCsv> <#parse> <#parseYearFromFilename> <filterNotCsvw> <#serialize> <#save> )
+
+    ] ;
+  :variables _:common-vars.
+
+<#openCsv> a :Step ;
+  code:implementedBy [
+      code:link <file:../lib/csv#openFromCsvw> ;
+      a code:EcmaScript
+    ] ;
+  code:arguments ("outputFile"^^:VariableName).
+
+<#parse> a :Step;
+  code:implementedBy
+    [
+      code:link <node:barnard59-formats#csvw.parse>;
+      a code:EcmaScript
+    ];
+  code:arguments ( <#parseMetadata> ).
+
+<#parseMetadata> a :Pipeline, :ReadableObjectMode;
+  :steps
+    [
+      :stepList ( <#readMetadata> <#parseMetadataStep> )
+    ].
+
+<#readMetadata> a :Step;
+  code:implementedBy
+    [
+      code:link <node:fs#createReadStream>;
+      a code:EcmaScript
+    ];
+  code:arguments ("outputFile"^^:VariableName).
+
+<#parseMetadataStep> a :Step;
+  code:implementedBy
+    [
+      code:link <node:barnard59-formats#jsonld.parse>;
+      a code:EcmaScript
+    ].
+	
+<#parseYearFromFilename> a :Step ;
+  code:implementedBy
+    [
+      code:link <node:barnard59-base#map> ;
+      a code:EcmaScript
+    ] ;
+    code:arguments ( """async (quad) => {
+		const rdf = require('rdf-ext')
+		
+        var fileName = this.variables.get('sourceFile');
+		var year = /\\d{4}/.exec(fileName)[0];
+		var subject = quad.subject.value;
+		var object = quad.object;
+		if (quad.subject.value.startsWith('http://elcom.zazuko.com/observation/[year]')) {
+			subject = quad.subject.value.replace('[year]',year);
+		}
+		
+		if (quad.object.value.search('[year]') > 0) {
+			object = rdf.namedNode(quad.object.value.replace('[year]',year));
+		}
+		
+		return rdf.quad(rdf.namedNode(subject), quad.predicate, object)
+    }
+  """^^code:EcmaScript ).
+
+<filterNotCsvw> a :Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-base#filter>
+ ];
+ code:arguments ( """quad => {
+    if (quad.predicate.value.startsWith('http://www.w3.org/ns/csvw#')) {
+	 return false
+	}
+	if (quad.predicate.value === 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type' && quad.object.value.startsWith('http://www.w3.org/ns/csvw#')) {
+	 return false
+	}
+	return true
+	}"""^^code:EcmaScript ).
+
+<#serialize> a :Step;
+  code:implementedBy
+    [
+      code:link <node:barnard59-formats#ntriples.serialize> ;
+      a code:EcmaScript
+    ].
+
+<#save> a :Step;
+  code:implementedBy
+    [
+      code:link <node:fs#createWriteStream>;
+      a code:EcmaScript
+    ];
+  code:arguments ("${targetDir}/${sourceFile.replace('.csv', '')}.tarif.nt"^^code:EcmaScriptTemplateLiteral).
