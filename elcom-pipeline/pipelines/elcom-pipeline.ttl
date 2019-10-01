@@ -79,7 +79,7 @@ _:common-vars :variable
       code:link <file:../lib/csv#openFromCsvw> ;
       a code:EcmaScript
     ] ;
-  code:arguments ("outputFile"^^:VariableName).
+  code:arguments ("outputFile"^^:VariableName "sourceFile"^^:VariableName).
 
 <#parse> a :Step;
   code:implementedBy
