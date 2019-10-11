@@ -148,7 +148,6 @@ _:common-vars :variable
 			return rdf.quad(quad.subject, quad.predicate, rdf.literal(quad.object.value.replace(/,/g, '.'), rdf.namedNode('http://www.w3.org/2001/XMLSchema#double')));
 		}
 	  }
-
       return quad
     }"""^^code:EcmaScript) .
 
