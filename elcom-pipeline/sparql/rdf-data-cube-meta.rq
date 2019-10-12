@@ -2,7 +2,7 @@ PREFIX qb: <http://purl.org/linked-data/cube#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-CONSTRUCT {
+INSERT {
   	?dataSet qb:structure ?dsd .
   
     ?dsd qb:component ?compSpec .
