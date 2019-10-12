@@ -1,0 +1,56 @@
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+CONSTRUCT {
+  	?dataSet qb:structure ?dsd .
+  
+    ?dsd qb:component ?compSpec .
+  
+    ?compSpec qb:dimension ?dimensionUri ;
+        qb:measure ?measureUri ;
+        qb:attribute ?attributeUri .
+}
+WHERE { 
+    
+    # Get distinct qb:ComponentProperty (the specific ones)
+    {
+        {
+            SELECT DISTINCT ?dataSet ?dimensionUri 
+            WHERE {
+                ?obs a qb:Observation ;
+                    qb:dataSet ?dataSet ;
+                    ?dimensionUri ?dimension .
+        
+                ?dimensionUri a qb:DimensionProperty .       
+            }
+        }
+            UNION
+        {
+
+            SELECT DISTINCT ?dataSet ?measureUri 
+            WHERE {
+                ?obs a qb:Observation ;
+                    qb:dataSet ?dataSet ;
+                    ?measureUri ?measure .
+        
+                ?measureUri a qb:MeasureProperty .       
+            }
+        }   
+            UNION
+        {
+
+            SELECT DISTINCT ?dataSet ?attributeUri 
+            WHERE {
+                ?obs a qb:Observation ;
+                    qb:dataSet ?dataSet ;
+                    ?attributeUri ?attribute .
+        
+                ?attributeUri a qb:AttributeProperty .       
+            }
+        }
+    } # subselect
+    
+    BIND( URI(CONCAT(STR(?dataSet),"/dsd")) AS ?dsd)
+    BIND( URI(CONCAT(STR(?dataSet),"/compSpec")) AS ?compSpec)
+} 
