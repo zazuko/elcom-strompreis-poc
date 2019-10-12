@@ -69,7 +69,7 @@ _:common-vars :variable
 <#TransformCsv> a :Pipeline ;
   :steps
     [
-      :stepList ( <#openCsv> <#parse> <#parseYearFromFilename> <#replaceCommaByDot> <filterNotCsvw> <#serialize> <#save> )
+      :stepList ( <#openCsv> <#parse> <#parseYearFromFilename> <#fixNetzungUrl> <#replaceCommaByDot> <#filterNotCsvw> <#serialize> <#save> )
 
     ] ;
   :variables _:common-vars.
@@ -135,6 +135,23 @@ _:common-vars :variable
     }
   """^^code:EcmaScript ).
   
+  
+<#fixNetzungUrl> a :Step ;
+  code:implementedBy [
+    code:link <node:barnard59-base#map> ;
+    a code:EcmaScript
+  ];
+  code:arguments ( """quad => {
+      const rdf = require('rdf-ext')
+	  
+	  if(quad.predicate.value == "http://elcom.zazuko.com/attribute/netznutzung"){
+		var netz = quad.object.value;
+		
+		return rdf.quad(quad.subject, quad.predicate, rdf.namedNode('http://elcom.zazuko.com/stormnetz/'+encodeURI(netz)));
+	  }
+      return quad
+    }"""^^code:EcmaScript) .
+
 <#replaceCommaByDot> a :Step ;
   code:implementedBy [
     code:link <node:barnard59-base#map> ;
@@ -151,7 +168,7 @@ _:common-vars :variable
       return quad
     }"""^^code:EcmaScript) .
 
-<filterNotCsvw> a :Step;
+<#filterNotCsvw> a :Step;
   code:implementedBy [ a code:EcmaScript;
     code:link <node:barnard59-base#filter>
  ];

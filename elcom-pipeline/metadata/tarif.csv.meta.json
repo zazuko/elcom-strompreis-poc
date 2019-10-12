@@ -47,8 +47,7 @@
 					},
 					{
 						"propertyUrl": "http://elcom.zazuko.com/attribute/netznutzung",
-						"titles": "NetzbetreiberUrl",
-						"valueUrl": "http://elcom.zazuko.com/stormnetz/{NetzbetreiberUrl}"
+						"titles": "Netzbetreiber"
 					},
 					{
 						"propertyUrl": "http://elcom.zazuko.com/attribute/total",
