@@ -8,20 +8,20 @@
 @prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-elcom:dataset a qb:DataSet;
-	rdfs:label "Elcom energy prices"@en;
-    qb:structure elcom:datasetStructure .
+#elcom:dataset a qb:DataSet;
+#	rdfs:label "Elcom energy prices"@en;
+#    qb:structure elcom:datasetStructure .
 
-elcom:datasetStructure a qb:DataStructureDefinition;
-    rdfs:comment "Elcom energy prices"@en;
-    qb:component 
-        [ qb:dimension  elcom-attr:refYear; ],
-        [ qb:dimension  elcom-attr:kategorie; ],
-        [ qb:measure    elcom-attr:netznutzung; ],
-        [ qb:measure    elcom-attr:energie; ] , 
-        [ qb:measure    elcom-attr:abgabe; ] , 
-        [ qb:measure    elcom-attr:kev; ] , 
-        [ qb:measure    elcom-attr:total; ].
+# elcom:datasetStructure a qb:DataStructureDefinition;
+#     rdfs:comment "Elcom energy prices"@en;
+#     qb:component 
+#         [ qb:dimension  elcom-attr:refYear; ],
+#         [ qb:dimension  elcom-attr:kategorie; ],
+#         [ qb:measure    elcom-attr:netznutzung; ],
+#         [ qb:measure    elcom-attr:energie; ] , 
+#         [ qb:measure    elcom-attr:abgabe; ] , 
+#         [ qb:measure    elcom-attr:kev; ] , 
+#         [ qb:measure    elcom-attr:total; ].
 
 elcom-attr:refYear  a rdf:Property, qb:DimensionProperty;
     rdfs:label "reference year"@en;
@@ -63,3 +63,7 @@ elcom-attr:netznutzung  a rdf:Property, qb:MeasureProperty;
     rdfs:label "Netznutzung"@de;
     rdfs:subPropertyOf sdmx-measure:obsValue;
     rdfs:range xsd:decimal . 
+
+elcom-attr:vse  a rdf:Property, qb:AttributeProperty;
+	rdfs:label "VSE"@en;
+    rdfs:label "VSE"@de.
