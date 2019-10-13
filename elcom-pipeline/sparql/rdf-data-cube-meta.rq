@@ -5,9 +5,9 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 INSERT {
   	?dataSet qb:structure ?dsd .
   
-    ?dsd qb:component ?compSpec .
+    ?dsd qb:component ?component .
   
-    ?compSpec qb:dimension ?dimensionUri ;
+    ?component qb:dimension ?dimensionUri ;
         qb:measure ?measureUri ;
         qb:attribute ?attributeUri .
 }
@@ -52,5 +52,5 @@ WHERE {
     } # subselect
     
     BIND( URI(CONCAT(STR(?dataSet),"/dsd")) AS ?dsd)
-    BIND( URI(CONCAT(STR(?dataSet),"/compSpec")) AS ?compSpec)
+    BIND( URI(CONCAT(STR(?dataSet),"/component")) AS ?component)
 } 
