@@ -3,7 +3,9 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 INSERT {
-  	?dataSet qb:structure ?dsd .
+  	?dataSet a qb:DataSet ;
+      rdfs:label ?year ; 
+      qb:structure ?dsd .
   
     ?dsd qb:component ?component .
   
@@ -51,6 +53,10 @@ WHERE {
         }
     } # subselect
     
+    BIND( STRLANG(CONCAT( "Strompreis " ,STRAFTER(STR(?dataSet), "/dataset/")), "de") AS ?year )
+    BIND( STRLANG(CONCAT( "Electricity tariff " ,STRAFTER(STR(?dataSet), "/dataset/")), "en") AS ?year )
+    BIND( STRLANG(CONCAT( "Prix du courant " ,STRAFTER(STR(?dataSet), "/dataset/")), "fr") AS ?year )
+    BIND( STRLANG(CONCAT( "Costo dell'energia elettrica " ,STRAFTER(STR(?dataSet), "/dataset/")), "it") AS ?year )
     BIND( URI(CONCAT(STR(?dataSet),"/dsd")) AS ?dsd)
     BIND( URI(CONCAT(STR(?dataSet),"/component")) AS ?component)
 } 
