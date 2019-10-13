@@ -4,6 +4,7 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 
 _:common-vars :variable
+  [ a :Variable; :name "staticMetadata"; :value "metadata/static.nt" ] ,
   [ a :Variable; :name "targetDir"; :value "target" ] ,
   [ a :Variable; :name "mappingsDir"; :value "metadata" ],
   [ a :Variable; :name "outputFile"; :value "metadata/tarif.csv.meta.json" ],
@@ -28,15 +29,29 @@ _:common-vars :variable
 
 # ------------------------------
 #
+# Static Files
+#
+# ------------------------------
+
+<#readStaticFile> a :Step;
+  code:implementedBy [
+    code:link <node:fs#createReadStream>;
+    a code:EcmaScript
+  ];
+  code:arguments ("staticMetadata"^^:VariableName).
+
+
+# ------------------------------
+#
 # Transform pipeline
 #
 # One-by-one parses and transforms the source csv files to RDF
 #
 # ------------------------------
 
-<#TransformFiles> a :Pipeline, :Readable ;
+<#TransformFiles> a :Pipeline ;
   :steps [
-      :stepList ( <#readDir> <#doTransform> )
+      :stepList ( <#readDir> <#doTransform> <#serialize> <#save> )
     ] ;
   :variables _:common-vars .
 
@@ -66,10 +81,10 @@ _:common-vars :variable
 #
 # ------------------------------
 
-<#TransformCsv> a :Pipeline ;
+<#TransformCsv> a :Pipeline, :ReadableObjectMode ;
   :steps
     [
-      :stepList ( <#openCsv> <#parse> <#parseYearFromFilename> <#fixNetzungUrl> <#replaceCommaByDot> <#filterNotCsvw> <#serialize> <#save> )
+      :stepList ( <#openCsv> <#parse> <#parseYearFromFilename> <#fixNetzungUrl> <#replaceCommaByDot> <#filterNotCsvw>  )
 
     ] ;
   :variables _:common-vars.
@@ -195,4 +210,5 @@ _:common-vars :variable
       code:link <node:fs#createWriteStream>;
       a code:EcmaScript
     ];
-  code:arguments ("${targetDir}/${sourceFile.replace('.csv', '')}.tarif.nt"^^code:EcmaScriptTemplateLiteral).
+  code:arguments ("${targetDir}/everything.nt"^^code:EcmaScriptTemplateLiteral) .
+#  code:arguments ("${targetDir}/${sourceFile.replace('.csv', '')}.tarif.nt"^^code:EcmaScriptTemplateLiteral).
