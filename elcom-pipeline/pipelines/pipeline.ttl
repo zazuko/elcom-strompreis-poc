@@ -1,4 +1,4 @@
-@base <urn:pipeline:elcom-ld> .
+@base <urn:pipeline:cube-ld> .
 @prefix : <https://pipeline.described.at/> .
 @prefix code: <https://code.described.at/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
