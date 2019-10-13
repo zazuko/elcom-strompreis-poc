@@ -197,6 +197,17 @@ _:common-vars :variable
 	return true
 	}"""^^code:EcmaScript ).
 
+<#sparqlInsert> a :Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-tdb#update>
+  ];
+  code:arguments [
+    code:name "queries";
+    code:value (
+      "require('fs').readFileSync('sparql/rdf-data-cube-meta.rq').toString()"^^code:EcmaScript
+    )
+  ].
+
 <#serialize> a :Step;
   code:implementedBy
     [
