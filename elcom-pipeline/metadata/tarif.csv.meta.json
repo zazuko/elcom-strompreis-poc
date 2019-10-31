@@ -66,10 +66,6 @@
 					},
 					{
 						"suppressOutput": true,
-						"titles": "NetzbetreiberUrl"
-					},
-					{
-						"suppressOutput": true,
 						"titles": "ID"
 					},
 					{
