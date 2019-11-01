@@ -16,7 +16,7 @@
 				"titles": "Name"
 			},
 			{
-				"propertyUrl": "https://schema.org/address",
+				"propertyUrl": "https://schema.org/streetAddress",
 				"titles": "Adresse"
 			},
 			{
@@ -25,8 +25,7 @@
 			},
 			{
 				"propertyUrl": "https://schema.org/addressLocality",
-				"titles": "Ort",
-				"valueUrl": "http://classifications.data.admin.ch/municipality/{Ort}"
+				"titles": "Ort"
 			},
 			{
 				"propertyUrl": "https://schema.org/areaServed",
