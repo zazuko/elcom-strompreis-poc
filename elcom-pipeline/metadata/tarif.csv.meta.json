@@ -21,19 +21,29 @@
 						"valueUrl": "http://elcom.zazuko.com/category/{Kategorie}"
 					},
 					{
-						"propertyUrl": "http://elcom.zazuko.com/attribute/fee",
+						"propertyUrl": "http://elcom.zazuko.com/attribute/gridusage",
 						"datatype": "double",
-						"titles": "Abgabe"
+						"titles": "Netznutzung"
 					},
 					{
 						"propertyUrl": "http://elcom.zazuko.com/attribute/energy",
 						"datatype": "double",
 						"titles": "Energie"
-					},
+          },
+					{
+						"propertyUrl": "http://elcom.zazuko.com/attribute/fee",
+						"datatype": "double",
+						"titles": "Abgabe"
+          },
 					{
 						"propertyUrl": "http://elcom.zazuko.com/attribute/kev",
 						"datatype": "double",
 						"titles": "KEV"
+          },
+					{
+						"propertyUrl": "http://elcom.zazuko.com/attribute/total",
+						"datatype": "double",
+						"titles": "Total exkl. MWST"
 					},
 					{
 						"propertyUrl": "http://elcom.zazuko.com/attribute/vse",
@@ -50,16 +60,10 @@
 						"titles": "Netzbetreiber"
 					},
 					{
-						"propertyUrl": "http://elcom.zazuko.com/attribute/total",
-						"datatype": "double",
-						"titles": "Total exkl. MWST"
-					},
-					{
 						"propertyUrl": "http://elcom.zazuko.com/attribute/year",
 						"virtual": true,
 						"valueUrl": "http://example.org/yearDummy"
-					}
-					,
+					},
 					{
 						"suppressOutput": true,
 						"titles": "Kategorie"
@@ -67,14 +71,6 @@
 					{
 						"suppressOutput": true,
 						"titles": "ID"
-					},
-					{
-						"suppressOutput": true,
-						"titles": "Netzbetreiber"
-					},
-					{
-						"suppressOutput": true,
-						"titles": "Netznutzung"
 					}
 				] 
 			}
