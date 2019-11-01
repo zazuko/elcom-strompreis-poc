@@ -9,13 +9,13 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix scale: <http://ns.bergnet.org/cube/scale/> .
 
-elcom-attr:refYear  a rdf:Property, qb:DimensionProperty;
+elcom-attr:year  a rdf:Property, qb:DimensionProperty;
   rdfs:label "reference year"@en;
   rdfs:subPropertyOf sdmx-dimension:refPeriod;
   scale:scaleOfMeasure scale:Temporal;
   rdfs:range xsd:gYear .
 
-elcom-attr:kategorie a rdf:Property, qb:DimensionProperty;
+elcom-attr:category a rdf:Property, qb:DimensionProperty;
 	rdfs:label "Categorie"@en;
   rdfs:label "Kategorie"@de;
   rdfs:subPropertyOf sdmx-measure:obsValue;
@@ -36,22 +36,22 @@ elcom-attr:kev a rdf:Property, qb:MeasureProperty;
   scale:scaleOfMeasure scale:Continuous;
   rdfs:range xsd:decimal .
 
-elcom-attr:abgabe  a rdf:Property, qb:MeasureProperty;
-	rdfs:label "Delivery"@en;
+elcom-attr:fee  a rdf:Property, qb:MeasureProperty;
+	rdfs:label "Fee"@en;
   rdfs:label "Abgabe"@de;
   rdfs:subPropertyOf sdmx-measure:obsValue;
   scale:scaleOfMeasure scale:Continuous;
   rdfs:range xsd:decimal .
 
-elcom-attr:energie  a rdf:Property, qb:MeasureProperty;
+elcom-attr:energy  a rdf:Property, qb:MeasureProperty;
 	rdfs:label "Engergy"@en;
   rdfs:label "Energie"@de;
   rdfs:subPropertyOf sdmx-measure:obsValue;
   scale:scaleOfMeasure scale:Continuous;
   rdfs:range xsd:decimal .
         
-elcom-attr:netznutzung  a rdf:Property, qb:MeasureProperty;
-	rdfs:label "Network usage"@en;
+elcom-attr:gridusage  a rdf:Property, qb:MeasureProperty;
+	rdfs:label "Grid usage"@en;
   rdfs:label "Netznutzung"@de;
   rdfs:subPropertyOf sdmx-measure:obsValue;
   scale:scaleOfMeasure scale:Continuous;
