@@ -7,63 +7,56 @@
 @prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-#elcom:dataset a qb:DataSet;
-#	rdfs:label "Elcom energy prices"@en;
-#    qb:structure elcom:datasetStructure .
-
-# elcom:datasetStructure a qb:DataStructureDefinition;
-#     rdfs:comment "Elcom energy prices"@en;
-#     qb:component 
-#         [ qb:dimension  elcom-attr:refYear; ],
-#         [ qb:dimension  elcom-attr:kategorie; ],
-#         [ qb:measure    elcom-attr:netznutzung; ],
-#         [ qb:measure    elcom-attr:energie; ] , 
-#         [ qb:measure    elcom-attr:abgabe; ] , 
-#         [ qb:measure    elcom-attr:kev; ] , 
-#         [ qb:measure    elcom-attr:total; ].
+@prefix scale: <http://ns.bergnet.org/cube/scale/> .
 
 elcom-attr:refYear  a rdf:Property, qb:DimensionProperty;
-    rdfs:label "reference year"@en;
-    rdfs:subPropertyOf sdmx-dimension:refPeriod;
-    rdfs:range <http://reference.data.gov.uk/def/intervals/Interval> .
+  rdfs:label "reference year"@en;
+  rdfs:subPropertyOf sdmx-dimension:refPeriod;
+  scale:scaleOfMeasure scale:Temporal;
+  rdfs:range xsd:gYear .
 
 elcom-attr:kategorie a rdf:Property, qb:DimensionProperty;
 	rdfs:label "Categorie"@en;
-    rdfs:label "Kategorie"@de;
-    rdfs:subPropertyOf sdmx-measure:obsValue;
-    rdfs:range rdfs:label .
+  rdfs:label "Kategorie"@de;
+  rdfs:subPropertyOf sdmx-measure:obsValue;
+  scale:scaleOfMeasure scale:Nominal;
+  rdfs:range rdfs:label .
     
 elcom-attr:total a rdf:Property, qb:MeasureProperty;
 	rdfs:label "Total excl. VAT"@en;
-    rdfs:label "Total exkl. MWST"@de;
-    rdfs:subPropertyOf sdmx-measure:obsValue;
-    rdfs:range xsd:decimal .
+  rdfs:label "Total exkl. MWST"@de;
+  rdfs:subPropertyOf sdmx-measure:obsValue;
+  scale:scaleOfMeasure scale:Continuous;
+  rdfs:range xsd:decimal .
 
 elcom-attr:kev a rdf:Property, qb:MeasureProperty;
 	rdfs:label "FIT"@en;
-    rdfs:label "KEV"@de;
-    rdfs:subPropertyOf sdmx-measure:obsValue;
-    rdfs:range xsd:decimal .
+  rdfs:label "KEV"@de;
+  rdfs:subPropertyOf sdmx-measure:obsValue;
+  scale:scaleOfMeasure scale:Continuous;
+  rdfs:range xsd:decimal .
 
 elcom-attr:abgabe  a rdf:Property, qb:MeasureProperty;
 	rdfs:label "Delivery"@en;
-    rdfs:label "Abgabe"@de;
-    rdfs:subPropertyOf sdmx-measure:obsValue;
-    rdfs:range xsd:decimal .
+  rdfs:label "Abgabe"@de;
+  rdfs:subPropertyOf sdmx-measure:obsValue;
+  scale:scaleOfMeasure scale:Continuous;
+  rdfs:range xsd:decimal .
 
 elcom-attr:energie  a rdf:Property, qb:MeasureProperty;
 	rdfs:label "Engergy"@en;
-    rdfs:label "Energie"@de;
-    rdfs:subPropertyOf sdmx-measure:obsValue;
-    rdfs:range xsd:decimal .
+  rdfs:label "Energie"@de;
+  rdfs:subPropertyOf sdmx-measure:obsValue;
+  scale:scaleOfMeasure scale:Continuous;
+  rdfs:range xsd:decimal .
         
 elcom-attr:netznutzung  a rdf:Property, qb:MeasureProperty;
 	rdfs:label "Network usage"@en;
-    rdfs:label "Netznutzung"@de;
-    rdfs:subPropertyOf sdmx-measure:obsValue;
-    rdfs:range xsd:decimal . 
+  rdfs:label "Netznutzung"@de;
+  rdfs:subPropertyOf sdmx-measure:obsValue;
+  scale:scaleOfMeasure scale:Continuous;
+  rdfs:range xsd:decimal . 
 
 elcom-attr:vse  a rdf:Property, qb:AttributeProperty;
 	rdfs:label "VSE"@en;
-    rdfs:label "VSE"@de.
+  rdfs:label "VSE"@de.
