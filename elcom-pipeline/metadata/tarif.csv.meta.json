@@ -7,7 +7,7 @@
 				"delimiter": ";"
 	},
 			"tableSchema": {
-				"aboutUrl": "http://elcom.zazuko.com/observation/[year]/[Netzbetreiber]/{Kategorie}",
+				"aboutUrl": "http://elcom.zazuko.com/observation/[year]/§{Netzbetreiber}§/{Kategorie}",
 				"columns": [
 					{
 						"virtual": true,
