@@ -2,5 +2,5 @@
 /.settings
 .classpath
 .project
-/elcom-pipeline/node_modules/
+/node_modules/*
 target/
