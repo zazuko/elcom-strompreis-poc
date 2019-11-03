@@ -6,3 +6,4 @@
 target/
 .DS_Store
 scripts/*
+package-lock.json
