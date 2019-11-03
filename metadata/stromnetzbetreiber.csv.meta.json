@@ -1,11 +1,11 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "../source/Stromnetzbetreiber.csv",
+  "url": "./source/Stromnetzbetreiber.csv",
   "dialect": {
     "delimiter": ";"
   },
   "tableSchema": {
-    "aboutUrl": "http://elcom.zazuko.com/stormnetz/{Name}",
+    "aboutUrl": "http://elcom.zazuko.com/provider/{Name}",
     "columns": [
       {
         "virtual": true,
@@ -35,19 +35,7 @@
       },
       {
         "suppressOutput": true,
-        "titles": "NameUrl"
-      },
-      {
-        "suppressOutput": true,
-        "titles": "gPLZ"
-      },
-      {
-        "suppressOutput": true,
-        "titles": "Adresszusatz"
-      },
-      {
-        "suppressOutput": true,
-        "titles": "Kanton"
+        "titles": "PLZE"
       },
       {
         "suppressOutput": true,
@@ -55,11 +43,7 @@
       },
       {
         "suppressOutput": true,
-        "titles": "Ort"
-      },
-      {
-        "suppressOutput": true,
-        "titles": "Gde-Nr."
+        "titles": "Kanton"
       }
     ]
   }
