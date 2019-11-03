@@ -27,6 +27,32 @@ _:common-vars :variable
 
     ) ] .
 
+
+# ------------------------------
+#
+# Provider pipeline
+#
+# ------------------------------
+
+_:inputFile a p:Variable;
+  p:name "inputFile";
+  p:value "input/UBD0028.Daten_de.csv.gz".
+
+<cube> a p:Pipeline;
+  p:variables [
+    p:variable _:inputFile,
+    [ a p:Variable;
+      p:name "metadataFile";
+      p:value "input/UBD0028.cube.meta.json"
+    ], [ a p:Variable;
+      p:name "outputFile";
+      p:value "output/UBD0028.cube.nt"
+    ]
+  ];
+  p:steps [
+    p:stepList ( <readFile> <decompress> <parse> <filterNotCsvw> <convertDecimal> <serialize> <writeFile> )
+  ].
+
 # ------------------------------
 #
 # Static Files
