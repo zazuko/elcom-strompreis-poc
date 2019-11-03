@@ -1,0 +1,97 @@
+@base <http://elcom.zazuko.com/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+</category/C5>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """500'000 kWh/Jahr: Grosser Betrieb' max. beanspruchte Leistung: 150 kW' Mittelspannung' eigene Transformatorenstation """ .
+
+</category/H3>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """4'500 kWh/Jahr: 4-Zimmerwohnung mit Elektroherd und Elektroboiler """ .
+
+</category/H8>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """7'500 kWh/Jahr: Grosse' hoch elektrifizierte Eigentumswohnung """ .
+
+</category/C3>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """150'000 kWh/Jahr: Mittlerer Betrieb' max. beanspruchte Leistung: 50 kW """ .
+
+</category/H1>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """1'600 kWh/Jahr: 2-Zimmerwohnung mit Elektroherd """ .
+
+</category/H6>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """25'000 kWh/Jahr: 5-Zimmer-Einfamilienhaus mit Elektroherd' Elektroboiler' Tumbler und mit elektrischer Widerstandsheizung """ .
+
+</category/conceptscheme>
+	a skos:ConceptScheme ;
+	skos:hasTopConcept </category/H2> ,
+		</category/C2> ,
+		</category/C5> ,
+		</category/H7> ,
+		</category/C6> ,
+		</category/C3> ,
+		</category/H5> ,
+		</category/C4> ,
+		</category/H3> ,
+		</category/H6> ,
+		</category/H1> ,
+		</category/H4> ,
+		</category/C7> ,
+		</category/C1> ,
+		</category/H8> ;
+	skos:prefLabel "Category concepts" .
+
+</category/C1>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """8'000 kWh/Jahr: Kleinstbetrieb' max. beanspruchte Leistung: 8 kW """ .
+
+</category/C6>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """1'500'000 kWh/Jahr: Grosser Betrieb' max. beanspruchte Leistung: 400 kW' Mittelspannung' eigene Transformatorenstation """ .
+
+</category/H4>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """4'500 kWh/Jahr: 5-Zimmerwohnung mit Elektroherd und Tumbler (ohne Elektroboiler) """ .
+
+</category/C4>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """500'000 kWh/Jahr: Grosser Betrieb ' max. beanspruchte Leistung: 150 kW' Niederspannung """ .
+
+</category/H2>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """2'500 kWh/Jahr: 4-Zimmerwohnung mit Elektroherd """ .
+
+</category/H7>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """13'000 kWh/Jahr: 5-Zimmer-Einfamilienhaus mit Elektroherd' Elektroboiler' Tumbler' W�rmepumpe 5 kW zur Beheizung """ .
+
+</category/C2>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """30'000 kWh/Jahr: Kleinbetrieb' max. beanspruchte Leistung: 15 kW """ .
+
+</category/C7>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """7'500'000 kWh/Jahr: Grosser Betrieb' max. beanspruchte Leistung: 1'630 kW' Mittelspannung' eigene Transformatorenstation """ .
+
+</category/H5>
+	a skos:Concept ;
+	skos:isTopConceptOf </category/conceptscheme> ;
+	skos:prefLabel """7'500 kWh/Jahr: 5-Zimmer-Einfamilienhaus mit Elektroherd' Elektroboiler und Tumbler """ .
+
