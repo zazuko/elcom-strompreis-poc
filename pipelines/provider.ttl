@@ -19,7 +19,7 @@ _:inputFile a p:Variable;
     ]
   ];
   p:steps [
-    p:stepList ( <readFile> <parse> <fixProviderIri> <filterNotCsvw> <convertDecimal> <serialize> <unique> <writeFile> )
+    p:stepList ( <readFile> <parse> <fixProviderIri> <filterNotCsvw> <filterIncompleteUri> <convertDecimal> <serialize> <unique> <writeFile> )
   ].
 
 <readFile> a p:Step;
@@ -66,6 +66,17 @@ _:inputFile a p:Variable;
 	 return false
 	}
 	if (quad.predicate.value === 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type' && quad.object.value.startsWith('http://www.w3.org/ns/csvw#')) {
+	 return false
+	}
+	return true
+	}"""^^code:EcmaScript ).
+
+<filterIncompleteUri> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-base#filter>
+ ];
+ code:arguments ( """quad => {
+    if (quad.predicate.value.startsWith('#')) {
 	 return false
 	}
 	return true

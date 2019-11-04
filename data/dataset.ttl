@@ -9,6 +9,12 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix scale: <http://ns.bergnet.org/cube/scale/> .
 
+<http://elcom.zazuko.com/dataset/electricityTariffs> a qb:DataSet ;
+  rdfs:label "Strompreis"@de ;
+  rdfs:label "Electricity tariff"@en ;
+  rdfs:label "Prix du courant"@fr ;
+  rdfs:label "Costo dell'energia elettrica"@it . 
+
 elcom-attr:year  a rdf:Property, qb:DimensionProperty;
   rdfs:label "reference year"@en;
   rdfs:subPropertyOf sdmx-dimension:refPeriod;

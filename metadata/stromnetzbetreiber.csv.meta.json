@@ -10,14 +10,14 @@
       {
         "virtual": true,
         "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "valueUrl": "https://schema.org/Organization"
+        "valueUrl": "http://schema.org/Organization"
       },
       {
         "propertyUrl": "http://schema.org/name",
         "titles": "Name"
       },
       {
-        "propertyUrl": "https://schema.org/streetAddress",
+        "propertyUrl": "http://schema.org/streetAddress",
         "titles": "Adresse"
       },
       {
@@ -25,15 +25,15 @@
         "titles": "Adresszusatz"
       },
       {
-        "propertyUrl": "https://schema.org/postalCode",
+        "propertyUrl": "http://schema.org/postalCode",
         "titles": "PLZ"
       },
       {
-        "propertyUrl": "https://schema.org/addressLocality",
+        "propertyUrl": "http://schema.org/addressLocality",
         "titles": "Ort"
       },
       {
-        "propertyUrl": "https://schema.org/areaServed",
+        "propertyUrl": "http://schema.org/areaServed",
         "titles": "Gde-Nr.",
         "valueUrl": "https://ld.geo.admin.ch/boundaries/municipality/{Gde-Nr.}"
       },

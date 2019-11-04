@@ -53,10 +53,10 @@ WHERE {
         }
     } # subselect
     
-    BIND( STRLANG(CONCAT( "Strompreis " ,STRAFTER(STR(?dataSet), "/dataset/")), "de") AS ?year )
-    BIND( STRLANG(CONCAT( "Electricity tariff " ,STRAFTER(STR(?dataSet), "/dataset/")), "en") AS ?year )
-    BIND( STRLANG(CONCAT( "Prix du courant " ,STRAFTER(STR(?dataSet), "/dataset/")), "fr") AS ?year )
-    BIND( STRLANG(CONCAT( "Costo dell'energia elettrica " ,STRAFTER(STR(?dataSet), "/dataset/")), "it") AS ?year )
+    #BIND( STRLANG(CONCAT( "Strompreis " ,STRAFTER(STR(?dataSet), "/dataset/")), "de") AS ?year )
+    #BIND( STRLANG(CONCAT( "Electricity tariff " ,STRAFTER(STR(?dataSet), "/dataset/")), "en") AS ?year )
+    #BIND( STRLANG(CONCAT( "Prix du courant " ,STRAFTER(STR(?dataSet), "/dataset/")), "fr") AS ?year )
+    #BIND( STRLANG(CONCAT( "Costo dell'energia elettrica " ,STRAFTER(STR(?dataSet), "/dataset/")), "it") AS ?year )
     BIND( URI(CONCAT(STR(?dataSet),"/dsd")) AS ?dsd)
     BIND( URI(CONCAT(STR(?dataSet),"/component")) AS ?component)
 } 
