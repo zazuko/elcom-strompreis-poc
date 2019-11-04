@@ -5,7 +5,7 @@
 
 _:inputFile a p:Variable;
   p:name "inputFile";
-  p:value "source/Stromnetzbetreiber.csv".
+  p:value "data/stromnetzbetreiber.csv".
 
 <provider> a p:Pipeline;
   p:variables [

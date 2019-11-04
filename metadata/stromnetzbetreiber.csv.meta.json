@@ -1,6 +1,6 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "./source/Stromnetzbetreiber.csv",
+  "url": "./data/stromnetzbetreiber.csv",
   "dialect": {
     "delimiter": ";"
   },
@@ -34,6 +34,11 @@
       },
       {
         "propertyUrl": "https://schema.org/areaServed",
+        "titles": "Gde-Nr.",
+        "valueUrl": "https://ld.geo.admin.ch/boundaries/municipality/{Gde-Nr.}"
+      },
+      {
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
         "titles": "Gde-Nr.",
         "valueUrl": "http://classifications.data.admin.ch/municipality/{Gde-Nr.}"
       },
