@@ -57,7 +57,8 @@
 					},
 					{
 						"propertyUrl": "http://elcom.zazuko.com/attribute/provider",
-						"titles": "Netzbetreiber"
+            "titles": "Netzbetreiber",
+            "valueUrl": "http://elcom.zazuko.com/provider/§{Netzbetreiber}"
 					},
 					{
 						"propertyUrl": "http://elcom.zazuko.com/attribute/year",

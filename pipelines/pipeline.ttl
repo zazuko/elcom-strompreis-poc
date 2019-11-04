@@ -160,9 +160,10 @@ _:common-vars :variable
     const rdf = require('rdf-ext')
 	  
 	  if(quad.predicate.value == 'http://elcom.zazuko.com/attribute/provider'){
-		var provider = quad.object.value;
+    	const iriArray = quad.object.value.split('§')
+		  const provider = iriArray[1]
 		
-		return rdf.quad(quad.subject, quad.predicate, rdf.namedNode('http://elcom.zazuko.com/provider/'+crc32(encodeURI(provider)).toString(16)));
+		  return rdf.quad(quad.subject, quad.predicate, rdf.namedNode('http://elcom.zazuko.com/provider/'+crc32(provider).toString(16)));
 	  }
       return quad
     }"""^^code:EcmaScript) .
