@@ -1,0 +1,117 @@
+@base <urn:pipeline:provider/> .
+@prefix code: <https://code.described.at/> .
+@prefix p: <https://pipeline.described.at/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+_:inputFile a p:Variable;
+  p:name "inputFile";
+  p:value "source/Stromnetzbetreiber.csv".
+
+<provider> a p:Pipeline;
+  p:variables [
+    p:variable _:inputFile,
+    [ a p:Variable;
+      p:name "metadataFile";
+      p:value "metadata/stromnetzbetreiber.csv.meta.json"
+    ], [ a p:Variable;
+      p:name "outputFile";
+      p:value "target/stromnetzbetreiber.nt"
+    ]
+  ];
+  p:steps [
+    p:stepList ( <readFile> <parse> <fixProviderIri> <filterNotCsvw> <convertDecimal> <serialize> <unique> <writeFile> )
+  ].
+
+<readFile> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:fs#createReadStream>
+  ];
+  code:arguments ("inputFile"^^p:VariableName).
+
+<decompress> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:zlib#createGunzip>
+  ].
+
+<parse> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-formats#csvw.parse>
+  ];
+  code:arguments ( <parseMetadata> ).
+
+<fixProviderIri> a p:Step ;
+  code:implementedBy [
+    code:link <node:barnard59-base#map> ;
+    a code:EcmaScript
+  ];
+  code:arguments ( """quad => {
+    const { crc32 } = require('crc');
+    const rdf = require('rdf-ext')
+	  
+	  if(quad.subject.value.includes('§')){
+		const iriArray = quad.subject.value.split('§')
+    const provider = crc32(iriArray[1]).toString(16)
+		
+		return rdf.quad(rdf.namedNode(iriArray[0]+provider), quad.predicate, quad.object);
+	  }
+      return quad
+    }"""^^code:EcmaScript) .
+
+<filterNotCsvw> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-base#filter>
+ ];
+ code:arguments ( """quad => {
+    if (quad.predicate.value.startsWith('http://www.w3.org/ns/csvw#')) {
+	 return false
+	}
+	if (quad.predicate.value === 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type' && quad.object.value.startsWith('http://www.w3.org/ns/csvw#')) {
+	 return false
+	}
+	return true
+	}"""^^code:EcmaScript ).
+
+<convertDecimal> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-base#map>
+ ];
+ code:arguments ( """quad => {
+   const rdf = require('rdf-ext')
+   if (quad.object.datatype && quad.object.datatype.value === 'http://www.w3.org/2001/XMLSchema#decimal') {
+     return rdf.quad(quad.subject, quad.predicate, rdf.literal(quad.object.value.replace(',', '.'), rdf.namedNode('http://www.w3.org/2001/XMLSchema#decimal')))
+   }
+   return quad
+ }"""^^code:EcmaScript ).
+
+<serialize> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-formats#ntriples.serialize>
+  ].
+
+<writeFile> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:fs#createWriteStream>
+  ];
+  code:arguments ("outputFile"^^p:VariableName).
+
+<parseMetadata> a p:Pipeline, p:ReadableObjectMode;
+  p:steps [
+    p:stepList ( <readMetadata> <parseMetadataStep> )
+  ].
+
+<readMetadata> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:fs#createReadStream>
+  ];
+  code:arguments ("metadataFile"^^p:VariableName).
+
+<parseMetadataStep> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-formats#jsonld.parse>
+  ].
+
+<unique>  a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-shell>;
+  ];
+  code:arguments ("sort" "-u").

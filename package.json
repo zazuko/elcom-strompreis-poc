@@ -6,6 +6,7 @@
   "scripts": {
     "test": "standard && jest",
     "start": "mkdir -p target source; barnard59 run --pipeline urn:pipeline:cube-ld#Root --format text/turtle pipelines/pipeline.ttl",
+    "provider": "mkdir -p target source; barnard59 run --pipeline urn:pipeline:provider/provider --format text/turtle pipelines/provider.ttl",
     "pipeline": "npm start -- --pipeline"
   },
   "author": "Zazuko>",
@@ -14,6 +15,7 @@
   "dependencies": {
     "barnard59": "0.0.5",
     "barnard59-formats": "0.0.6",
+    "barnard59-shell": "0.0.1",
     "barnard59-tdb": "git+https://github.com/zazuko/barnard59-tdb.git",
     "crc": "^3.8.0",
     "node-fetch": "^2.6.0",

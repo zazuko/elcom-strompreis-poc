@@ -5,7 +5,7 @@
     "delimiter": ";"
   },
   "tableSchema": {
-    "aboutUrl": "http://elcom.zazuko.com/provider/{Name}",
+    "aboutUrl": "http://elcom.zazuko.com/provider/§{Name}",
     "columns": [
       {
         "virtual": true,
@@ -13,12 +13,16 @@
         "valueUrl": "https://schema.org/Organization"
       },
       {
-        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#label",
+        "propertyUrl": "http://schema.org/name",
         "titles": "Name"
       },
       {
         "propertyUrl": "https://schema.org/streetAddress",
         "titles": "Adresse"
+      },
+      {
+        "suppressOutput": true,
+        "titles": "Adresszusatz"
       },
       {
         "propertyUrl": "https://schema.org/postalCode",
