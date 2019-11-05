@@ -12,12 +12,14 @@ PREFIX geonames: <http://www.geonames.org/ontology#>
 CONSTRUCT {
 	?canton skos:narrower ?munUri .
   
-  ?munUri geonames:population ?population .
+  ?munUri geonames:population ?population ;
+    schema:name ?name .
 }
 WHERE { 
   ?version schema:validUntil "2019-12-31"^^xsd:date ;
     geonames:parentADM1 ?canton ;
-    geonames:population ?population .
+    geonames:population ?population ;
+    schema:name ?name .
     
   ?munUri dct:hasVersion ?version ;
     geonames:featureCode geonames:A.ADM3 .

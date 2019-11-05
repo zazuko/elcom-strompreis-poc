@@ -29,21 +29,21 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 5;AEW Energie AG;10117012345;C5;3,8491;5,422453333;0,9;2,3;12,47155333
 5;AEW Energie AG;10117012345;C6;3,604166667;5,452355556;0,9;2,3;12,25652222
 5;AEW Energie AG;10117012345;C7;3,116106428;5,293718188;0,9;2,3;11,60982462
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;H1;17,07;5,8;0,25;2,3;25,42
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;H2;14,76685714;5,392571429;0,25;2,3;22,70942857
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;H3;10,74603175;5,084761905;0,25;2,3;18,38079365
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;H4;11,52825397;5,378095238;0,25;2,3;19,45634921
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;H5;9,223238095;5,113714286;0,25;2,3;16,88695238
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;H6;6,770971429;4,824114286;0,25;2,3;14,14508571
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;H7;8,377582418;5,177362637;0,25;2,3;16,10494505
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;H8;9,928761905;5,378285714;0,25;2,3;17,85704762
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;C1;10,67;5,7125;0,25;2,3;18,9325
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;C2;8,996266667;5,7036;0,25;2,3;17,24986667
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;C3;9,38;4,697333333;0,25;2,3;16,62733333
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;C4;8,855;4,6054;0,25;2,3;16,0104
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;C5;8,6742;4,3332;0,25;2,3;15,5574
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;C6;8,4244;4,3824;0,25;2,3;15,3568
-6;AG Elektrizit‰tswerk Maienfeld;10256012345;C7;7,70754175;4,265859137;0,25;2,3;14,52340089
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;H1;17,07;5,8;0,25;2,3;25,42
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;H2;14,76685714;5,392571429;0,25;2,3;22,70942857
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;H3;10,74603175;5,084761905;0,25;2,3;18,38079365
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;H4;11,52825397;5,378095238;0,25;2,3;19,45634921
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;H5;9,223238095;5,113714286;0,25;2,3;16,88695238
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;H6;6,770971429;4,824114286;0,25;2,3;14,14508571
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;H7;8,377582418;5,177362637;0,25;2,3;16,10494505
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;H8;9,928761905;5,378285714;0,25;2,3;17,85704762
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;C1;10,67;5,7125;0,25;2,3;18,9325
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;C2;8,996266667;5,7036;0,25;2,3;17,24986667
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;C3;9,38;4,697333333;0,25;2,3;16,62733333
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;C4;8,855;4,6054;0,25;2,3;16,0104
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;C5;8,6742;4,3332;0,25;2,3;15,5574
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;C6;8,4244;4,3824;0,25;2,3;15,3568
+6;AG Elektrizit√§tswerk Maienfeld;10256012345;C7;7,70754175;4,265859137;0,25;2,3;14,52340089
 8;AMS Aziende Municipalizzate Stabio;10015012345;H1;13,89;5,63;2,15;2,3;23,97
 8;AMS Aziende Municipalizzate Stabio;10015012345;H2;11,73;5,63;2,15;2,3;21,81
 8;AMS Aziende Municipalizzate Stabio;10015012345;H3;8,249460317;5,63;2,15;2,3;18,32946032
@@ -350,21 +350,21 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 141;Elektra Hatswil;10814012345;C3;6,557333333;5,2;0,2;2,3;14,25733333
 141;Elektra Hatswil;10814012345;C5;4,613533333;5,5;0,05;2,3;12,46353333
 141;Elektra Hatswil;10814012345;C6;4,434444444;4,65;0,05;2,3;11,43444444
-142;Elektra H‰uslenen;10197012345;H1;13,6672619;5,686160714;0;2,3;21,65342262
-142;Elektra H‰uslenen;10197012345;H2;10,928;5,666285714;0;2,3;18,89428571
-142;Elektra H‰uslenen;10197012345;H3;8,16;5,325714286;0;2,3;15,78571429
-142;Elektra H‰uslenen;10197012345;H4;8,863746032;5,703714286;0;2,3;16,86746032
-142;Elektra H‰uslenen;10197012345;H5;7,203104762;5,3848;0;2,3;14,88790476
-142;Elektra H‰uslenen;10197012345;H6;5,450931429;5,04544;0;2,3;12,79637143
-142;Elektra H‰uslenen;10197012345;H7;6,758714286;5,509527473;0;2,3;14,56824176
-142;Elektra H‰uslenen;10197012345;H8;7,797214286;5,703785714;0;2,3;15,801
-142;Elektra H‰uslenen;10197012345;C1;8,7553125;6,2575;0;2,3;17,3128125
-142;Elektra H‰uslenen;10197012345;C2;7,591066667;6,22205;0;2,3;16,11311667
-142;Elektra H‰uslenen;10197012345;C3;8,276666667;5,792;0;2,3;16,36866667
-142;Elektra H‰uslenen;10197012345;C4;7,611833333;5,584033333;0;2,3;15,49586667
-142;Elektra H‰uslenen;10197012345;C5;6,401433333;4,87;0;2,3;13,57143333
-142;Elektra H‰uslenen;10197012345;C6;5,886888889;4,87;0;2,3;13,05688889
-142;Elektra H‰uslenen;10197012345;C7;5,104577818;4,87;0;2,3;12,27457782
+142;Elektra H√§uslenen;10197012345;H1;13,6672619;5,686160714;0;2,3;21,65342262
+142;Elektra H√§uslenen;10197012345;H2;10,928;5,666285714;0;2,3;18,89428571
+142;Elektra H√§uslenen;10197012345;H3;8,16;5,325714286;0;2,3;15,78571429
+142;Elektra H√§uslenen;10197012345;H4;8,863746032;5,703714286;0;2,3;16,86746032
+142;Elektra H√§uslenen;10197012345;H5;7,203104762;5,3848;0;2,3;14,88790476
+142;Elektra H√§uslenen;10197012345;H6;5,450931429;5,04544;0;2,3;12,79637143
+142;Elektra H√§uslenen;10197012345;H7;6,758714286;5,509527473;0;2,3;14,56824176
+142;Elektra H√§uslenen;10197012345;H8;7,797214286;5,703785714;0;2,3;15,801
+142;Elektra H√§uslenen;10197012345;C1;8,7553125;6,2575;0;2,3;17,3128125
+142;Elektra H√§uslenen;10197012345;C2;7,591066667;6,22205;0;2,3;16,11311667
+142;Elektra H√§uslenen;10197012345;C3;8,276666667;5,792;0;2,3;16,36866667
+142;Elektra H√§uslenen;10197012345;C4;7,611833333;5,584033333;0;2,3;15,49586667
+142;Elektra H√§uslenen;10197012345;C5;6,401433333;4,87;0;2,3;13,57143333
+142;Elektra H√§uslenen;10197012345;C6;5,886888889;4,87;0;2,3;13,05688889
+142;Elektra H√§uslenen;10197012345;C7;5,104577818;4,87;0;2,3;12,27457782
 147;Elektra Itingen;10226012345;H1;11,335625;9,92578125;0;2,3;23,56140625
 147;Elektra Itingen;10226012345;H2;9,605142857;9,334142857;0;2,3;21,23928571
 147;Elektra Itingen;10226012345;H3;7,256190476;8,407857143;0;2,3;17,96404762
@@ -474,17 +474,17 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 234;Elektra Wuppenau;108940570012345;C5;7,356;4,28;0;2,3;13,936
 234;Elektra Wuppenau;108940570012345;C6;7,332;4,426666667;0;2,3;14,05866667
 234;Elektra Wuppenau;108940570012345;C7;7,3224;4,485333333;0;2,3;14,10773333
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;H1;11,93428571;9,514285714;0;2,3;23,74857143
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;H2;10,30742857;7,887428571;0;2,3;20,49485714
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;H3;8,313015873;5,893015873;0;2,3;16,50603175
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;H4;9,106730159;6,686730159;0;2,3;18,09346032
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;H5;7,80232381;5,38232381;0;2,3;15,48464762
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;H6;6,414697143;3,906725714;0;2,3;12,62142286
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;H7;7,639142857;4,86232967;0;2,3;14,80147253
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;H8;8,489238095;6,069238095;0;2,3;16,85847619
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;C1;9,7325;7,3125;0;2,3;19,345
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;C2;8,824733333;5,655733333;0;2,3;16,78046667
-205;Elektragenossenschaft Br¸schwil Sonnenberg;10830012345;C3;8,665666667;5,472333333;0;2,3;16,438
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;H1;11,93428571;9,514285714;0;2,3;23,74857143
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;H2;10,30742857;7,887428571;0;2,3;20,49485714
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;H3;8,313015873;5,893015873;0;2,3;16,50603175
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;H4;9,106730159;6,686730159;0;2,3;18,09346032
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;H5;7,80232381;5,38232381;0;2,3;15,48464762
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;H6;6,414697143;3,906725714;0;2,3;12,62142286
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;H7;7,639142857;4,86232967;0;2,3;14,80147253
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;H8;8,489238095;6,069238095;0;2,3;16,85847619
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;C1;9,7325;7,3125;0;2,3;19,345
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;C2;8,824733333;5,655733333;0;2,3;16,78046667
+205;Elektragenossenschaft Br√ºschwil Sonnenberg;10830012345;C3;8,665666667;5,472333333;0;2,3;16,438
 209;Elektra-Genossenschaft Hefenhofen;10664012345;H1;16,27907738;5,6;0;2,3;24,17907738
 209;Elektra-Genossenschaft Hefenhofen;10664012345;H2;13,49142857;5,6;0;2,3;21,39142857
 209;Elektra-Genossenschaft Hefenhofen;10664012345;H3;10,30412698;5,6;0;2,3;18,20412698
@@ -508,572 +508,572 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 91;Elektragenossenschaft Mellikon;10964012345;C2;8,965;5,8482;0;2,3;17,1132
 91;Elektragenossenschaft Mellikon;10964012345;C3;7,066666667;4,796;0;2,3;14,16266667
 91;Elektragenossenschaft Mellikon;10964012345;C4;6,572333333;4,6838;0;2,3;13,55613333
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;H1;13,95683036;4,619717262;0;2,3;20,87654762
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;H2;12,13535714;4,554857143;0;2,3;18,99021429
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;H3;9,954603175;3,774920635;0;2,3;16,02952381
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;H4;10,78586508;4,59068254;0;2,3;17,67654762
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;H5;7,955847619;3,303209524;0;2,3;13,55905714
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;H6;5,025754286;1,970962857;0;2,3;9,296717143
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;H7;8,316953297;3,356813187;0;2,3;13,97376648
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;H8;10,08727381;4,59097619;0;2,3;16,97825
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;C1;11,104375;5,6328125;0;2,3;19,0371875
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;C2;10,616;4,9964;0;2,3;17,9124
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;C3;10,528;3,578666667;0;2,3;16,40666667
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;C4;9,8024;3,032466667;0;2,3;15,13486667
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;C5;5,718066667;2,673;0;2,3;10,69106667
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;C6;5,440111111;2,711666667;0;2,3;10,45177778
-268;Elektrizit‰tsgenossenschaft Otelfingen;10285012345;C7;5,009981665;2,50653214;0;2,3;9,816513806
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;H1;14,44083333;5,420044643;0,42;2,3;22,58087798
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;H2;11,88857143;5,370514286;0,42;2,3;19,97908571
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;H3;8,746984127;4,887619048;0,42;2,3;16,35460317
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;H4;9,963619048;5,365222222;0,42;2,3;18,04884127
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;H5;7,928457143;4,937466667;0,42;2,3;15,58592381
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;H6;5,752537143;4,67332;0,42;2,3;13,14585714
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;H7;7,624769231;5,187989011;0,42;2,3;15,53275824
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;H8;9,004238095;5,365614286;0,42;2,3;17,08985238
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;C1;10,224375;5,8328125;0,42;2,3;18,7771875
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;C2;9,159733333;5,84475;0,42;2,3;17,72448333
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;C3;8,993333333;5,193333333;0,42;2,3;16,90666667
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;C4;8,249833333;4,999333333;0,42;2,3;15,96916667
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;C5;6,325633333;4,999333333;0,42;2,3;14,04496667
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;C6;5,956888889;5,081855556;0,42;2,3;13,75874444
-275;Elektrizit‰ts-Genossenschaft Siggenthal;10304012345;C7;5,202655988;4,815501073;0,42;2,3;12,73815706
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H1;14,54135417;5,034449405;0,4;2,3;22,27580357
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H2;11,78;5,001142857;0,4;2,3;19,48114286
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H3;8,908888889;4,600634921;0,4;2,3;16,20952381
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H4;9,685555556;5,019539683;0,4;2,3;17,40509524
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H5;7,946333333;4,657152381;0,4;2,3;15,30348571
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H6;6,2039;4,267145714;0,4;2,3;13,17104571
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H7;7,638076923;4,777945055;0,4;2,3;15,11602198
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H8;8,614166667;5,019690476;0,4;2,3;16,33385714
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C1;9,4996875;5,5546875;0,4;2,3;17,754375
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C2;8,3415;5,5231;0,4;2,3;16,5646
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C3;8,145333333;4,728;0,4;2,3;15,57333333
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C4;7,579266667;4,5784;0,4;2,3;14,85766667
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C5;7,579266667;4,5784;0,4;2,3;14,85766667
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C6;7,268777778;4,609333333;0,4;2,3;14,57811111
-280;Elektrizit‰tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C7;6,607794522;4,445225712;0,4;2,3;13,75302023
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;H1;18,375;5,3;0,95;2,3;26,925
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;H2;14,4984;5,258;0,95;2,3;23,0064
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;H3;10,68577778;4,898888889;0,95;2,3;18,83466667
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;H4;11,47288889;5,241111111;0,95;2,3;19,964
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;H5;9,270133333;4,932666667;0,95;2,3;17,4528
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;H6;6,92504;4,5948;0,95;2,3;14,76984
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;H7;8,493230769;5,006923077;0,95;2,3;16,75015385
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;H8;9,980066667;5,241333333;0,95;2,3;18,4714
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;C1;10,121625;5,36375;0,95;2,3;18,735375
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;C2;8,526233333;5,339666667;0,95;2,3;17,1159
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;C3;8,132666667;5,363333333;0,95;2,3;16,746
-281;Elektrizit‰tsgenossenschaft Zeneggen;10811012345;C4;7,6924;5,206;0,95;2,3;16,1484
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;H1;18,57368304;5,124933036;0,47;2,3;26,46861607
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;H2;15,22377143;5,103371429;0,47;2,3;23,09714286
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;H3;11,34209524;4,844095238;0,47;2,3;18,95619048
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;H4;12,72448095;5,115280952;0,47;2,3;20,6097619
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;H5;10,24860286;4,880682857;0,47;2,3;17,89928571
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;H6;7,617580857;4,628204857;0,47;2,3;15,01578571
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;H7;9,834910989;4,95888022;0,47;2,3;17,56379121
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;H8;11,44497857;5,115378571;0,47;2,3;19,33035714
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;C1;13,09046875;5,46171875;0,47;2,3;21,3221875
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;C2;11,66623;5,44127;0,47;2,3;19,8775
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;C3;10,27066667;5,463083333;0,47;2,3;18,50375
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;C4;9,428033333;5,357066667;0,47;2,3;17,5551
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;C5;6,6711;5,363616667;0,47;2,3;14,80471667
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;C6;6,298166667;5,331169444;0,47;2,3;14,39933611
-286;Elektrizit‰tsversorgung Altendorf AG;10433012345;C7;5,648972498;5,155552319;0,47;2,3;13,57452482
-290;Elektrizit‰tsversorgung Benken;10515012345;H1;8,72;4,85;0,5;2,3;16,37
-290;Elektrizit‰tsversorgung Benken;10515012345;H2;7,37;4,85;0,5;2,3;15,02
-290;Elektrizit‰tsversorgung Benken;10515012345;H3;6,303333333;4,85;0,5;2,3;13,95333333
-290;Elektrizit‰tsversorgung Benken;10515012345;H4;6,303333333;4,85;0,5;2,3;13,95333333
-290;Elektrizit‰tsversorgung Benken;10515012345;H5;5,77;4,85;0,5;2,3;13,42
-290;Elektrizit‰tsversorgung Benken;10515012345;H6;5,21;4,85;0,5;2,3;12,86
-290;Elektrizit‰tsversorgung Benken;10515012345;H7;5,431538462;4,85;0,5;2,3;13,08153846
-290;Elektrizit‰tsversorgung Benken;10515012345;H8;5,77;4,85;0,5;2,3;13,42
-290;Elektrizit‰tsversorgung Benken;10515012345;C1;5,72;4,85;0,5;2,3;13,37
-290;Elektrizit‰tsversorgung Benken;10515012345;C2;5,17;4,85;0,5;2,3;12,82
-290;Elektrizit‰tsversorgung Benken;10515012345;C3;5,01;4,85;0,5;2,3;12,66
-290;Elektrizit‰tsversorgung Benken;10515012345;C4;4,982;4,85;0,5;2,3;12,632
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;H1;12,31181548;4,491815476;0,26;2,3;19,36363095
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;H2;9,594285714;4,474285714;0,26;2,3;16,62857143
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;H3;7,25015873;4,263492063;0,26;2,3;14,07365079
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;H4;7,470634921;4,483968254;0,26;2,3;14,51460317
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;H5;6,213238095;4,293238095;0,26;2,3;13,06647619
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;H6;4,887971429;4,087971429;0,26;2,3;11,53594286
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;H7;5,59989011;4,356813187;0,26;2,3;12,5167033
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;H8;6,404047619;4,484047619;0,26;2,3;13,44809524
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;C1;6,585625;4,765625;0,26;2,3;13,91125
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;C2;11,9392;4,65;0,26;2,3;19,1492
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;C3;7,841333333;4,25;0,26;2,3;14,65133333
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;C4;6,986066667;4,25;0,26;2,3;13,79606667
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;C5;5,112;4,25;0,26;2,3;11,922
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;C6;4,624;4,25;0,26;2,3;11,434
-305;Elektrizit‰tsversorgung Diessenhofen;10149012345;C7;3,98816;4,25;0,26;2,3;10,79816
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;H1;11,21255952;5,369791667;0,2;2,3;19,08235119
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;H2;8,895428571;5,34;0,2;2,3;16,73542857
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;H3;6,63968254;4,744444444;0,2;2,3;13,88412698
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;H4;7,126666667;5,4;0,2;2,3;15,02666667
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;H5;5,807714286;4,845;0,2;2,3;13,15271429
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;H6;4,416314286;4,2535;0,2;2,3;11,16981429
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;H7;5,388186813;5,054807692;0,2;2,3;12,94299451
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;H8;6,220103175;5,400138889;0,2;2,3;14,12024206
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;C1;7,0084375;6,57578125;0,2;2,3;16,08421875
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;C2;6,036766667;6,526416667;0,2;2,3;15,06318333
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;C3;6,316;4,569333333;0,2;2,3;13,38533333
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;C4;5,956;4,371;0,2;2,3;12,827
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;C5;5,29;4,464;0,2;2,3;12,254
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;C6;5,002111111;4,385911111;0,2;2,3;11,88802222
-326;Elektrizit‰tsversorgung Mˆrschwil;10051012345;C7;4,49432617;4,041553276;0,2;2,3;11,03587945
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;H1;12,52;6,3;2;2,3;23,12
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;H2;10,7808;6,1696;2;2,3;21,2504
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;H3;7,820444444;5,649777778;2;2,3;17,77022222
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;H4;9,050444444;6,159777778;2;2,3;19,51022222
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;H5;7,102866667;5,706066667;2;2,3;17,10893333
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;H6;5,01486;5,21182;2;2,3;14,52668
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;H7;6,237846154;5,520307692;2;2,3;16,05815385
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;H8;8,197794444;6,160061111;2;2,3;18,65785556
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;C1;8,710614583;6,405864583;2;2,3;19,41647917
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;C2;9,483272222;5,762066667;1,6;2,3;19,14533889
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;C3;6,433777778;5,627222222;1,6;2,3;15,961
-331;Elektrizit‰tsversorgung Oberdiessbach;10321012345;C4;5,667066667;5,481833333;1,6;2,3;15,0489
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;H1;14,48220238;5,745758929;0,9;2,3;23,42796131
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;H2;11,61485714;5,731714286;0,9;2,3;20,54657143
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;H3;8,728253968;5,450952381;0,9;2,3;17,37920635
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;H4;9,44;5,76;0,9;2,3;18,4
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;H5;7,712;5,496;0,9;2,3;16,408
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;H6;5,8976;5,2188;0,9;2,3;14,3164
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;H7;7,234450549;5,597266484;0,9;2,3;16,03171703
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;H8;8,320150794;5,760065476;0,9;2,3;17,28021627
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;C1;9,4915625;6,314296875;0,9;2,3;19,00585938
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;C2;8,282966667;6,291025;0,9;2,3;17,77399167
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;C3;6,636;4,730833333;0,9;2,3;14,56683333
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;C4;6,012;4,65095;0,9;2,3;13,86295
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;C5;4,113;4,65095;0,9;2,3;11,96395
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;C6;3,828633333;4,577772222;0,9;2,3;11,60640556
-332;Elektrizit‰tsversorgung Oberriet (SG);10395012345;C7;3,452377851;4,45412617;0,9;2,3;11,10650402
-343;Elektrizit‰tsversorgung Schlatt;10617012345;H1;14,53971726;5,75;0;2,3;22,58971726
-343;Elektrizit‰tsversorgung Schlatt;10617012345;H2;11,23485714;5,75;0;2,3;19,28485714
-343;Elektrizit‰tsversorgung Schlatt;10617012345;H3;7,894920635;5,75;0;2,3;15,94492063
-343;Elektrizit‰tsversorgung Schlatt;10617012345;H4;8,71068254;5,75;0;2,3;16,76068254
-343;Elektrizit‰tsversorgung Schlatt;10617012345;H5;6,724980952;5,75;0;2,3;14,77498095
-343;Elektrizit‰tsversorgung Schlatt;10617012345;H6;4,621494286;5,75;0;2,3;12,67149429
-343;Elektrizit‰tsversorgung Schlatt;10617012345;H7;6,147901099;5,75;0;2,3;14,1979011
-343;Elektrizit‰tsversorgung Schlatt;10617012345;H8;7,43097619;5,75;0;2,3;15,48097619
-343;Elektrizit‰tsversorgung Schlatt;10617012345;C1;8,3528125;5,75;0;2,3;16,4028125
-343;Elektrizit‰tsversorgung Schlatt;10617012345;C2;6,9713;5,75;0;2,3;15,0213
-343;Elektrizit‰tsversorgung Schlatt;10617012345;C3;7,066666667;5,75;0;2,3;15,11666667
-343;Elektrizit‰tsversorgung Schlatt;10617012345;C4;5,205366667;5,75;0;2,3;13,25536667
-343;Elektrizit‰tsversorgung Schlatt;10617012345;C5;4,452333333;5,75;0;2,3;12,50233333
-343;Elektrizit‰tsversorgung Schlatt;10617012345;C6;3,993222222;5,75;0;2,3;12,04322222
-343;Elektrizit‰tsversorgung Schlatt;10617012345;C7;3,433644047;5,75;0;2,3;11,48364405
-350;Elektrizit‰tsversorgung Steinach;10224012345;H1;13,41583333;5,791517857;1,5;2,3;23,00735119
-350;Elektrizit‰tsversorgung Steinach;10224012345;H2;10,962;5,763428571;1,5;2,3;20,52542857
-350;Elektrizit‰tsversorgung Steinach;10224012345;H3;8,565555556;5,201904762;1,5;2,3;17,56746032
-350;Elektrizit‰tsversorgung Steinach;10224012345;H4;9,09;5,82;1,5;2,3;18,71
-350;Elektrizit‰tsversorgung Steinach;10224012345;H5;7,686;5,296714286;1,5;2,3;16,78271429
-350;Elektrizit‰tsversorgung Steinach;10224012345;H6;6,2048;4,739014286;1,5;2,3;14,74381429
-350;Elektrizit‰tsversorgung Steinach;10224012345;H7;7,244615385;5,494532967;1,5;2,3;16,53914835
-350;Elektrizit‰tsversorgung Steinach;10224012345;H8;8,130111111;5,820130952;1,5;2,3;17,75024206
-350;Elektrizit‰tsversorgung Steinach;10224012345;C1;12,36953125;6,92859375;1,5;2,3;23,098125
-350;Elektrizit‰tsversorgung Steinach;10224012345;C2;9,87895;6,853416667;1,5;2,3;20,53236667
-350;Elektrizit‰tsversorgung Steinach;10224012345;C3;9,266;5,918666667;1,5;2,3;18,98466667
-350;Elektrizit‰tsversorgung Steinach;10224012345;C4;9,267;5,697;1,5;2,3;18,764
-350;Elektrizit‰tsversorgung Steinach;10224012345;C5;3,707;5,697;0,65;2,3;12,354
-350;Elektrizit‰tsversorgung Steinach;10224012345;C6;3,80295;5,644011111;0,65;2,3;12,39696111
-350;Elektrizit‰tsversorgung Steinach;10224012345;C7;3,356886776;5,410339723;0,65;2,3;11,7172265
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;H1;18,82;7,1;0;2,3;28,22
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;H2;20,92;4,9256;0;2,3;28,1456
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;H3;16,74222222;4,558666667;0;2,3;23,60088889
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;H4;17,49222222;4,918666667;0;2,3;24,71088889
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;H5;14,63653333;4,5966;0;2,3;21,53313333
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;H6;12,38296;4,24898;0;2,3;18,93194
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;H7;14,82876923;4,608038462;0;2,3;21,73680769
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;H8;15,78597222;4,918866667;0;2,3;23,00483889
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;C1;15,98744792;5,092375;0;2,3;23,37982292
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;C2;14,16430556;5,062066667;0;2,3;21,52637222
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;C3;13,71605556;5,092666667;0;2,3;21,10872222
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;C4;13,26298333;4,9182;0;2,3;20,48118333
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;C5;5,585166667;4,9182;0;2,3;12,80336667
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;C6;5,1894;5,0588;0;2,3;12,5482
-357;Elektrizit‰tsversorgung Ursenbach;10192012345;C7;4,650288292;4,903809753;0;2,3;11,85409805
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;H1;13,62;8,8;0;2,3;24,72
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;H2;11,0392;8,332;0;2,3;21,6712
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;H3;8,719555556;7,873333333;0;2,3;18,89288889
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;H4;9,739555556;8,323333333;0;2,3;20,36288889
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;H5;8,192133333;7,923;0;2,3;18,41513333
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;H6;6,53164;7,4869;0;2,3;16,31854
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;H7;8,377192308;8,028653846;0;2,3;18,70584615
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;H8;9,100122222;8,323583333;0;2,3;19,72370556
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;C1;9,531729167;8,54046875;0;2,3;20,37219792
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;C2;8,084305556;8,502583333;0;2,3;18,88688889
-363;Elektrizit‰tsverwaltung Kallnach;10412012345;C3;7,528055556;8,540833333;0;2,3;18,36888889
-366;Elektrizit‰tswerk Altdorf AG;10031012345;H1;15,97;7,705;1,64;2,3;27,615
-366;Elektrizit‰tswerk Altdorf AG;10031012345;H2;13,6;7,6504;1,4;2,3;24,9504
-366;Elektrizit‰tswerk Altdorf AG;10031012345;H3;10,09777778;7,183555556;1,04;2,3;20,62133333
-366;Elektrizit‰tswerk Altdorf AG;10031012345;H4;11,80888889;7,628444444;1,22;2,3;22,95733333
-366;Elektrizit‰tswerk Altdorf AG;10031012345;H5;9,413333333;7,227466667;1;2,3;19,9408
-366;Elektrizit‰tswerk Altdorf AG;10031012345;H6;6,06724;6,05192;1;2,3;15,41916
-366;Elektrizit‰tswerk Altdorf AG;10031012345;H7;8,475230769;6,933692308;1;2,3;18,70892308
-366;Elektrizit‰tswerk Altdorf AG;10031012345;H8;10,95666667;7,628733333;1,13;2,3;22,0154
-366;Elektrizit‰tswerk Altdorf AG;10031012345;C1;11,48875;7,787875;1,18;2,3;22,756625
-366;Elektrizit‰tswerk Altdorf AG;10031012345;C2;11,009;6,759333333;1,13;2,3;21,19833333
-366;Elektrizit‰tswerk Altdorf AG;10031012345;C3;8,691666667;5,389333333;0,9;2,3;17,281
-366;Elektrizit‰tswerk Altdorf AG;10031012345;C4;8,089416667;4,7541;0,75;2,3;15,89351667
-366;Elektrizit‰tswerk Altdorf AG;10031012345;C5;6,3316;4,7541;0,59;2,3;13,9757
-366;Elektrizit‰tswerk Altdorf AG;10031012345;C6;6,378;4,928;0,59;2,3;14,196
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;H1;12,99585565;6,5;0;2,3;21,79585565
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;H2;10,64914286;6,5;0;2,3;19,44914286
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;H3;8,213968254;6,5;0;2,3;17,01396825
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;H4;8,864373016;6,5;0;2,3;17,66437302
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;H5;7,395052381;6,5;0;2,3;16,19505238
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;H6;6,096;6,5;0;2,3;14,896
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;H7;6,627692308;6,5;0;2,3;15,42769231
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;H8;7,957940476;6,5;0;2,3;16,75794048
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;C1;7,2684375;6,5;0;2,3;16,0684375
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;C2;5,2635;6,5;0;2,3;14,0635
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;C3;4,928;6,5;0;2,3;13,728
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;C4;4,2679;6,5;0;2,3;13,0679
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;C5;5,359633333;6,5;0;2,3;14,15963333
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;C6;4,764388889;6,5;0;2,3;13,56438889
-375;Elektrizit‰tswerk der Einheitsgemeinde Salenstein;10564012345;C7;3,977097261;6,5;0;2,3;12,77709726
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;H1;11,62576637;5,45;0,7;2,3;20,07576637
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;H2;9,640571429;5,45;0,7;2,3;18,09057143
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;H3;7,609206349;5,45;0,7;2,3;16,05920635
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;H4;8,127325397;5,45;0,7;2,3;16,5773254
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;H5;6,911109524;5,45;0,7;2,3;15,36110952
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;H6;5,622332857;5,45;0,7;2,3;14,07233286
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;H7;6,573126374;5,45;0,7;2,3;15,02312637
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;H8;7,359511905;5,45;0,7;2,3;15,8095119
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;C1;7,94921875;5,45;0,7;2,3;16,39921875
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;C2;8,8688;5,45;0,7;2,3;17,3188
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;C3;6,978;5,45;0,7;2,3;15,428
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;C4;6,4524;5,45;0,7;2,3;14,9024
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;C5;5,298066667;5,45;0,7;2,3;13,74806667
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;C6;4,900111111;5,45;0,7;2,3;13,35011111
-383;Elektrizit‰tswerk der Gemeinde G¸ttingen;10834012345;C7;4,292381665;5,45;0,7;2,3;12,74238167
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;H1;16,72334821;4,8;0;2,3;23,82334821
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;H2;13,11342857;4,8;0;2,3;20,21342857
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;H3;9,138571429;4,8;0;2,3;16,23857143
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;H4;10,39528571;4,8;0;2,3;17,49528571
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;H5;7,921457143;4,8;0;2,3;15,02145714
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;H6;5,295437143;4,8;0;2,3;12,39543714
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;H7;7,403835165;4,8;0;2,3;14,50383516
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;H8;9,009071429;4,8;0;2,3;16,10907143
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;C1;10,4840625;4,8;0;2,3;17,5840625
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;C2;9,8907;4,8;0;2,3;16,9907
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;C3;8,475333333;4,8;0;2,3;15,57533333
-385;Elektrizit‰tswerk der Gemeinde Hohentannen;10749012345;C4;7,643266667;4,8;0;2,3;14,74326667
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;H1;12,87;6,05;0;2,3;21,22
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;H2;10,44;6,05;0;2,3;18,79
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;H3;8,52;6,05;0;2,3;16,87
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;H4;8,52;6,05;0;2,3;16,87
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;H5;7,56;6,05;0;2,3;15,91
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;H6;6,552;6,05;0;2,3;14,902
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;H7;6,950769231;6,05;0;2,3;15,30076923
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;H8;7,56;6,05;0;2,3;15,91
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;C1;7,47;6,05;0;2,3;15,82
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;C2;6,48;6,05;0;2,3;14,83
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;C3;8,033333333;7,364666667;0;2,3;17,698
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;C4;7,400666667;7,152733333;0;2,3;16,8534
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;C5;6,537533333;7,052733333;0;2,3;15,89026667
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;C6;6,129888889;7,096555556;0;2,3;15,52644444
-386;Elektrizit‰tswerk der Gemeinde H¸ttwilen;10908012345;C7;5,437856903;6,864069759;0;2,3;14,60192666
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;H1;14,96654018;4,95;0;2,3;22,21654018
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;H2;11,78685714;4,95;0;2,3;19,03685714
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;H3;8,89047619;4,95;0;2,3;16,14047619
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;H4;9,320404762;4,95;0;2,3;16,57040476
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;H5;7,705814286;4,95;0;2,3;14,95581429
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;H6;6,000744286;4,95;0;2,3;13,25074429
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;H7;7,04117033;4,95;0;2,3;14,29117033
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;H8;8,077892857;4,95;0;2,3;15,32789286
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;C1;8,51046875;4,95;0;2,3;15,76046875
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;C2;7,19655;4,95;0;2,3;14,44655
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;C3;6,8712;4,95;0;2,3;14,1212
-387;Elektrizit‰tswerk der Gemeinde Langrickenbach;10425012345;C4;6,56286;4,95;0;2,3;13,81286
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;H1;14,02740327;6,3;0,27;2,3;22,89740327
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;H2;11,01971429;6,3;0,27;2,3;19,88971429
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;H3;8,21984127;6,3;0,27;2,3;17,08984127
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;H4;8,693865079;6,3;0,27;2,3;17,56386508
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;H5;7,110461905;6,3;0,27;2,3;15,9804619
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;H6;5,437138571;6,3;0,27;2,3;14,30713857
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;H7;6,502532967;6,3;0,27;2,3;15,37253297
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;H8;7,520702381;6,3;0,27;2,3;16,39070238
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;C1;8,01609375;6,3;0,27;2,3;16,88609375
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;C2;9,1184;6,3;0,27;2,3;17,9884
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;C3;7,577333333;6,3;0,27;2,3;16,44733333
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;C4;6,821866667;6,3;0,27;2,3;15,69186667
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;C5;5,8151;6,3;0,27;2,3;14,6851
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;C6;5,406166667;6,3;0,27;2,3;14,27616667
-388;Elektrizit‰tswerk der Gemeinde Lengwil;10325012345;C7;4,669132498;6,3;0,27;2,3;13,5391325
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;H1;13,37;4,6;0,5;2,3;20,77
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;H2;10,4;4,6;0,5;2,3;17,8
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;H3;8,053333333;4,6;0,5;2,3;15,45333333
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;H4;8,053333333;4,6;0,5;2,3;15,45333333
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;H5;6,88;4,6;0,5;2,3;14,28
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;H6;5,648;4,6;0,5;2,3;13,048
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;H7;6,135384615;4,6;0,5;2,3;13,53538462
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;H8;6,88;4,6;0,5;2,3;14,28
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;C1;6,77;4,6;0,5;2,3;14,17
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;C2;5,56;4,6;0,5;2,3;12,96
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;C3;5,52;4,6;0,5;2,3;12,92
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;C4;4,96;4,4;0,5;2,3;12,16
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;C5;8,12;4,4;0,5;2,3;15,32
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;C6;7,62;4,4;0,5;2,3;14,82
-403;Elektrizit‰tswerk der Gemeinde Pfyn;10463012345;C7;6,9664;4,4;0,5;2,3;14,1664
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;H1;8,82;5;1;2,3;17,12
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;H2;8,28;5;1;2,3;16,58
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;H3;7,853333333;5;1;2,3;16,15333333
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;H4;7,853333333;5;1;2,3;16,15333333
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;H5;7,64;5;1;2,3;15,94
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;H6;7,416;5;1;2,3;15,716
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;H7;7,504615385;5;1;2,3;15,80461538
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;H8;7,64;5;1;2,3;15,94
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;C1;7,62;5;1;2,3;15,92
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;C2;7,4;5;1;2,3;15,7
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;C3;7,336;5;1;2,3;15,636
-408;Elektrizit‰tswerk der Gemeinde Scharans;10184012345;C4;7,3248;5;1;2,3;15,6248
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;H1;13,11594494;4,85;1,1;2,3;21,36594494
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;H2;10,62371429;4,85;1,1;2,3;18,87371429
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;H3;7,955396825;4,85;1,1;2,3;16,20539683
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;H4;8,738087302;4,85;1,1;2,3;16,9880873
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;H5;7,100995238;4,85;1,1;2,3;15,35099524
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;H6;5,364298571;4,85;1,1;2,3;13,61429857
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;H7;6,717456044;4,85;1,1;2,3;14,96745604
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;H8;7,778369048;4,85;1,1;2,3;16,02836905
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;C1;8,68796875;4,85;1,1;2,3;16,93796875
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;C2;7,63895;4,85;1,1;2,3;15,88895
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;C3;6,226;4,85;1,1;2,3;14,476
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;C4;5,6818;4,85;1,1;2,3;13,9318
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;C5;5,041633333;4,85;1,1;2,3;13,29163333
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;C6;4,658388889;4,85;1,1;2,3;12,90838889
-411;Elektrizit‰tswerk der Gemeinde Sulgen;10026012345;C7;4,063897261;4,85;1,1;2,3;12,31389726
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;H1;18,07;6;0;2,3;26,37
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;H2;14,92;6;0;2,3;23,22
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;H3;12,43111111;6;0;2,3;20,73111111
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;H4;12,43111111;6;0;2,3;20,73111111
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;H5;11,18666667;6;0;2,3;19,48666667
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;H6;9,88;6;0;2,3;18,18
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;H7;10,39692308;6;0;2,3;18,69692308
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;H8;11,18666667;6;0;2,3;19,48666667
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;C1;11,07;6;0;2,3;19,37
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;C2;9,432666667;6;0;2,3;17,73266667
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;C3;8,413333333;6;0;2,3;16,71333333
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;C4;7,912;6;0;2,3;16,212
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;C5;7,912;6;0;2,3;16,212
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;C6;8,173333333;6;0;2,3;16,47333333
-416;Elektrizit‰tswerk der Gemeinde Tschiertschen-Praden;10453012345;C7;7,841280677;6;0;2,3;16,14128068
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;H1;16,2028869;5,582738095;0,95;2,3;25,035625
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;H2;12,92628571;5,565714286;0,95;2,3;21,742
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;H3;9,634603175;5,235396825;0,95;2,3;18,12
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;H4;10,44;5,6;0,95;2,3;19,29
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;H5;8,478142857;5,282857143;0,95;2,3;17,011
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;H6;6,407442857;4,944857143;0,95;2,3;14,6023
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;H7;7,923598901;5,402747253;0,95;2,3;16,57634615
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;H8;9,160170635;5,600079365;0,95;2,3;18,01025
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;C1;10,48453125;6,271875;0,95;2,3;20,00640625
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;C2;9,103883333;6,243666667;0,95;2,3;18,59755
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;C3;7,014666667;5,570666667;0,95;2,3;15,83533333
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;C4;6,548;5,419;0,95;2,3;15,217
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;C5;5,233;5,156;0;2,3;12,689
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;C6;4,922322222;5,122533333;0;2,3;12,34485556
-421;Elektrizit‰tswerk der Ortsgemeinde Murg;10018012345;C7;4,372638787;4,974951404;0;2,3;11,64759019
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;H1;16,295;6,33;0;2,3;24,925
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;H2;13,98942857;5,965714286;0;2,3;22,25514286
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;H3;11,15857143;5,674285714;0;2,3;19,13285714
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;H4;11,90150794;5,97547619;0;2,3;20,17698413
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;H5;10,19947619;5,713571429;0;2,3;18,21304762
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;H6;7,500128571;5,431071429;0;2,3;15,2312
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;H7;8,255274725;5,796263736;0;2,3;16,35153846
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;H8;10,84580159;5,975595238;0;2,3;19,12139683
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;C1;11,88;6,335184375;0;2,3;20,51518438
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;C2;10,74721667;6,317446333;0;2,3;19,364663
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;C3;9,128;5,5788;0;2,3;17,0068
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;C4;8,1502;5,38483;0;2,3;15,83503
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;C5;5,99805;5,08483;0;2,3;13,38288
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;C6;5,254605556;5,102941111;0;2,3;12,65754667
-426;Elektrizit‰tswerk des Kantons Schaffhausen AG EKS;10235012345;C7;4,319148994;4,870289211;0;2,3;11,4894382
-430;Elektrizit‰tswerk Ermatingen;10025012345;H1;10,72699405;5;0;2,3;18,02699405
-430;Elektrizit‰tswerk Ermatingen;10025012345;H2;8,933428571;5;0;2,3;16,23342857
-430;Elektrizit‰tswerk Ermatingen;10025012345;H3;7,083015873;5;0;2,3;14,38301587
-430;Elektrizit‰tswerk Ermatingen;10025012345;H4;7,568063492;5;0;2,3;14,86806349
-430;Elektrizit‰tswerk Ermatingen;10025012345;H5;6,45512381;5;0;2,3;13,75512381
-430;Elektrizit‰tswerk Ermatingen;10025012345;H6;5,275537143;5;0;2,3;12,57553714
-430;Elektrizit‰tswerk Ermatingen;10025012345;H7;6,154989011;5;0;2,3;13,45498901
-430;Elektrizit‰tswerk Ermatingen;10025012345;H8;6,874904762;5;0;2,3;14,17490476
-430;Elektrizit‰tswerk Ermatingen;10025012345;C1;7,429375;5;0;2,3;14,729375
-430;Elektrizit‰tswerk Ermatingen;10025012345;C2;6,6778;5;0;2,3;13,9778
-430;Elektrizit‰tswerk Ermatingen;10025012345;C3;7,607333333;5;0;2,3;14,90733333
-430;Elektrizit‰tswerk Ermatingen;10025012345;C4;6,725366667;5;0;2,3;14,02536667
-430;Elektrizit‰tswerk Ermatingen;10025012345;C5;6,722066667;5;0;2,3;14,02206667
-430;Elektrizit‰tswerk Ermatingen;10025012345;C6;6,108111111;5;0;2,3;13,40811111
-430;Elektrizit‰tswerk Ermatingen;10025012345;C7;5,284381665;5;0;2,3;12,58438167
-441;Elektrizit‰tswerk Hinterrhein;10812012345;H1;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;H2;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;H3;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;H4;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;H5;5,824133333;2,11;2;2,3;12,23413333
-441;Elektrizit‰tswerk Hinterrhein;10812012345;H6;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;H7;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;H8;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;C1;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;C2;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;C3;5,82;2,11;2;2,3;12,23
-441;Elektrizit‰tswerk Hinterrhein;10812012345;C4;5,82;2,11;2;2,3;12,23
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;H1;14,7668006;6,783630952;0,9;2,3;24,75043155
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;H2;12,22285714;6,748571429;0,576;2,3;21,84742857
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;H3;8,932698413;6,326984127;0,32;2,3;17,87968254
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;H4;10,36579365;6,767936508;0,32;2,3;19,75373016
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;H5;8,166047619;6,38647619;0,192;2,3;17,04452381
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;H6;5,823814286;5,975942857;0,0576;2,3;14,15735714
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;H7;5,657351648;6,156813187;0,110769231;2,3;14,22493407
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;H8;9,406309524;6,768095238;0,192;2,3;18,66640476
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;C1;11,1465625;7,33125;0,18;2,3;20,9578125
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;C2;10,0485;7,298;0,048;2,3;19,6945
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;C3;7,352;4,2;0,0096;2,3;13,8616
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;C4;6,8346;4,2;0,00288;2,3;13,33748
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;C5;4,5508;4,2;0,00288;2,3;11,05368
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;C6;4,271866667;4,2;0,00096;2,3;10,77282667
-443;Elektrizit‰tswerk Jona- Rapperswil AG;10260012345;C7;3,769652856;4,2;0,000192;2,3;10,26984486
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;H1;15,61185268;6,727901786;0;2,3;24,63975446
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;H2;12,57085714;6,680571429;0;2,3;21,55142857
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;H3;9,37047619;6,111428571;0;2,3;17,78190476
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;H4;10,26340476;6,706714286;0;2,3;19,27011905
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;H5;8,317614286;6,191742857;0;2,3;16,80935714
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;H6;6,254284286;5,637522857;0;2,3;14,19180714
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;H7;7,830478022;6,363395604;0;2,3;16,49387363
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;H8;9,090392857;6,706928571;0;2,3;18,09732143
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;C1;10,12078125;7,4671875;0;2,3;19,88796875
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;C2;8,84345;7,4223;0;2,3;18,56575
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;C3;6,442;7,488;0;2,3;16,23
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;C4;5,8991;7,1514;0;2,3;15,3505
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;C5;5,079633333;7,1514;0;2,3;14,53103333
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;C6;4,604388889;7,221;0;2,3;14,12538889
-365;Elektrizit‰tswerk Kradolf-Schˆnenberg;10607012345;C7;3,994697261;6,851757853;0;2,3;13,14645511
-452;Elektrizit‰tswerk Obergoms AG;10440012345;H1;10,32;8,35;0,72;2,3;21,69
-452;Elektrizit‰tswerk Obergoms AG;10440012345;H2;8,16;7;0,72;2,3;18,18
-452;Elektrizit‰tswerk Obergoms AG;10440012345;H3;6,453333333;5,933333333;0,72;2,3;15,40666667
-452;Elektrizit‰tswerk Obergoms AG;10440012345;H4;6,453333333;5,933333333;0,72;2,3;15,40666667
-452;Elektrizit‰tswerk Obergoms AG;10440012345;H5;5,6;5,4;0,72;2,3;14,02
-452;Elektrizit‰tswerk Obergoms AG;10440012345;H6;4,704;4,84;0,72;2,3;12,564
-452;Elektrizit‰tswerk Obergoms AG;10440012345;H7;5,058461538;5,061538462;0,72;2,3;13,14
-452;Elektrizit‰tswerk Obergoms AG;10440012345;H8;5,6;5,4;0,72;2,3;14,02
-452;Elektrizit‰tswerk Obergoms AG;10440012345;C1;5,52;5,35;0,72;2,3;13,89
-452;Elektrizit‰tswerk Obergoms AG;10440012345;C2;4,64;4,8;0,72;2,3;12,46
-452;Elektrizit‰tswerk Obergoms AG;10440012345;C3;6,561333333;4,608;0,72;2,3;14,18933333
-452;Elektrizit‰tswerk Obergoms AG;10440012345;C4;6,4172;4,6372;0,72;2,3;14,0744
-452;Elektrizit‰tswerk Obergoms AG;10440012345;C5;3,34;4,61375;0,72;2,3;10,97375
-452;Elektrizit‰tswerk Obergoms AG;10440012345;C6;3,126666667;4,575416667;0,72;2,3;10,72208333
-452;Elektrizit‰tswerk Obergoms AG;10440012345;C7;2,854133333;4,575;0,72;2,3;10,44913333
-454;Elektrizit‰tswerk Obwalden;10179012345;H1;15,1575;8,008333333;1,4;2,3;26,86583333
-454;Elektrizit‰tswerk Obwalden;10179012345;H2;12,8096;7,4208;1,4;2,3;23,9304
-454;Elektrizit‰tswerk Obwalden;10179012345;H3;10,12533333;6,211555556;1,4;2,3;20,03688889
-454;Elektrizit‰tswerk Obwalden;10179012345;H4;11,01466667;7,010666667;1,4;2,3;21,72533333
-454;Elektrizit‰tswerk Obwalden;10179012345;H5;9,3306;6,0988;1,4;2,3;19,1294
-454;Elektrizit‰tswerk Obwalden;10179012345;H6;7,53818;5,11964;1,4;2,3;16,35782
-454;Elektrizit‰tswerk Obwalden;10179012345;H7;8,985038462;6,169923077;1,4;2,3;18,85496154
-454;Elektrizit‰tswerk Obwalden;10179012345;H8;10,10838333;6,797677778;1,4;2,3;20,60606111
-454;Elektrizit‰tswerk Obwalden;10179012345;C1;10,59871875;7,294645833;1,4;2,3;21,59336458
-454;Elektrizit‰tswerk Obwalden;10179012345;C2;9,265155556;6,7272;1,4;2,3;19,69235556
-454;Elektrizit‰tswerk Obwalden;10179012345;C3;7,926;6,476333333;1,4;2,3;18,10233333
-454;Elektrizit‰tswerk Obwalden;10179012345;C4;7,1228;6,1441;1,4;2,3;16,9669
-454;Elektrizit‰tswerk Obwalden;10179012345;C5;5,4984;6,1441;0,9;2,3;14,8425
-454;Elektrizit‰tswerk Obwalden;10179012345;C6;4,9528;6,003933333;0,9;2,3;14,15673333
-454;Elektrizit‰tswerk Obwalden;10179012345;C7;4,38032;5,710505726;0,9;2,3;13,29082573
-456;Elektrizit‰tswerk Raperswilen;10898012345;H1;12,81185268;5,1;0;2,3;20,21185268
-456;Elektrizit‰tswerk Raperswilen;10898012345;H2;10,58085714;5,1;0;2,3;17,98085714
-456;Elektrizit‰tswerk Raperswilen;10898012345;H3;8,02047619;5,1;0;2,3;15,42047619
-456;Elektrizit‰tswerk Raperswilen;10898012345;H4;8,913404762;5,1;0;2,3;16,31340476
-456;Elektrizit‰tswerk Raperswilen;10898012345;H5;7,287614286;5,1;0;2,3;14,68761429
-456;Elektrizit‰tswerk Raperswilen;10898012345;H6;5,560284286;5,1;0;2,3;12,96028429
-456;Elektrizit‰tswerk Raperswilen;10898012345;H7;7,003554945;5,1;0;2,3;14,40355495
-456;Elektrizit‰tswerk Raperswilen;10898012345;H8;8,060392857;5,1;0;2,3;15,46039286
-456;Elektrizit‰tswerk Raperswilen;10898012345;C1;9,12078125;5,1;0;2,3;16,52078125
-456;Elektrizit‰tswerk Raperswilen;10898012345;C2;8,17345;5,1;0;2,3;15,57345
-456;Elektrizit‰tswerk Raperswilen;10898012345;C3;8,016;5,1;0;2,3;15,416
-456;Elektrizit‰tswerk Raperswilen;10898012345;C4;7,4663;5,1;0;2,3;14,8663
-466;Elektrizit‰tswerk Schwyz;10114012345;H1;14,03479167;7,342916667;1,35;2,3;25,02770833
-466;Elektrizit‰tswerk Schwyz;10114012345;H2;11,9744;7,2392;1,35;2,3;22,8636
-466;Elektrizit‰tswerk Schwyz;10114012345;H3;8,919111111;6,288444444;1,35;2,3;18,85755556
-466;Elektrizit‰tswerk Schwyz;10114012345;H4;10,386;7,181333333;1,35;2,3;21,21733333
-466;Elektrizit‰tswerk Schwyz;10114012345;H5;8,3084;6,3712;1,35;2,3;18,3296
-466;Elektrizit‰tswerk Schwyz;10114012345;H6;6,06252;5,48136;1,35;2,3;15,19388
-466;Elektrizit‰tswerk Schwyz;10114012345;H7;7,345153846;6,408923077;1,35;2,3;17,40407692
-466;Elektrizit‰tswerk Schwyz;10114012345;H8;9,640355556;7,181955556;1,35;2,3;20,47231111
-466;Elektrizit‰tswerk Schwyz;10114012345;C1;10,02741667;7,460166667;1,35;2,3;21,13758333
-466;Elektrizit‰tswerk Schwyz;10114012345;C2;9,921111111;6,681111111;1,35;2,3;20,25222222
-466;Elektrizit‰tswerk Schwyz;10114012345;C3;8,740444444;5,444444444;1,35;2,3;17,83488889
-466;Elektrizit‰tswerk Schwyz;10114012345;C4;8,090933333;5,023233333;0,85;2,3;16,26416667
-466;Elektrizit‰tswerk Schwyz;10114012345;C7;5,650879438;4,911622095;0,85;2,3;13,71250153
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;H1;12,04994792;6,1;0,4;2,3;20,84994792
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;H2;9,982;6,1;0,4;2,3;18,782
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;H3;7,865555556;6,1;0,4;2,3;16,66555556
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;H4;8,405722222;6,1;0,4;2,3;17,20572222
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;H5;7,138433333;6,1;0,4;2,3;15,93843333
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;H6;5,79553;6,1;0,4;2,3;14,59553
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;H7;6,7865;6,1;0,4;2,3;15,5865
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;H8;7,605916667;6,1;0,4;2,3;16,40591667
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;C1;8,22078125;6,1;0,4;2,3;17,02078125
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;C2;9,25155;6,1;0,4;2,3;18,05155
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;C3;7,014666667;6,1;0,4;2,3;15,81466667
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;C4;6,452233333;6,1;0,4;2,3;15,25223333
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;C5;5,5732;6,1;0,4;2,3;14,3732
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;C6;5,112666667;6,1;0,4;2,3;13,91266667
-470;Elektrizit‰tswerk T‰gerwilen;10104012345;C7;4,429812856;6,1;0,4;2,3;13,22981286
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;H1;16,595;6,2;1,2;2,3;26,295
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;H2;13,76;6,2;1,2;2,3;23,46
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;H3;9,735777778;5,624444444;1,2;2,3;18,86022222
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;H4;11,52;6,2;1,2;2,3;21,22
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;H5;8,7074;5,654;1,2;2,3;17,8614
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;H6;6,54622;5,3362;1,2;2,3;15,38242
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;H7;8,194076923;5,717692308;1,2;2,3;17,41176923
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;H8;9,605022222;5,943555556;1,2;2,3;19,04857778
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;C1;10,01158333;6,042916667;1,2;2,3;19,5545
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;C2;7,973444444;6,020555556;1,2;2,3;17,494
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;C3;7,573777778;6,042222222;1,2;2,3;17,116
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;C4;9,435833333;5,894333333;1,2;2,3;18,83016667
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;C5;8,800366667;5,894333333;1,2;2,3;18,1947
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;C6;8,7718;6,054;1,2;2,3;18,3258
-479;Elektrizit‰tswerk Vaz/Obervaz;10093012345;C7;8,080765032;5,908685313;1,2;2,3;17,48945035
-481;Elektrizit‰tswerk Wigoltingen;10787012345;H1;14,50035714;6,2;0;2,3;23,00035714
-481;Elektrizit‰tswerk Wigoltingen;10787012345;H2;11,48828571;6,2;0;2,3;19,98828571
-481;Elektrizit‰tswerk Wigoltingen;10787012345;H3;8,635714286;6,2;0;2,3;17,13571429
-481;Elektrizit‰tswerk Wigoltingen;10787012345;H4;9,164857143;6,2;0;2,3;17,66485714
-481;Elektrizit‰tswerk Wigoltingen;10787012345;H5;7,533771429;6,2;0;2,3;16,03377143
-481;Elektrizit‰tswerk Wigoltingen;10787012345;H6;5,809131429;6,2;0;2,3;14,30913143
-481;Elektrizit‰tswerk Wigoltingen;10787012345;H7;6,941736264;6,2;0;2,3;15,44173626
-481;Elektrizit‰tswerk Wigoltingen;10787012345;H8;7,991714286;6,2;0;2,3;16,49171429
-481;Elektrizit‰tswerk Wigoltingen;10787012345;C1;8,5575;6,2;0;2,3;17,0575
-481;Elektrizit‰tswerk Wigoltingen;10787012345;C2;8,2439;6,2;0;2,3;16,7439
-481;Elektrizit‰tswerk Wigoltingen;10787012345;C3;6,230666667;6,2;0;2,3;14,73066667
-481;Elektrizit‰tswerk Wigoltingen;10787012345;C4;5,701533333;6,2;0;2,3;14,20153333
-481;Elektrizit‰tswerk Wigoltingen;10787012345;C5;5,016766667;6,2;0;2,3;13,51676667
-481;Elektrizit‰tswerk Wigoltingen;10787012345;C6;4,510944444;6,2;0;2,3;13,01094444
-481;Elektrizit‰tswerk Wigoltingen;10787012345;C7;3,873488451;6,2;0;2,3;12,37348845
-484;Elektrizit‰tswerk Zermatt AG;10402012345;H1;12,72;3,6;0;2,3;18,62
-484;Elektrizit‰tswerk Zermatt AG;10402012345;H2;10,56;3,6;0;2,3;16,46
-484;Elektrizit‰tswerk Zermatt AG;10402012345;H3;8,853333333;3,6;0;2,3;14,75333333
-484;Elektrizit‰tswerk Zermatt AG;10402012345;H4;8,853333333;3,6;0;2,3;14,75333333
-484;Elektrizit‰tswerk Zermatt AG;10402012345;H5;7,623066667;3,487866667;0;2,3;13,41093333
-484;Elektrizit‰tswerk Zermatt AG;10402012345;H6;5,12828;3,25136;0;2,3;10,67964
-484;Elektrizit‰tswerk Zermatt AG;10402012345;H7;7,458461538;3,6;0;2,3;13,35846154
-484;Elektrizit‰tswerk Zermatt AG;10402012345;H8;8;3,6;0;2,3;13,9
-484;Elektrizit‰tswerk Zermatt AG;10402012345;C1;7,92;3,6;0;2,3;13,82
-484;Elektrizit‰tswerk Zermatt AG;10402012345;C2;7,766583333;3,772766667;0;2,3;13,83935
-484;Elektrizit‰tswerk Zermatt AG;10402012345;C3;5,730333333;3,789333333;0;2,3;11,81966667
-484;Elektrizit‰tswerk Zermatt AG;10402012345;C4;5,0254;3,6792;0;2,3;11,0046
-489;Elektro-Genossenschaft H¸nenberg;10311012345;H1;11,00270833;6,752083333;0,235;2,3;20,28979167
-489;Elektro-Genossenschaft H¸nenberg;10311012345;H2;10,7264;6,678;0,235;2,3;19,9394
-489;Elektro-Genossenschaft H¸nenberg;10311012345;H3;7,923555556;5,998888889;0,235;2,3;16,45744444
-489;Elektro-Genossenschaft H¸nenberg;10311012345;H4;8,752666667;6,636666667;0,235;2,3;17,92433333
-489;Elektro-Genossenschaft H¸nenberg;10311012345;H5;7,0196;6,042;0,235;2,3;15,5966
-489;Elektro-Genossenschaft H¸nenberg;10311012345;H6;4,92912;4,9176;0,235;2,3;12,38172
-489;Elektro-Genossenschaft H¸nenberg;10311012345;H7;6,016307692;4,887153846;0,235;2,3;13,43846154
-489;Elektro-Genossenschaft H¸nenberg;10311012345;H8;7,793244444;6,637111111;0,235;2,3;16,96535556
-489;Elektro-Genossenschaft H¸nenberg;10311012345;C1;7,961583333;6,835833333;0,235;2,3;17,33241667
-489;Elektro-Genossenschaft H¸nenberg;10311012345;C2;8,821111111;5,977;0,235;2,3;17,33311111
-489;Elektro-Genossenschaft H¸nenberg;10311012345;C3;7,296555556;5,892333333;0,235;2,3;15,72388889
-489;Elektro-Genossenschaft H¸nenberg;10311012345;C4;6,537383333;5,538666667;0,235;2,3;14,61105
-489;Elektro-Genossenschaft H¸nenberg;10311012345;C5;6,549383333;5,538666667;0,235;2,3;14,62305
-489;Elektro-Genossenschaft H¸nenberg;10311012345;C6;6,5927;5,858;0,235;2,3;14,9857
-489;Elektro-Genossenschaft H¸nenberg;10311012345;C7;5,917684892;5,567370626;0,235;2,3;14,02005552
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;H1;13,95683036;4,619717262;0;2,3;20,87654762
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;H2;12,13535714;4,554857143;0;2,3;18,99021429
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;H3;9,954603175;3,774920635;0;2,3;16,02952381
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;H4;10,78586508;4,59068254;0;2,3;17,67654762
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;H5;7,955847619;3,303209524;0;2,3;13,55905714
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;H6;5,025754286;1,970962857;0;2,3;9,296717143
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;H7;8,316953297;3,356813187;0;2,3;13,97376648
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;H8;10,08727381;4,59097619;0;2,3;16,97825
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;C1;11,104375;5,6328125;0;2,3;19,0371875
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;C2;10,616;4,9964;0;2,3;17,9124
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;C3;10,528;3,578666667;0;2,3;16,40666667
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;C4;9,8024;3,032466667;0;2,3;15,13486667
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;C5;5,718066667;2,673;0;2,3;10,69106667
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;C6;5,440111111;2,711666667;0;2,3;10,45177778
+268;Elektrizit√§tsgenossenschaft Otelfingen;10285012345;C7;5,009981665;2,50653214;0;2,3;9,816513806
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;H1;14,44083333;5,420044643;0,42;2,3;22,58087798
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;H2;11,88857143;5,370514286;0,42;2,3;19,97908571
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;H3;8,746984127;4,887619048;0,42;2,3;16,35460317
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;H4;9,963619048;5,365222222;0,42;2,3;18,04884127
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;H5;7,928457143;4,937466667;0,42;2,3;15,58592381
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;H6;5,752537143;4,67332;0,42;2,3;13,14585714
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;H7;7,624769231;5,187989011;0,42;2,3;15,53275824
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;H8;9,004238095;5,365614286;0,42;2,3;17,08985238
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;C1;10,224375;5,8328125;0,42;2,3;18,7771875
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;C2;9,159733333;5,84475;0,42;2,3;17,72448333
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;C3;8,993333333;5,193333333;0,42;2,3;16,90666667
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;C4;8,249833333;4,999333333;0,42;2,3;15,96916667
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;C5;6,325633333;4,999333333;0,42;2,3;14,04496667
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;C6;5,956888889;5,081855556;0,42;2,3;13,75874444
+275;Elektrizit√§ts-Genossenschaft Siggenthal;10304012345;C7;5,202655988;4,815501073;0,42;2,3;12,73815706
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H1;14,54135417;5,034449405;0,4;2,3;22,27580357
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H2;11,78;5,001142857;0,4;2,3;19,48114286
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H3;8,908888889;4,600634921;0,4;2,3;16,20952381
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H4;9,685555556;5,019539683;0,4;2,3;17,40509524
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H5;7,946333333;4,657152381;0,4;2,3;15,30348571
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H6;6,2039;4,267145714;0,4;2,3;13,17104571
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H7;7,638076923;4,777945055;0,4;2,3;15,11602198
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;H8;8,614166667;5,019690476;0,4;2,3;16,33385714
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C1;9,4996875;5,5546875;0,4;2,3;17,754375
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C2;8,3415;5,5231;0,4;2,3;16,5646
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C3;8,145333333;4,728;0,4;2,3;15,57333333
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C4;7,579266667;4,5784;0,4;2,3;14,85766667
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C5;7,579266667;4,5784;0,4;2,3;14,85766667
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C6;7,268777778;4,609333333;0,4;2,3;14,57811111
+280;Elektrizit√§tsgenossenschaft Siglistorf-Wislikofen-Mellstorf;10890012345;C7;6,607794522;4,445225712;0,4;2,3;13,75302023
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;H1;18,375;5,3;0,95;2,3;26,925
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;H2;14,4984;5,258;0,95;2,3;23,0064
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;H3;10,68577778;4,898888889;0,95;2,3;18,83466667
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;H4;11,47288889;5,241111111;0,95;2,3;19,964
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;H5;9,270133333;4,932666667;0,95;2,3;17,4528
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;H6;6,92504;4,5948;0,95;2,3;14,76984
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;H7;8,493230769;5,006923077;0,95;2,3;16,75015385
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;H8;9,980066667;5,241333333;0,95;2,3;18,4714
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;C1;10,121625;5,36375;0,95;2,3;18,735375
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;C2;8,526233333;5,339666667;0,95;2,3;17,1159
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;C3;8,132666667;5,363333333;0,95;2,3;16,746
+281;Elektrizit√§tsgenossenschaft Zeneggen;10811012345;C4;7,6924;5,206;0,95;2,3;16,1484
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;H1;18,57368304;5,124933036;0,47;2,3;26,46861607
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;H2;15,22377143;5,103371429;0,47;2,3;23,09714286
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;H3;11,34209524;4,844095238;0,47;2,3;18,95619048
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;H4;12,72448095;5,115280952;0,47;2,3;20,6097619
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;H5;10,24860286;4,880682857;0,47;2,3;17,89928571
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;H6;7,617580857;4,628204857;0,47;2,3;15,01578571
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;H7;9,834910989;4,95888022;0,47;2,3;17,56379121
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;H8;11,44497857;5,115378571;0,47;2,3;19,33035714
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;C1;13,09046875;5,46171875;0,47;2,3;21,3221875
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;C2;11,66623;5,44127;0,47;2,3;19,8775
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;C3;10,27066667;5,463083333;0,47;2,3;18,50375
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;C4;9,428033333;5,357066667;0,47;2,3;17,5551
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;C5;6,6711;5,363616667;0,47;2,3;14,80471667
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;C6;6,298166667;5,331169444;0,47;2,3;14,39933611
+286;Elektrizit√§tsversorgung Altendorf AG;10433012345;C7;5,648972498;5,155552319;0,47;2,3;13,57452482
+290;Elektrizit√§tsversorgung Benken;10515012345;H1;8,72;4,85;0,5;2,3;16,37
+290;Elektrizit√§tsversorgung Benken;10515012345;H2;7,37;4,85;0,5;2,3;15,02
+290;Elektrizit√§tsversorgung Benken;10515012345;H3;6,303333333;4,85;0,5;2,3;13,95333333
+290;Elektrizit√§tsversorgung Benken;10515012345;H4;6,303333333;4,85;0,5;2,3;13,95333333
+290;Elektrizit√§tsversorgung Benken;10515012345;H5;5,77;4,85;0,5;2,3;13,42
+290;Elektrizit√§tsversorgung Benken;10515012345;H6;5,21;4,85;0,5;2,3;12,86
+290;Elektrizit√§tsversorgung Benken;10515012345;H7;5,431538462;4,85;0,5;2,3;13,08153846
+290;Elektrizit√§tsversorgung Benken;10515012345;H8;5,77;4,85;0,5;2,3;13,42
+290;Elektrizit√§tsversorgung Benken;10515012345;C1;5,72;4,85;0,5;2,3;13,37
+290;Elektrizit√§tsversorgung Benken;10515012345;C2;5,17;4,85;0,5;2,3;12,82
+290;Elektrizit√§tsversorgung Benken;10515012345;C3;5,01;4,85;0,5;2,3;12,66
+290;Elektrizit√§tsversorgung Benken;10515012345;C4;4,982;4,85;0,5;2,3;12,632
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;H1;12,31181548;4,491815476;0,26;2,3;19,36363095
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;H2;9,594285714;4,474285714;0,26;2,3;16,62857143
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;H3;7,25015873;4,263492063;0,26;2,3;14,07365079
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;H4;7,470634921;4,483968254;0,26;2,3;14,51460317
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;H5;6,213238095;4,293238095;0,26;2,3;13,06647619
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;H6;4,887971429;4,087971429;0,26;2,3;11,53594286
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;H7;5,59989011;4,356813187;0,26;2,3;12,5167033
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;H8;6,404047619;4,484047619;0,26;2,3;13,44809524
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;C1;6,585625;4,765625;0,26;2,3;13,91125
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;C2;11,9392;4,65;0,26;2,3;19,1492
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;C3;7,841333333;4,25;0,26;2,3;14,65133333
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;C4;6,986066667;4,25;0,26;2,3;13,79606667
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;C5;5,112;4,25;0,26;2,3;11,922
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;C6;4,624;4,25;0,26;2,3;11,434
+305;Elektrizit√§tsversorgung Diessenhofen;10149012345;C7;3,98816;4,25;0,26;2,3;10,79816
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;H1;11,21255952;5,369791667;0,2;2,3;19,08235119
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;H2;8,895428571;5,34;0,2;2,3;16,73542857
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;H3;6,63968254;4,744444444;0,2;2,3;13,88412698
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;H4;7,126666667;5,4;0,2;2,3;15,02666667
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;H5;5,807714286;4,845;0,2;2,3;13,15271429
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;H6;4,416314286;4,2535;0,2;2,3;11,16981429
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;H7;5,388186813;5,054807692;0,2;2,3;12,94299451
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;H8;6,220103175;5,400138889;0,2;2,3;14,12024206
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;C1;7,0084375;6,57578125;0,2;2,3;16,08421875
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;C2;6,036766667;6,526416667;0,2;2,3;15,06318333
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;C3;6,316;4,569333333;0,2;2,3;13,38533333
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;C4;5,956;4,371;0,2;2,3;12,827
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;C5;5,29;4,464;0,2;2,3;12,254
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;C6;5,002111111;4,385911111;0,2;2,3;11,88802222
+326;Elektrizit√§tsversorgung M√∂rschwil;10051012345;C7;4,49432617;4,041553276;0,2;2,3;11,03587945
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;H1;12,52;6,3;2;2,3;23,12
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;H2;10,7808;6,1696;2;2,3;21,2504
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;H3;7,820444444;5,649777778;2;2,3;17,77022222
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;H4;9,050444444;6,159777778;2;2,3;19,51022222
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;H5;7,102866667;5,706066667;2;2,3;17,10893333
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;H6;5,01486;5,21182;2;2,3;14,52668
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;H7;6,237846154;5,520307692;2;2,3;16,05815385
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;H8;8,197794444;6,160061111;2;2,3;18,65785556
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;C1;8,710614583;6,405864583;2;2,3;19,41647917
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;C2;9,483272222;5,762066667;1,6;2,3;19,14533889
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;C3;6,433777778;5,627222222;1,6;2,3;15,961
+331;Elektrizit√§tsversorgung Oberdiessbach;10321012345;C4;5,667066667;5,481833333;1,6;2,3;15,0489
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;H1;14,48220238;5,745758929;0,9;2,3;23,42796131
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;H2;11,61485714;5,731714286;0,9;2,3;20,54657143
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;H3;8,728253968;5,450952381;0,9;2,3;17,37920635
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;H4;9,44;5,76;0,9;2,3;18,4
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;H5;7,712;5,496;0,9;2,3;16,408
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;H6;5,8976;5,2188;0,9;2,3;14,3164
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;H7;7,234450549;5,597266484;0,9;2,3;16,03171703
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;H8;8,320150794;5,760065476;0,9;2,3;17,28021627
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;C1;9,4915625;6,314296875;0,9;2,3;19,00585938
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;C2;8,282966667;6,291025;0,9;2,3;17,77399167
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;C3;6,636;4,730833333;0,9;2,3;14,56683333
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;C4;6,012;4,65095;0,9;2,3;13,86295
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;C5;4,113;4,65095;0,9;2,3;11,96395
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;C6;3,828633333;4,577772222;0,9;2,3;11,60640556
+332;Elektrizit√§tsversorgung Oberriet (SG);10395012345;C7;3,452377851;4,45412617;0,9;2,3;11,10650402
+343;Elektrizit√§tsversorgung Schlatt;10617012345;H1;14,53971726;5,75;0;2,3;22,58971726
+343;Elektrizit√§tsversorgung Schlatt;10617012345;H2;11,23485714;5,75;0;2,3;19,28485714
+343;Elektrizit√§tsversorgung Schlatt;10617012345;H3;7,894920635;5,75;0;2,3;15,94492063
+343;Elektrizit√§tsversorgung Schlatt;10617012345;H4;8,71068254;5,75;0;2,3;16,76068254
+343;Elektrizit√§tsversorgung Schlatt;10617012345;H5;6,724980952;5,75;0;2,3;14,77498095
+343;Elektrizit√§tsversorgung Schlatt;10617012345;H6;4,621494286;5,75;0;2,3;12,67149429
+343;Elektrizit√§tsversorgung Schlatt;10617012345;H7;6,147901099;5,75;0;2,3;14,1979011
+343;Elektrizit√§tsversorgung Schlatt;10617012345;H8;7,43097619;5,75;0;2,3;15,48097619
+343;Elektrizit√§tsversorgung Schlatt;10617012345;C1;8,3528125;5,75;0;2,3;16,4028125
+343;Elektrizit√§tsversorgung Schlatt;10617012345;C2;6,9713;5,75;0;2,3;15,0213
+343;Elektrizit√§tsversorgung Schlatt;10617012345;C3;7,066666667;5,75;0;2,3;15,11666667
+343;Elektrizit√§tsversorgung Schlatt;10617012345;C4;5,205366667;5,75;0;2,3;13,25536667
+343;Elektrizit√§tsversorgung Schlatt;10617012345;C5;4,452333333;5,75;0;2,3;12,50233333
+343;Elektrizit√§tsversorgung Schlatt;10617012345;C6;3,993222222;5,75;0;2,3;12,04322222
+343;Elektrizit√§tsversorgung Schlatt;10617012345;C7;3,433644047;5,75;0;2,3;11,48364405
+350;Elektrizit√§tsversorgung Steinach;10224012345;H1;13,41583333;5,791517857;1,5;2,3;23,00735119
+350;Elektrizit√§tsversorgung Steinach;10224012345;H2;10,962;5,763428571;1,5;2,3;20,52542857
+350;Elektrizit√§tsversorgung Steinach;10224012345;H3;8,565555556;5,201904762;1,5;2,3;17,56746032
+350;Elektrizit√§tsversorgung Steinach;10224012345;H4;9,09;5,82;1,5;2,3;18,71
+350;Elektrizit√§tsversorgung Steinach;10224012345;H5;7,686;5,296714286;1,5;2,3;16,78271429
+350;Elektrizit√§tsversorgung Steinach;10224012345;H6;6,2048;4,739014286;1,5;2,3;14,74381429
+350;Elektrizit√§tsversorgung Steinach;10224012345;H7;7,244615385;5,494532967;1,5;2,3;16,53914835
+350;Elektrizit√§tsversorgung Steinach;10224012345;H8;8,130111111;5,820130952;1,5;2,3;17,75024206
+350;Elektrizit√§tsversorgung Steinach;10224012345;C1;12,36953125;6,92859375;1,5;2,3;23,098125
+350;Elektrizit√§tsversorgung Steinach;10224012345;C2;9,87895;6,853416667;1,5;2,3;20,53236667
+350;Elektrizit√§tsversorgung Steinach;10224012345;C3;9,266;5,918666667;1,5;2,3;18,98466667
+350;Elektrizit√§tsversorgung Steinach;10224012345;C4;9,267;5,697;1,5;2,3;18,764
+350;Elektrizit√§tsversorgung Steinach;10224012345;C5;3,707;5,697;0,65;2,3;12,354
+350;Elektrizit√§tsversorgung Steinach;10224012345;C6;3,80295;5,644011111;0,65;2,3;12,39696111
+350;Elektrizit√§tsversorgung Steinach;10224012345;C7;3,356886776;5,410339723;0,65;2,3;11,7172265
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;H1;18,82;7,1;0;2,3;28,22
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;H2;20,92;4,9256;0;2,3;28,1456
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;H3;16,74222222;4,558666667;0;2,3;23,60088889
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;H4;17,49222222;4,918666667;0;2,3;24,71088889
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;H5;14,63653333;4,5966;0;2,3;21,53313333
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;H6;12,38296;4,24898;0;2,3;18,93194
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;H7;14,82876923;4,608038462;0;2,3;21,73680769
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;H8;15,78597222;4,918866667;0;2,3;23,00483889
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;C1;15,98744792;5,092375;0;2,3;23,37982292
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;C2;14,16430556;5,062066667;0;2,3;21,52637222
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;C3;13,71605556;5,092666667;0;2,3;21,10872222
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;C4;13,26298333;4,9182;0;2,3;20,48118333
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;C5;5,585166667;4,9182;0;2,3;12,80336667
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;C6;5,1894;5,0588;0;2,3;12,5482
+357;Elektrizit√§tsversorgung Ursenbach;10192012345;C7;4,650288292;4,903809753;0;2,3;11,85409805
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;H1;13,62;8,8;0;2,3;24,72
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;H2;11,0392;8,332;0;2,3;21,6712
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;H3;8,719555556;7,873333333;0;2,3;18,89288889
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;H4;9,739555556;8,323333333;0;2,3;20,36288889
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;H5;8,192133333;7,923;0;2,3;18,41513333
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;H6;6,53164;7,4869;0;2,3;16,31854
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;H7;8,377192308;8,028653846;0;2,3;18,70584615
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;H8;9,100122222;8,323583333;0;2,3;19,72370556
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;C1;9,531729167;8,54046875;0;2,3;20,37219792
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;C2;8,084305556;8,502583333;0;2,3;18,88688889
+363;Elektrizit√§tsverwaltung Kallnach;10412012345;C3;7,528055556;8,540833333;0;2,3;18,36888889
+366;Elektrizit√§tswerk Altdorf AG;10031012345;H1;15,97;7,705;1,64;2,3;27,615
+366;Elektrizit√§tswerk Altdorf AG;10031012345;H2;13,6;7,6504;1,4;2,3;24,9504
+366;Elektrizit√§tswerk Altdorf AG;10031012345;H3;10,09777778;7,183555556;1,04;2,3;20,62133333
+366;Elektrizit√§tswerk Altdorf AG;10031012345;H4;11,80888889;7,628444444;1,22;2,3;22,95733333
+366;Elektrizit√§tswerk Altdorf AG;10031012345;H5;9,413333333;7,227466667;1;2,3;19,9408
+366;Elektrizit√§tswerk Altdorf AG;10031012345;H6;6,06724;6,05192;1;2,3;15,41916
+366;Elektrizit√§tswerk Altdorf AG;10031012345;H7;8,475230769;6,933692308;1;2,3;18,70892308
+366;Elektrizit√§tswerk Altdorf AG;10031012345;H8;10,95666667;7,628733333;1,13;2,3;22,0154
+366;Elektrizit√§tswerk Altdorf AG;10031012345;C1;11,48875;7,787875;1,18;2,3;22,756625
+366;Elektrizit√§tswerk Altdorf AG;10031012345;C2;11,009;6,759333333;1,13;2,3;21,19833333
+366;Elektrizit√§tswerk Altdorf AG;10031012345;C3;8,691666667;5,389333333;0,9;2,3;17,281
+366;Elektrizit√§tswerk Altdorf AG;10031012345;C4;8,089416667;4,7541;0,75;2,3;15,89351667
+366;Elektrizit√§tswerk Altdorf AG;10031012345;C5;6,3316;4,7541;0,59;2,3;13,9757
+366;Elektrizit√§tswerk Altdorf AG;10031012345;C6;6,378;4,928;0,59;2,3;14,196
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;H1;12,99585565;6,5;0;2,3;21,79585565
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;H2;10,64914286;6,5;0;2,3;19,44914286
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;H3;8,213968254;6,5;0;2,3;17,01396825
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;H4;8,864373016;6,5;0;2,3;17,66437302
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;H5;7,395052381;6,5;0;2,3;16,19505238
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;H6;6,096;6,5;0;2,3;14,896
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;H7;6,627692308;6,5;0;2,3;15,42769231
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;H8;7,957940476;6,5;0;2,3;16,75794048
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;C1;7,2684375;6,5;0;2,3;16,0684375
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;C2;5,2635;6,5;0;2,3;14,0635
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;C3;4,928;6,5;0;2,3;13,728
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;C4;4,2679;6,5;0;2,3;13,0679
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;C5;5,359633333;6,5;0;2,3;14,15963333
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;C6;4,764388889;6,5;0;2,3;13,56438889
+375;Elektrizit√§tswerk der Einheitsgemeinde Salenstein;10564012345;C7;3,977097261;6,5;0;2,3;12,77709726
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;H1;11,62576637;5,45;0,7;2,3;20,07576637
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;H2;9,640571429;5,45;0,7;2,3;18,09057143
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;H3;7,609206349;5,45;0,7;2,3;16,05920635
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;H4;8,127325397;5,45;0,7;2,3;16,5773254
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;H5;6,911109524;5,45;0,7;2,3;15,36110952
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;H6;5,622332857;5,45;0,7;2,3;14,07233286
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;H7;6,573126374;5,45;0,7;2,3;15,02312637
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;H8;7,359511905;5,45;0,7;2,3;15,8095119
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;C1;7,94921875;5,45;0,7;2,3;16,39921875
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;C2;8,8688;5,45;0,7;2,3;17,3188
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;C3;6,978;5,45;0,7;2,3;15,428
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;C4;6,4524;5,45;0,7;2,3;14,9024
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;C5;5,298066667;5,45;0,7;2,3;13,74806667
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;C6;4,900111111;5,45;0,7;2,3;13,35011111
+383;Elektrizit√§tswerk der Gemeinde G√ºttingen;10834012345;C7;4,292381665;5,45;0,7;2,3;12,74238167
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;H1;16,72334821;4,8;0;2,3;23,82334821
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;H2;13,11342857;4,8;0;2,3;20,21342857
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;H3;9,138571429;4,8;0;2,3;16,23857143
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;H4;10,39528571;4,8;0;2,3;17,49528571
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;H5;7,921457143;4,8;0;2,3;15,02145714
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;H6;5,295437143;4,8;0;2,3;12,39543714
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;H7;7,403835165;4,8;0;2,3;14,50383516
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;H8;9,009071429;4,8;0;2,3;16,10907143
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;C1;10,4840625;4,8;0;2,3;17,5840625
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;C2;9,8907;4,8;0;2,3;16,9907
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;C3;8,475333333;4,8;0;2,3;15,57533333
+385;Elektrizit√§tswerk der Gemeinde Hohentannen;10749012345;C4;7,643266667;4,8;0;2,3;14,74326667
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;H1;12,87;6,05;0;2,3;21,22
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;H2;10,44;6,05;0;2,3;18,79
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;H3;8,52;6,05;0;2,3;16,87
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;H4;8,52;6,05;0;2,3;16,87
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;H5;7,56;6,05;0;2,3;15,91
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;H6;6,552;6,05;0;2,3;14,902
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;H7;6,950769231;6,05;0;2,3;15,30076923
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;H8;7,56;6,05;0;2,3;15,91
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;C1;7,47;6,05;0;2,3;15,82
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;C2;6,48;6,05;0;2,3;14,83
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;C3;8,033333333;7,364666667;0;2,3;17,698
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;C4;7,400666667;7,152733333;0;2,3;16,8534
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;C5;6,537533333;7,052733333;0;2,3;15,89026667
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;C6;6,129888889;7,096555556;0;2,3;15,52644444
+386;Elektrizit√§tswerk der Gemeinde H√ºttwilen;10908012345;C7;5,437856903;6,864069759;0;2,3;14,60192666
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;H1;14,96654018;4,95;0;2,3;22,21654018
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;H2;11,78685714;4,95;0;2,3;19,03685714
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;H3;8,89047619;4,95;0;2,3;16,14047619
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;H4;9,320404762;4,95;0;2,3;16,57040476
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;H5;7,705814286;4,95;0;2,3;14,95581429
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;H6;6,000744286;4,95;0;2,3;13,25074429
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;H7;7,04117033;4,95;0;2,3;14,29117033
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;H8;8,077892857;4,95;0;2,3;15,32789286
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;C1;8,51046875;4,95;0;2,3;15,76046875
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;C2;7,19655;4,95;0;2,3;14,44655
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;C3;6,8712;4,95;0;2,3;14,1212
+387;Elektrizit√§tswerk der Gemeinde Langrickenbach;10425012345;C4;6,56286;4,95;0;2,3;13,81286
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;H1;14,02740327;6,3;0,27;2,3;22,89740327
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;H2;11,01971429;6,3;0,27;2,3;19,88971429
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;H3;8,21984127;6,3;0,27;2,3;17,08984127
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;H4;8,693865079;6,3;0,27;2,3;17,56386508
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;H5;7,110461905;6,3;0,27;2,3;15,9804619
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;H6;5,437138571;6,3;0,27;2,3;14,30713857
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;H7;6,502532967;6,3;0,27;2,3;15,37253297
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;H8;7,520702381;6,3;0,27;2,3;16,39070238
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;C1;8,01609375;6,3;0,27;2,3;16,88609375
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;C2;9,1184;6,3;0,27;2,3;17,9884
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;C3;7,577333333;6,3;0,27;2,3;16,44733333
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;C4;6,821866667;6,3;0,27;2,3;15,69186667
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;C5;5,8151;6,3;0,27;2,3;14,6851
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;C6;5,406166667;6,3;0,27;2,3;14,27616667
+388;Elektrizit√§tswerk der Gemeinde Lengwil;10325012345;C7;4,669132498;6,3;0,27;2,3;13,5391325
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;H1;13,37;4,6;0,5;2,3;20,77
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;H2;10,4;4,6;0,5;2,3;17,8
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;H3;8,053333333;4,6;0,5;2,3;15,45333333
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;H4;8,053333333;4,6;0,5;2,3;15,45333333
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;H5;6,88;4,6;0,5;2,3;14,28
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;H6;5,648;4,6;0,5;2,3;13,048
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;H7;6,135384615;4,6;0,5;2,3;13,53538462
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;H8;6,88;4,6;0,5;2,3;14,28
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;C1;6,77;4,6;0,5;2,3;14,17
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;C2;5,56;4,6;0,5;2,3;12,96
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;C3;5,52;4,6;0,5;2,3;12,92
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;C4;4,96;4,4;0,5;2,3;12,16
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;C5;8,12;4,4;0,5;2,3;15,32
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;C6;7,62;4,4;0,5;2,3;14,82
+403;Elektrizit√§tswerk der Gemeinde Pfyn;10463012345;C7;6,9664;4,4;0,5;2,3;14,1664
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;H1;8,82;5;1;2,3;17,12
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;H2;8,28;5;1;2,3;16,58
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;H3;7,853333333;5;1;2,3;16,15333333
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;H4;7,853333333;5;1;2,3;16,15333333
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;H5;7,64;5;1;2,3;15,94
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;H6;7,416;5;1;2,3;15,716
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;H7;7,504615385;5;1;2,3;15,80461538
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;H8;7,64;5;1;2,3;15,94
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;C1;7,62;5;1;2,3;15,92
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;C2;7,4;5;1;2,3;15,7
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;C3;7,336;5;1;2,3;15,636
+408;Elektrizit√§tswerk der Gemeinde Scharans;10184012345;C4;7,3248;5;1;2,3;15,6248
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;H1;13,11594494;4,85;1,1;2,3;21,36594494
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;H2;10,62371429;4,85;1,1;2,3;18,87371429
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;H3;7,955396825;4,85;1,1;2,3;16,20539683
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;H4;8,738087302;4,85;1,1;2,3;16,9880873
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;H5;7,100995238;4,85;1,1;2,3;15,35099524
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;H6;5,364298571;4,85;1,1;2,3;13,61429857
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;H7;6,717456044;4,85;1,1;2,3;14,96745604
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;H8;7,778369048;4,85;1,1;2,3;16,02836905
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;C1;8,68796875;4,85;1,1;2,3;16,93796875
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;C2;7,63895;4,85;1,1;2,3;15,88895
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;C3;6,226;4,85;1,1;2,3;14,476
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;C4;5,6818;4,85;1,1;2,3;13,9318
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;C5;5,041633333;4,85;1,1;2,3;13,29163333
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;C6;4,658388889;4,85;1,1;2,3;12,90838889
+411;Elektrizit√§tswerk der Gemeinde Sulgen;10026012345;C7;4,063897261;4,85;1,1;2,3;12,31389726
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;H1;18,07;6;0;2,3;26,37
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;H2;14,92;6;0;2,3;23,22
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;H3;12,43111111;6;0;2,3;20,73111111
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;H4;12,43111111;6;0;2,3;20,73111111
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;H5;11,18666667;6;0;2,3;19,48666667
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;H6;9,88;6;0;2,3;18,18
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;H7;10,39692308;6;0;2,3;18,69692308
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;H8;11,18666667;6;0;2,3;19,48666667
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;C1;11,07;6;0;2,3;19,37
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;C2;9,432666667;6;0;2,3;17,73266667
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;C3;8,413333333;6;0;2,3;16,71333333
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;C4;7,912;6;0;2,3;16,212
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;C5;7,912;6;0;2,3;16,212
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;C6;8,173333333;6;0;2,3;16,47333333
+416;Elektrizit√§tswerk der Gemeinde Tschiertschen-Praden;10453012345;C7;7,841280677;6;0;2,3;16,14128068
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;H1;16,2028869;5,582738095;0,95;2,3;25,035625
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;H2;12,92628571;5,565714286;0,95;2,3;21,742
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;H3;9,634603175;5,235396825;0,95;2,3;18,12
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;H4;10,44;5,6;0,95;2,3;19,29
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;H5;8,478142857;5,282857143;0,95;2,3;17,011
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;H6;6,407442857;4,944857143;0,95;2,3;14,6023
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;H7;7,923598901;5,402747253;0,95;2,3;16,57634615
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;H8;9,160170635;5,600079365;0,95;2,3;18,01025
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;C1;10,48453125;6,271875;0,95;2,3;20,00640625
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;C2;9,103883333;6,243666667;0,95;2,3;18,59755
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;C3;7,014666667;5,570666667;0,95;2,3;15,83533333
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;C4;6,548;5,419;0,95;2,3;15,217
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;C5;5,233;5,156;0;2,3;12,689
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;C6;4,922322222;5,122533333;0;2,3;12,34485556
+421;Elektrizit√§tswerk der Ortsgemeinde Murg;10018012345;C7;4,372638787;4,974951404;0;2,3;11,64759019
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;H1;16,295;6,33;0;2,3;24,925
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;H2;13,98942857;5,965714286;0;2,3;22,25514286
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;H3;11,15857143;5,674285714;0;2,3;19,13285714
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;H4;11,90150794;5,97547619;0;2,3;20,17698413
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;H5;10,19947619;5,713571429;0;2,3;18,21304762
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;H6;7,500128571;5,431071429;0;2,3;15,2312
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;H7;8,255274725;5,796263736;0;2,3;16,35153846
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;H8;10,84580159;5,975595238;0;2,3;19,12139683
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;C1;11,88;6,335184375;0;2,3;20,51518438
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;C2;10,74721667;6,317446333;0;2,3;19,364663
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;C3;9,128;5,5788;0;2,3;17,0068
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;C4;8,1502;5,38483;0;2,3;15,83503
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;C5;5,99805;5,08483;0;2,3;13,38288
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;C6;5,254605556;5,102941111;0;2,3;12,65754667
+426;Elektrizit√§tswerk des Kantons Schaffhausen AG EKS;10235012345;C7;4,319148994;4,870289211;0;2,3;11,4894382
+430;Elektrizit√§tswerk Ermatingen;10025012345;H1;10,72699405;5;0;2,3;18,02699405
+430;Elektrizit√§tswerk Ermatingen;10025012345;H2;8,933428571;5;0;2,3;16,23342857
+430;Elektrizit√§tswerk Ermatingen;10025012345;H3;7,083015873;5;0;2,3;14,38301587
+430;Elektrizit√§tswerk Ermatingen;10025012345;H4;7,568063492;5;0;2,3;14,86806349
+430;Elektrizit√§tswerk Ermatingen;10025012345;H5;6,45512381;5;0;2,3;13,75512381
+430;Elektrizit√§tswerk Ermatingen;10025012345;H6;5,275537143;5;0;2,3;12,57553714
+430;Elektrizit√§tswerk Ermatingen;10025012345;H7;6,154989011;5;0;2,3;13,45498901
+430;Elektrizit√§tswerk Ermatingen;10025012345;H8;6,874904762;5;0;2,3;14,17490476
+430;Elektrizit√§tswerk Ermatingen;10025012345;C1;7,429375;5;0;2,3;14,729375
+430;Elektrizit√§tswerk Ermatingen;10025012345;C2;6,6778;5;0;2,3;13,9778
+430;Elektrizit√§tswerk Ermatingen;10025012345;C3;7,607333333;5;0;2,3;14,90733333
+430;Elektrizit√§tswerk Ermatingen;10025012345;C4;6,725366667;5;0;2,3;14,02536667
+430;Elektrizit√§tswerk Ermatingen;10025012345;C5;6,722066667;5;0;2,3;14,02206667
+430;Elektrizit√§tswerk Ermatingen;10025012345;C6;6,108111111;5;0;2,3;13,40811111
+430;Elektrizit√§tswerk Ermatingen;10025012345;C7;5,284381665;5;0;2,3;12,58438167
+441;Elektrizit√§tswerk Hinterrhein;10812012345;H1;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;H2;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;H3;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;H4;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;H5;5,824133333;2,11;2;2,3;12,23413333
+441;Elektrizit√§tswerk Hinterrhein;10812012345;H6;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;H7;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;H8;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;C1;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;C2;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;C3;5,82;2,11;2;2,3;12,23
+441;Elektrizit√§tswerk Hinterrhein;10812012345;C4;5,82;2,11;2;2,3;12,23
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;H1;14,7668006;6,783630952;0,9;2,3;24,75043155
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;H2;12,22285714;6,748571429;0,576;2,3;21,84742857
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;H3;8,932698413;6,326984127;0,32;2,3;17,87968254
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;H4;10,36579365;6,767936508;0,32;2,3;19,75373016
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;H5;8,166047619;6,38647619;0,192;2,3;17,04452381
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;H6;5,823814286;5,975942857;0,0576;2,3;14,15735714
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;H7;5,657351648;6,156813187;0,110769231;2,3;14,22493407
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;H8;9,406309524;6,768095238;0,192;2,3;18,66640476
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;C1;11,1465625;7,33125;0,18;2,3;20,9578125
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;C2;10,0485;7,298;0,048;2,3;19,6945
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;C3;7,352;4,2;0,0096;2,3;13,8616
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;C4;6,8346;4,2;0,00288;2,3;13,33748
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;C5;4,5508;4,2;0,00288;2,3;11,05368
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;C6;4,271866667;4,2;0,00096;2,3;10,77282667
+443;Elektrizit√§tswerk Jona- Rapperswil AG;10260012345;C7;3,769652856;4,2;0,000192;2,3;10,26984486
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;H1;15,61185268;6,727901786;0;2,3;24,63975446
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;H2;12,57085714;6,680571429;0;2,3;21,55142857
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;H3;9,37047619;6,111428571;0;2,3;17,78190476
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;H4;10,26340476;6,706714286;0;2,3;19,27011905
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;H5;8,317614286;6,191742857;0;2,3;16,80935714
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;H6;6,254284286;5,637522857;0;2,3;14,19180714
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;H7;7,830478022;6,363395604;0;2,3;16,49387363
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;H8;9,090392857;6,706928571;0;2,3;18,09732143
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;C1;10,12078125;7,4671875;0;2,3;19,88796875
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;C2;8,84345;7,4223;0;2,3;18,56575
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;C3;6,442;7,488;0;2,3;16,23
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;C4;5,8991;7,1514;0;2,3;15,3505
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;C5;5,079633333;7,1514;0;2,3;14,53103333
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;C6;4,604388889;7,221;0;2,3;14,12538889
+365;Elektrizit√§tswerk Kradolf-Sch√∂nenberg;10607012345;C7;3,994697261;6,851757853;0;2,3;13,14645511
+452;Elektrizit√§tswerk Obergoms AG;10440012345;H1;10,32;8,35;0,72;2,3;21,69
+452;Elektrizit√§tswerk Obergoms AG;10440012345;H2;8,16;7;0,72;2,3;18,18
+452;Elektrizit√§tswerk Obergoms AG;10440012345;H3;6,453333333;5,933333333;0,72;2,3;15,40666667
+452;Elektrizit√§tswerk Obergoms AG;10440012345;H4;6,453333333;5,933333333;0,72;2,3;15,40666667
+452;Elektrizit√§tswerk Obergoms AG;10440012345;H5;5,6;5,4;0,72;2,3;14,02
+452;Elektrizit√§tswerk Obergoms AG;10440012345;H6;4,704;4,84;0,72;2,3;12,564
+452;Elektrizit√§tswerk Obergoms AG;10440012345;H7;5,058461538;5,061538462;0,72;2,3;13,14
+452;Elektrizit√§tswerk Obergoms AG;10440012345;H8;5,6;5,4;0,72;2,3;14,02
+452;Elektrizit√§tswerk Obergoms AG;10440012345;C1;5,52;5,35;0,72;2,3;13,89
+452;Elektrizit√§tswerk Obergoms AG;10440012345;C2;4,64;4,8;0,72;2,3;12,46
+452;Elektrizit√§tswerk Obergoms AG;10440012345;C3;6,561333333;4,608;0,72;2,3;14,18933333
+452;Elektrizit√§tswerk Obergoms AG;10440012345;C4;6,4172;4,6372;0,72;2,3;14,0744
+452;Elektrizit√§tswerk Obergoms AG;10440012345;C5;3,34;4,61375;0,72;2,3;10,97375
+452;Elektrizit√§tswerk Obergoms AG;10440012345;C6;3,126666667;4,575416667;0,72;2,3;10,72208333
+452;Elektrizit√§tswerk Obergoms AG;10440012345;C7;2,854133333;4,575;0,72;2,3;10,44913333
+454;Elektrizit√§tswerk Obwalden;10179012345;H1;15,1575;8,008333333;1,4;2,3;26,86583333
+454;Elektrizit√§tswerk Obwalden;10179012345;H2;12,8096;7,4208;1,4;2,3;23,9304
+454;Elektrizit√§tswerk Obwalden;10179012345;H3;10,12533333;6,211555556;1,4;2,3;20,03688889
+454;Elektrizit√§tswerk Obwalden;10179012345;H4;11,01466667;7,010666667;1,4;2,3;21,72533333
+454;Elektrizit√§tswerk Obwalden;10179012345;H5;9,3306;6,0988;1,4;2,3;19,1294
+454;Elektrizit√§tswerk Obwalden;10179012345;H6;7,53818;5,11964;1,4;2,3;16,35782
+454;Elektrizit√§tswerk Obwalden;10179012345;H7;8,985038462;6,169923077;1,4;2,3;18,85496154
+454;Elektrizit√§tswerk Obwalden;10179012345;H8;10,10838333;6,797677778;1,4;2,3;20,60606111
+454;Elektrizit√§tswerk Obwalden;10179012345;C1;10,59871875;7,294645833;1,4;2,3;21,59336458
+454;Elektrizit√§tswerk Obwalden;10179012345;C2;9,265155556;6,7272;1,4;2,3;19,69235556
+454;Elektrizit√§tswerk Obwalden;10179012345;C3;7,926;6,476333333;1,4;2,3;18,10233333
+454;Elektrizit√§tswerk Obwalden;10179012345;C4;7,1228;6,1441;1,4;2,3;16,9669
+454;Elektrizit√§tswerk Obwalden;10179012345;C5;5,4984;6,1441;0,9;2,3;14,8425
+454;Elektrizit√§tswerk Obwalden;10179012345;C6;4,9528;6,003933333;0,9;2,3;14,15673333
+454;Elektrizit√§tswerk Obwalden;10179012345;C7;4,38032;5,710505726;0,9;2,3;13,29082573
+456;Elektrizit√§tswerk Raperswilen;10898012345;H1;12,81185268;5,1;0;2,3;20,21185268
+456;Elektrizit√§tswerk Raperswilen;10898012345;H2;10,58085714;5,1;0;2,3;17,98085714
+456;Elektrizit√§tswerk Raperswilen;10898012345;H3;8,02047619;5,1;0;2,3;15,42047619
+456;Elektrizit√§tswerk Raperswilen;10898012345;H4;8,913404762;5,1;0;2,3;16,31340476
+456;Elektrizit√§tswerk Raperswilen;10898012345;H5;7,287614286;5,1;0;2,3;14,68761429
+456;Elektrizit√§tswerk Raperswilen;10898012345;H6;5,560284286;5,1;0;2,3;12,96028429
+456;Elektrizit√§tswerk Raperswilen;10898012345;H7;7,003554945;5,1;0;2,3;14,40355495
+456;Elektrizit√§tswerk Raperswilen;10898012345;H8;8,060392857;5,1;0;2,3;15,46039286
+456;Elektrizit√§tswerk Raperswilen;10898012345;C1;9,12078125;5,1;0;2,3;16,52078125
+456;Elektrizit√§tswerk Raperswilen;10898012345;C2;8,17345;5,1;0;2,3;15,57345
+456;Elektrizit√§tswerk Raperswilen;10898012345;C3;8,016;5,1;0;2,3;15,416
+456;Elektrizit√§tswerk Raperswilen;10898012345;C4;7,4663;5,1;0;2,3;14,8663
+466;Elektrizit√§tswerk Schwyz;10114012345;H1;14,03479167;7,342916667;1,35;2,3;25,02770833
+466;Elektrizit√§tswerk Schwyz;10114012345;H2;11,9744;7,2392;1,35;2,3;22,8636
+466;Elektrizit√§tswerk Schwyz;10114012345;H3;8,919111111;6,288444444;1,35;2,3;18,85755556
+466;Elektrizit√§tswerk Schwyz;10114012345;H4;10,386;7,181333333;1,35;2,3;21,21733333
+466;Elektrizit√§tswerk Schwyz;10114012345;H5;8,3084;6,3712;1,35;2,3;18,3296
+466;Elektrizit√§tswerk Schwyz;10114012345;H6;6,06252;5,48136;1,35;2,3;15,19388
+466;Elektrizit√§tswerk Schwyz;10114012345;H7;7,345153846;6,408923077;1,35;2,3;17,40407692
+466;Elektrizit√§tswerk Schwyz;10114012345;H8;9,640355556;7,181955556;1,35;2,3;20,47231111
+466;Elektrizit√§tswerk Schwyz;10114012345;C1;10,02741667;7,460166667;1,35;2,3;21,13758333
+466;Elektrizit√§tswerk Schwyz;10114012345;C2;9,921111111;6,681111111;1,35;2,3;20,25222222
+466;Elektrizit√§tswerk Schwyz;10114012345;C3;8,740444444;5,444444444;1,35;2,3;17,83488889
+466;Elektrizit√§tswerk Schwyz;10114012345;C4;8,090933333;5,023233333;0,85;2,3;16,26416667
+466;Elektrizit√§tswerk Schwyz;10114012345;C7;5,650879438;4,911622095;0,85;2,3;13,71250153
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;H1;12,04994792;6,1;0,4;2,3;20,84994792
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;H2;9,982;6,1;0,4;2,3;18,782
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;H3;7,865555556;6,1;0,4;2,3;16,66555556
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;H4;8,405722222;6,1;0,4;2,3;17,20572222
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;H5;7,138433333;6,1;0,4;2,3;15,93843333
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;H6;5,79553;6,1;0,4;2,3;14,59553
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;H7;6,7865;6,1;0,4;2,3;15,5865
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;H8;7,605916667;6,1;0,4;2,3;16,40591667
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;C1;8,22078125;6,1;0,4;2,3;17,02078125
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;C2;9,25155;6,1;0,4;2,3;18,05155
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;C3;7,014666667;6,1;0,4;2,3;15,81466667
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;C4;6,452233333;6,1;0,4;2,3;15,25223333
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;C5;5,5732;6,1;0,4;2,3;14,3732
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;C6;5,112666667;6,1;0,4;2,3;13,91266667
+470;Elektrizit√§tswerk T√§gerwilen;10104012345;C7;4,429812856;6,1;0,4;2,3;13,22981286
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;H1;16,595;6,2;1,2;2,3;26,295
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;H2;13,76;6,2;1,2;2,3;23,46
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;H3;9,735777778;5,624444444;1,2;2,3;18,86022222
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;H4;11,52;6,2;1,2;2,3;21,22
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;H5;8,7074;5,654;1,2;2,3;17,8614
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;H6;6,54622;5,3362;1,2;2,3;15,38242
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;H7;8,194076923;5,717692308;1,2;2,3;17,41176923
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;H8;9,605022222;5,943555556;1,2;2,3;19,04857778
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;C1;10,01158333;6,042916667;1,2;2,3;19,5545
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;C2;7,973444444;6,020555556;1,2;2,3;17,494
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;C3;7,573777778;6,042222222;1,2;2,3;17,116
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;C4;9,435833333;5,894333333;1,2;2,3;18,83016667
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;C5;8,800366667;5,894333333;1,2;2,3;18,1947
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;C6;8,7718;6,054;1,2;2,3;18,3258
+479;Elektrizit√§tswerk Vaz/Obervaz;10093012345;C7;8,080765032;5,908685313;1,2;2,3;17,48945035
+481;Elektrizit√§tswerk Wigoltingen;10787012345;H1;14,50035714;6,2;0;2,3;23,00035714
+481;Elektrizit√§tswerk Wigoltingen;10787012345;H2;11,48828571;6,2;0;2,3;19,98828571
+481;Elektrizit√§tswerk Wigoltingen;10787012345;H3;8,635714286;6,2;0;2,3;17,13571429
+481;Elektrizit√§tswerk Wigoltingen;10787012345;H4;9,164857143;6,2;0;2,3;17,66485714
+481;Elektrizit√§tswerk Wigoltingen;10787012345;H5;7,533771429;6,2;0;2,3;16,03377143
+481;Elektrizit√§tswerk Wigoltingen;10787012345;H6;5,809131429;6,2;0;2,3;14,30913143
+481;Elektrizit√§tswerk Wigoltingen;10787012345;H7;6,941736264;6,2;0;2,3;15,44173626
+481;Elektrizit√§tswerk Wigoltingen;10787012345;H8;7,991714286;6,2;0;2,3;16,49171429
+481;Elektrizit√§tswerk Wigoltingen;10787012345;C1;8,5575;6,2;0;2,3;17,0575
+481;Elektrizit√§tswerk Wigoltingen;10787012345;C2;8,2439;6,2;0;2,3;16,7439
+481;Elektrizit√§tswerk Wigoltingen;10787012345;C3;6,230666667;6,2;0;2,3;14,73066667
+481;Elektrizit√§tswerk Wigoltingen;10787012345;C4;5,701533333;6,2;0;2,3;14,20153333
+481;Elektrizit√§tswerk Wigoltingen;10787012345;C5;5,016766667;6,2;0;2,3;13,51676667
+481;Elektrizit√§tswerk Wigoltingen;10787012345;C6;4,510944444;6,2;0;2,3;13,01094444
+481;Elektrizit√§tswerk Wigoltingen;10787012345;C7;3,873488451;6,2;0;2,3;12,37348845
+484;Elektrizit√§tswerk Zermatt AG;10402012345;H1;12,72;3,6;0;2,3;18,62
+484;Elektrizit√§tswerk Zermatt AG;10402012345;H2;10,56;3,6;0;2,3;16,46
+484;Elektrizit√§tswerk Zermatt AG;10402012345;H3;8,853333333;3,6;0;2,3;14,75333333
+484;Elektrizit√§tswerk Zermatt AG;10402012345;H4;8,853333333;3,6;0;2,3;14,75333333
+484;Elektrizit√§tswerk Zermatt AG;10402012345;H5;7,623066667;3,487866667;0;2,3;13,41093333
+484;Elektrizit√§tswerk Zermatt AG;10402012345;H6;5,12828;3,25136;0;2,3;10,67964
+484;Elektrizit√§tswerk Zermatt AG;10402012345;H7;7,458461538;3,6;0;2,3;13,35846154
+484;Elektrizit√§tswerk Zermatt AG;10402012345;H8;8;3,6;0;2,3;13,9
+484;Elektrizit√§tswerk Zermatt AG;10402012345;C1;7,92;3,6;0;2,3;13,82
+484;Elektrizit√§tswerk Zermatt AG;10402012345;C2;7,766583333;3,772766667;0;2,3;13,83935
+484;Elektrizit√§tswerk Zermatt AG;10402012345;C3;5,730333333;3,789333333;0;2,3;11,81966667
+484;Elektrizit√§tswerk Zermatt AG;10402012345;C4;5,0254;3,6792;0;2,3;11,0046
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;H1;11,00270833;6,752083333;0,235;2,3;20,28979167
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;H2;10,7264;6,678;0,235;2,3;19,9394
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;H3;7,923555556;5,998888889;0,235;2,3;16,45744444
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;H4;8,752666667;6,636666667;0,235;2,3;17,92433333
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;H5;7,0196;6,042;0,235;2,3;15,5966
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;H6;4,92912;4,9176;0,235;2,3;12,38172
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;H7;6,016307692;4,887153846;0,235;2,3;13,43846154
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;H8;7,793244444;6,637111111;0,235;2,3;16,96535556
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;C1;7,961583333;6,835833333;0,235;2,3;17,33241667
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;C2;8,821111111;5,977;0,235;2,3;17,33311111
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;C3;7,296555556;5,892333333;0,235;2,3;15,72388889
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;C4;6,537383333;5,538666667;0,235;2,3;14,61105
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;C5;6,549383333;5,538666667;0,235;2,3;14,62305
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;C6;6,5927;5,858;0,235;2,3;14,9857
+489;Elektro-Genossenschaft H√ºnenberg;10311012345;C7;5,917684892;5,567370626;0,235;2,3;14,02005552
 691;Eli10 SA;10759012345;H1;14,395;6,2;0;2,3;22,895
 691;Eli10 SA;10759012345;H2;12,28;6,2;0;2,3;20,78
 691;Eli10 SA;10759012345;H3;9,352888889;5,522222222;0;2,3;17,17511111
@@ -1245,18 +1245,18 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 76;Energieversorgung Blumenstein AG;10239012345;C2;11,10516667;5,481033333;1;2,3;19,8862
 76;Energieversorgung Blumenstein AG;10239012345;C3;8,738944444;5,313611111;0,2;2,3;16,55255556
 76;Energieversorgung Blumenstein AG;10239012345;C4;7,885316667;5,240916667;0,06;2,3;15,48623333
-526;Energieversorgung B¸ren AG;10760012345;H1;14,07;7,5;0,5;2,3;24,37
-526;Energieversorgung B¸ren AG;10760012345;H2;14,172;7,5;0,5;2,3;24,472
-526;Energieversorgung B¸ren AG;10760012345;H3;11,79333333;7,5;0,5;2,3;22,09333333
-526;Energieversorgung B¸ren AG;10760012345;H4;12,24333333;7,5;0,5;2,3;22,54333333
-526;Energieversorgung B¸ren AG;10760012345;H5;10,883;7,5;0,5;2,3;21,183
-526;Energieversorgung B¸ren AG;10760012345;H6;9,4389;7,5;0,5;2,3;19,7389
-526;Energieversorgung B¸ren AG;10760012345;H7;9,523461538;7,5;0,5;2,3;19,82346154
-526;Energieversorgung B¸ren AG;10760012345;H8;11,28358333;7,5;0,5;2,3;21,58358333
-526;Energieversorgung B¸ren AG;10760012345;C1;11,41046875;7,5;0,5;2,3;21,71046875
-526;Energieversorgung B¸ren AG;10760012345;C2;11,92172222;7,3;0,5;2,3;22,02172222
-526;Energieversorgung B¸ren AG;10760012345;C3;10,10177778;4,7;0,5;2,3;17,60177778
-526;Energieversorgung B¸ren AG;10760012345;C4;9,401466667;4,7;0,5;2,3;16,90146667
+526;Energieversorgung B√ºren AG;10760012345;H1;14,07;7,5;0,5;2,3;24,37
+526;Energieversorgung B√ºren AG;10760012345;H2;14,172;7,5;0,5;2,3;24,472
+526;Energieversorgung B√ºren AG;10760012345;H3;11,79333333;7,5;0,5;2,3;22,09333333
+526;Energieversorgung B√ºren AG;10760012345;H4;12,24333333;7,5;0,5;2,3;22,54333333
+526;Energieversorgung B√ºren AG;10760012345;H5;10,883;7,5;0,5;2,3;21,183
+526;Energieversorgung B√ºren AG;10760012345;H6;9,4389;7,5;0,5;2,3;19,7389
+526;Energieversorgung B√ºren AG;10760012345;H7;9,523461538;7,5;0,5;2,3;19,82346154
+526;Energieversorgung B√ºren AG;10760012345;H8;11,28358333;7,5;0,5;2,3;21,58358333
+526;Energieversorgung B√ºren AG;10760012345;C1;11,41046875;7,5;0,5;2,3;21,71046875
+526;Energieversorgung B√ºren AG;10760012345;C2;11,92172222;7,3;0,5;2,3;22,02172222
+526;Energieversorgung B√ºren AG;10760012345;C3;10,10177778;4,7;0,5;2,3;17,60177778
+526;Energieversorgung B√ºren AG;10760012345;C4;9,401466667;4,7;0,5;2,3;16,90146667
 527;Energieversorgung der Gemeinde Lantsch/Lenz;10525012345;H1;16,83;5,625;0,75;2,3;25,505
 527;Energieversorgung der Gemeinde Lantsch/Lenz;10525012345;H2;13,2528;5,52;0,75;2,3;21,8228
 527;Energieversorgung der Gemeinde Lantsch/Lenz;10525012345;H3;9,904888889;4,622222222;0,75;2,3;17,57711111
@@ -1296,18 +1296,18 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 537;EV Zeiningen;10828012345;C2;6,510066667;3,392666667;0,74;2,3;12,94273333
 537;EV Zeiningen;10828012345;C3;6,76;4,08;0,74;2,3;13,88
 537;EV Zeiningen;10828012345;C4;6,1565;3,898833333;0,74;2,3;13,09533333
-538;EVG Gr‰chen AG;10795012345;H1;13,17;5,6;1,1;2,3;22,17
-538;EVG Gr‰chen AG;10795012345;H2;11,28;5,6;1,1;2,3;20,28
-538;EVG Gr‰chen AG;10795012345;H3;9,786666667;5,326444444;1,1;2,3;18,51311111
-538;EVG Gr‰chen AG;10795012345;H4;9,786666667;5,6;1,1;2,3;18,78666667
-538;EVG Gr‰chen AG;10795012345;H5;9,04;5,358533333;1,1;2,3;17,79853333
-538;EVG Gr‰chen AG;10795012345;H6;8,256;5,03756;1,1;2,3;16,69356
-538;EVG Gr‰chen AG;10795012345;H7;8,566153846;5,429076923;1,1;2,3;17,39523077
-538;EVG Gr‰chen AG;10795012345;H8;9,04;5,651766667;1,1;2,3;18,09176667
-538;EVG Gr‰chen AG;10795012345;C1;8,97;5,6;1,1;2,3;17,97
-538;EVG Gr‰chen AG;10795012345;C2;8,2;5,6;1,1;2,3;17,2
-538;EVG Gr‰chen AG;10795012345;C3;8,72;5,085;1,1;2,3;17,205
-538;EVG Gr‰chen AG;10795012345;C4;8,36;4,967;1,1;2,3;16,727
+538;EVG Gr√§chen AG;10795012345;H1;13,17;5,6;1,1;2,3;22,17
+538;EVG Gr√§chen AG;10795012345;H2;11,28;5,6;1,1;2,3;20,28
+538;EVG Gr√§chen AG;10795012345;H3;9,786666667;5,326444444;1,1;2,3;18,51311111
+538;EVG Gr√§chen AG;10795012345;H4;9,786666667;5,6;1,1;2,3;18,78666667
+538;EVG Gr√§chen AG;10795012345;H5;9,04;5,358533333;1,1;2,3;17,79853333
+538;EVG Gr√§chen AG;10795012345;H6;8,256;5,03756;1,1;2,3;16,69356
+538;EVG Gr√§chen AG;10795012345;H7;8,566153846;5,429076923;1,1;2,3;17,39523077
+538;EVG Gr√§chen AG;10795012345;H8;9,04;5,651766667;1,1;2,3;18,09176667
+538;EVG Gr√§chen AG;10795012345;C1;8,97;5,6;1,1;2,3;17,97
+538;EVG Gr√§chen AG;10795012345;C2;8,2;5,6;1,1;2,3;17,2
+538;EVG Gr√§chen AG;10795012345;C3;8,72;5,085;1,1;2,3;17,205
+538;EVG Gr√§chen AG;10795012345;C4;8,36;4,967;1,1;2,3;16,727
 539;EVN Energieversorgung Nikolai AG;10887012345;H1;16,72;5,1146875;1,07;2,3;25,2046875
 539;EVN Energieversorgung Nikolai AG;10887012345;H2;13,75;5,107;1,07;2,3;22,227
 539;EVN Energieversorgung Nikolai AG;10887012345;H3;11,40333333;4,989666667;1,07;2,3;19,763
@@ -1440,36 +1440,36 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 249;EWD;10201012345;C2;12,22172222;5,622411111;0,43;2,3;20,57413333
 249;EWD;10201012345;C3;9,06;4,4;0,43;2,3;16,19
 249;EWD;10201012345;C4;6,732;4,1;0,43;2,3;13,562
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;H1;17,705;6,875;0,5;2,3;27,38
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;H2;14,3768;6,812;0,5;2,3;23,9888
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;H3;11,06266667;6,273333333;0,5;2,3;20,136
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;H4;11,78133333;6,786666667;0,5;2,3;21,368
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;H5;9,8536;6,324;0,5;2,3;18,9776
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;H6;7,80008;5,8172;0,5;2,3;16,41728
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;H7;9,197230769;6,435384615;0,5;2,3;18,43261538
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;H8;10,5018;6,787;0,5;2,3;20,0888
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;C1;10,638875;6,970625;0,5;2,3;20,4095
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;C2;9,2683;6,9345;0,5;2,3;19,0028
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;C3;7,792666667;6,97;0,5;2,3;17,56266667
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;C4;7,3992;6,734;0,5;2,3;16,9332
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;C5;8,0012;6,734;0,5;2,3;17,5352
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;C6;7,762666667;6,97;0,5;2,3;17,53266667
-557;EWD Elektrizit‰tswerk Davos AG;10118012345;C7;7,331994734;6,736960507;0,5;2,3;16,86895524
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;H1;18,24462798;5,5;0,3;2,3;26,34462798
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;H2;14,41028571;5,5;0,3;2,3;22,51028571
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;H3;10,77015873;5,5;0,3;2,3;18,87015873
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;H4;11,45363492;5,5;0,3;2,3;19,55363492
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;H5;9,369038095;5,5;0,3;2,3;17,4690381
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;H6;7,164711429;5,5;0,3;2,3;15,26471143
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;H7;8,618428571;5,5;0,3;2,3;16,71842857
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;H8;9,720547619;5,5;0,3;2,3;17,82054762
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;C1;16,554375;5,4;0,3;2,3;24,554375
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;C2;11,7862;5,4;0,3;2,3;19,7862
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;C3;12,25866667;5,3;0,3;2,3;20,15866667
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;C4;11,14493333;5,3;0,3;2,3;19,04493333
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;C5;5,948666667;5,3;0,3;2,3;13,84866667
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;C6;5,654444444;4,27;0,3;2,3;12,52444444
-558;EWD Genossenschaft Elektrizit‰ts- und Wasserwerk;10308012345;C7;5,130488094;4,27;0,3;2,3;12,00048809
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;H1;17,705;6,875;0,5;2,3;27,38
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;H2;14,3768;6,812;0,5;2,3;23,9888
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;H3;11,06266667;6,273333333;0,5;2,3;20,136
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;H4;11,78133333;6,786666667;0,5;2,3;21,368
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;H5;9,8536;6,324;0,5;2,3;18,9776
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;H6;7,80008;5,8172;0,5;2,3;16,41728
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;H7;9,197230769;6,435384615;0,5;2,3;18,43261538
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;H8;10,5018;6,787;0,5;2,3;20,0888
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;C1;10,638875;6,970625;0,5;2,3;20,4095
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;C2;9,2683;6,9345;0,5;2,3;19,0028
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;C3;7,792666667;6,97;0,5;2,3;17,56266667
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;C4;7,3992;6,734;0,5;2,3;16,9332
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;C5;8,0012;6,734;0,5;2,3;17,5352
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;C6;7,762666667;6,97;0,5;2,3;17,53266667
+557;EWD Elektrizit√§tswerk Davos AG;10118012345;C7;7,331994734;6,736960507;0,5;2,3;16,86895524
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;H1;18,24462798;5,5;0,3;2,3;26,34462798
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;H2;14,41028571;5,5;0,3;2,3;22,51028571
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;H3;10,77015873;5,5;0,3;2,3;18,87015873
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;H4;11,45363492;5,5;0,3;2,3;19,55363492
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;H5;9,369038095;5,5;0,3;2,3;17,4690381
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;H6;7,164711429;5,5;0,3;2,3;15,26471143
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;H7;8,618428571;5,5;0,3;2,3;16,71842857
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;H8;9,720547619;5,5;0,3;2,3;17,82054762
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;C1;16,554375;5,4;0,3;2,3;24,554375
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;C2;11,7862;5,4;0,3;2,3;19,7862
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;C3;12,25866667;5,3;0,3;2,3;20,15866667
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;C4;11,14493333;5,3;0,3;2,3;19,04493333
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;C5;5,948666667;5,3;0,3;2,3;13,84866667
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;C6;5,654444444;4,27;0,3;2,3;12,52444444
+558;EWD Genossenschaft Elektrizit√§ts- und Wasserwerk;10308012345;C7;5,130488094;4,27;0,3;2,3;12,00048809
 559;EWK Herzogenbuchsee AG;10301012345;H1;15,2075;5,803333333;0,75;2,3;24,06083333
 559;EWK Herzogenbuchsee AG;10301012345;H2;12,9892;5,7632;0,75;2,3;21,8024
 559;EWK Herzogenbuchsee AG;10301012345;H3;9,327333333;5,335111111;0,75;2,3;17,71244444
@@ -1515,20 +1515,20 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 566;Feuerschaugemeinde Appenzell;10128012345;C5;4,452;4,7775;0;2,3;11,5295
 566;Feuerschaugemeinde Appenzell;10128012345;C6;4,120844444;4,702788889;0;2,3;11,12363333
 566;Feuerschaugemeinde Appenzell;10128012345;C7;3,684450468;4,57912617;0;2,3;10,56357664
-568;Forces Motrices de l'AvanÁon SA;10027012345;H1;16,5;8,6;0,9;2,3;28,3
-568;Forces Motrices de l'AvanÁon SA;10027012345;H2;13,26;8,6;0,9;2,3;25,06
-568;Forces Motrices de l'AvanÁon SA;10027012345;H3;11,73911111;7,181333333;0,9;2,3;22,12044444
-568;Forces Motrices de l'AvanÁon SA;10027012345;H4;10,7;8,6;0,9;2,3;22,5
-568;Forces Motrices de l'AvanÁon SA;10027012345;H5;9,734133333;7,2928;0,9;2,3;20,22693333
-568;Forces Motrices de l'AvanÁon SA;10027012345;H6;6,21024;6,17784;0,9;2,3;15,58808
-568;Forces Motrices de l'AvanÁon SA;10027012345;H7;8,662461538;7,537846154;0,9;2,3;19,40030769
-568;Forces Motrices de l'AvanÁon SA;10027012345;H8;9,42;8,6;0,9;2,3;21,22
-568;Forces Motrices de l'AvanÁon SA;10027012345;C1;9,3;8,6;0,9;2,3;21,1
-568;Forces Motrices de l'AvanÁon SA;10027012345;C2;7,98;8,6;0,9;2,3;19,78
-568;Forces Motrices de l'AvanÁon SA;10027012345;C3;7,863333333;6,983333333;0,9;2,3;18,04666667
-568;Forces Motrices de l'AvanÁon SA;10027012345;C4;7,134;6,59;0,9;2,3;16,924
-568;Forces Motrices de l'AvanÁon SA;10027012345;C6;4,999333333;6,983333333;0,9;2,3;15,18266667
-568;Forces Motrices de l'AvanÁon SA;10027012345;C7;4,386965773;6,594934179;0,9;2,3;14,18189995
+568;Forces Motrices de l'Avan√ßon SA;10027012345;H1;16,5;8,6;0,9;2,3;28,3
+568;Forces Motrices de l'Avan√ßon SA;10027012345;H2;13,26;8,6;0,9;2,3;25,06
+568;Forces Motrices de l'Avan√ßon SA;10027012345;H3;11,73911111;7,181333333;0,9;2,3;22,12044444
+568;Forces Motrices de l'Avan√ßon SA;10027012345;H4;10,7;8,6;0,9;2,3;22,5
+568;Forces Motrices de l'Avan√ßon SA;10027012345;H5;9,734133333;7,2928;0,9;2,3;20,22693333
+568;Forces Motrices de l'Avan√ßon SA;10027012345;H6;6,21024;6,17784;0,9;2,3;15,58808
+568;Forces Motrices de l'Avan√ßon SA;10027012345;H7;8,662461538;7,537846154;0,9;2,3;19,40030769
+568;Forces Motrices de l'Avan√ßon SA;10027012345;H8;9,42;8,6;0,9;2,3;21,22
+568;Forces Motrices de l'Avan√ßon SA;10027012345;C1;9,3;8,6;0,9;2,3;21,1
+568;Forces Motrices de l'Avan√ßon SA;10027012345;C2;7,98;8,6;0,9;2,3;19,78
+568;Forces Motrices de l'Avan√ßon SA;10027012345;C3;7,863333333;6,983333333;0,9;2,3;18,04666667
+568;Forces Motrices de l'Avan√ßon SA;10027012345;C4;7,134;6,59;0,9;2,3;16,924
+568;Forces Motrices de l'Avan√ßon SA;10027012345;C6;4,999333333;6,983333333;0,9;2,3;15,18266667
+568;Forces Motrices de l'Avan√ßon SA;10027012345;C7;4,386965773;6,594934179;0,9;2,3;14,18189995
 813;Gebnet AG;10188012345;H1;20,695;8,2;0,09;2,3;31,285
 813;Gebnet AG;10188012345;H2;17,6684;7,5448;0,09;2,3;27,6032
 813;Gebnet AG;10188012345;H3;14,33577778;6,902666667;0,09;2,3;23,62844444
@@ -1586,16 +1586,16 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 588;Gemeindewerke Erstfeld;10562012345;C5;5,826;6,2;1;2,3;15,326
 588;Gemeindewerke Erstfeld;10562012345;C6;5,642;6,2;1;2,3;15,142
 588;Gemeindewerke Erstfeld;10562012345;C7;5,4388;6,2;1;2,3;14,9388
-593;Gemeindewerke St‰fa;10780012345;H1;13,33112351;4,85125;0,36;2,3;20,84237351
-593;Gemeindewerke St‰fa;10780012345;H2;10,95285714;4,8412;0,36;2,3;18,45405714
-593;Gemeindewerke St‰fa;10780012345;H3;8,138253968;4,689555556;0,36;2,3;15,48780952
-593;Gemeindewerke St‰fa;10780012345;H4;9,185515873;4,844444444;0,36;2,3;16,68996032
-593;Gemeindewerke St‰fa;10780012345;H5;7,372880952;4,709066667;0,36;2,3;14,74194762
-593;Gemeindewerke St‰fa;10780012345;H6;5,445864286;4,56154;0,36;2,3;12,66740429
-593;Gemeindewerke St‰fa;10780012345;H7;7,099478022;4,749461538;0,36;2,3;14,50893956
-593;Gemeindewerke St‰fa;10780012345;H8;8,27922619;4,844511111;0,36;2,3;15,7837373
-593;Gemeindewerke St‰fa;10780012345;C1;9,53171875;5,035427083;0,36;2,3;17,22714583
-593;Gemeindewerke St‰fa;10780012345;C2;8,51775;5,024786111;0,36;2,3;16,20253611
+593;Gemeindewerke St√§fa;10780012345;H1;13,33112351;4,85125;0,36;2,3;20,84237351
+593;Gemeindewerke St√§fa;10780012345;H2;10,95285714;4,8412;0,36;2,3;18,45405714
+593;Gemeindewerke St√§fa;10780012345;H3;8,138253968;4,689555556;0,36;2,3;15,48780952
+593;Gemeindewerke St√§fa;10780012345;H4;9,185515873;4,844444444;0,36;2,3;16,68996032
+593;Gemeindewerke St√§fa;10780012345;H5;7,372880952;4,709066667;0,36;2,3;14,74194762
+593;Gemeindewerke St√§fa;10780012345;H6;5,445864286;4,56154;0,36;2,3;12,66740429
+593;Gemeindewerke St√§fa;10780012345;H7;7,099478022;4,749461538;0,36;2,3;14,50893956
+593;Gemeindewerke St√§fa;10780012345;H8;8,27922619;4,844511111;0,36;2,3;15,7837373
+593;Gemeindewerke St√§fa;10780012345;C1;9,53171875;5,035427083;0,36;2,3;17,22714583
+593;Gemeindewerke St√§fa;10780012345;C2;8,51775;5,024786111;0,36;2,3;16,20253611
 132;Genossenschaft Elektra, Jegenstorf;10487012345;H1;14,275;6,7;1,26;2,3;24,535
 132;Genossenschaft Elektra, Jegenstorf;10487012345;H2;12,7;6,7;1,11;2,3;22,81
 132;Genossenschaft Elektra, Jegenstorf;10487012345;H3;10,13822222;6,552888889;0,88;2,3;19,87111111
@@ -1611,20 +1611,20 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 132;Genossenschaft Elektra, Jegenstorf;10487012345;C5;5,9808;4,4;0,08;2,3;12,7608
 132;Genossenschaft Elektra, Jegenstorf;10487012345;C6;5,5936;4,4;0,03;2,3;12,3236
 132;Genossenschaft Elektra, Jegenstorf;10487012345;C7;5,09312;4,4;0,01;2,3;11,80312
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;H1;13,99217262;5,485267857;0,12;2,3;21,89744048
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;H2;11,23257143;5,453714286;0,12;2,3;19,10628571
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;H3;8,382539683;5,074285714;0,12;2,3;15,8768254
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;H4;9,13215873;5,471142857;0,12;2,3;17,02330159
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;H5;7,417009524;5,127828571;0,12;2,3;14,9648381
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;H6;5,599102857;4,758348571;0,12;2,3;12,77745143
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;H7;6,956241758;5,242263736;0,12;2,3;14,61850549
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;H8;8,065761905;5,471285714;0,12;2,3;15,95704762
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;C1;8,923125;5,978125;0,12;2,3;17,32125
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;C2;8,8541;5,7482;0,12;2,3;17,0223
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;C3;6,706666667;5,614666667;0,12;2,3;14,74133333
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;C4;5,949333333;5,402733333;0,12;2,3;13,77206667
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;C5;5,6396;5,402733333;0,12;2,3;13,46233333
-244;Genossenschaft EW M¸nchwilen (EWM);10275012345;C6;5,101466667;5,446555556;0,12;2,3;12,96802222
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;H1;13,99217262;5,485267857;0,12;2,3;21,89744048
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;H2;11,23257143;5,453714286;0,12;2,3;19,10628571
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;H3;8,382539683;5,074285714;0,12;2,3;15,8768254
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;H4;9,13215873;5,471142857;0,12;2,3;17,02330159
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;H5;7,417009524;5,127828571;0,12;2,3;14,9648381
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;H6;5,599102857;4,758348571;0,12;2,3;12,77745143
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;H7;6,956241758;5,242263736;0,12;2,3;14,61850549
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;H8;8,065761905;5,471285714;0,12;2,3;15,95704762
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;C1;8,923125;5,978125;0,12;2,3;17,32125
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;C2;8,8541;5,7482;0,12;2,3;17,0223
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;C3;6,706666667;5,614666667;0,12;2,3;14,74133333
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;C4;5,949333333;5,402733333;0,12;2,3;13,77206667
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;C5;5,6396;5,402733333;0,12;2,3;13,46233333
+244;Genossenschaft EW M√ºnchwilen (EWM);10275012345;C6;5,101466667;5,446555556;0,12;2,3;12,96802222
 606;Genossenschaft EW Romanshorn;10221012345;H1;14,30772321;5,786904762;0,13;2,3;22,52462798
 606;Genossenschaft EW Romanshorn;10221012345;H2;11,85142857;5,758857143;0,13;2,3;20,04028571
 606;Genossenschaft EW Romanshorn;10221012345;H3;9,615238095;5,421587302;0,13;2,3;17,4668254
@@ -1653,21 +1653,21 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 609;Groupe E SA;10063012345;C5;3,98758;8,68235;0,9;2,3;15,86993
 609;Groupe E SA;10063012345;C6;3,814522222;8,625616667;0,9;2,3;15,64013889
 609;Groupe E SA;10063012345;C7;3,420328379;8,438259781;0,9;2,3;15,05858816
-610;GruyËre Energie SA;10160012345;H1;12,7625;6,88;0,76575;2,3;22,70825
-610;GruyËre Energie SA;10160012345;H2;10,93748571;6,599714286;0,656249143;2,3;20,49344914
-610;GruyËre Energie SA;10160012345;H3;8,075206349;5,800349206;0,484512381;2,3;16,66006794
-610;GruyËre Energie SA;10160012345;H4;9,075047619;6,573174603;0,544502857;2,3;18,49272508
-610;GruyËre Energie SA;10160012345;H5;7,246647619;5,844019048;0,434798857;2,3;15,82546552
-610;GruyËre Energie SA;10160012345;H6;5,477994286;5,407205714;0,328679657;2,3;13,51387966
-610;GruyËre Energie SA;10160012345;H7;6,847978022;5,940021978;0,410878681;2,3;15,49887868
-610;GruyËre Energie SA;10160012345;H8;8,165742857;6,57352381;0,489944571;2,3;17,52921124
-610;GruyËre Energie SA;10160012345;C1;9,0245;6,88;0,54147;2,3;18,74597
-610;GruyËre Energie SA;10160012345;C2;8,3392;6,88;0,500352;2,3;18,019552
-610;GruyËre Energie SA;10160012345;C3;6,527013333;6,688133333;0,3891248;2,3;15,90427147
-610;GruyËre Energie SA;10160012345;C4;5,924984;6,42678;0,35327604;2,3;15,00504004
-610;GruyËre Energie SA;10160012345;C5;5,557336;5,9962;0,33344016;2,3;14,18697616
-610;GruyËre Energie SA;10160012345;C6;4,322112;6,1684;0,25932672;2,3;13,04983872
-610;GruyËre Energie SA;10160012345;C7;3,791356548;5,760506978;0,137481393;2,3;11,98934492
+610;Gruy√®re Energie SA;10160012345;H1;12,7625;6,88;0,76575;2,3;22,70825
+610;Gruy√®re Energie SA;10160012345;H2;10,93748571;6,599714286;0,656249143;2,3;20,49344914
+610;Gruy√®re Energie SA;10160012345;H3;8,075206349;5,800349206;0,484512381;2,3;16,66006794
+610;Gruy√®re Energie SA;10160012345;H4;9,075047619;6,573174603;0,544502857;2,3;18,49272508
+610;Gruy√®re Energie SA;10160012345;H5;7,246647619;5,844019048;0,434798857;2,3;15,82546552
+610;Gruy√®re Energie SA;10160012345;H6;5,477994286;5,407205714;0,328679657;2,3;13,51387966
+610;Gruy√®re Energie SA;10160012345;H7;6,847978022;5,940021978;0,410878681;2,3;15,49887868
+610;Gruy√®re Energie SA;10160012345;H8;8,165742857;6,57352381;0,489944571;2,3;17,52921124
+610;Gruy√®re Energie SA;10160012345;C1;9,0245;6,88;0,54147;2,3;18,74597
+610;Gruy√®re Energie SA;10160012345;C2;8,3392;6,88;0,500352;2,3;18,019552
+610;Gruy√®re Energie SA;10160012345;C3;6,527013333;6,688133333;0,3891248;2,3;15,90427147
+610;Gruy√®re Energie SA;10160012345;C4;5,924984;6,42678;0,35327604;2,3;15,00504004
+610;Gruy√®re Energie SA;10160012345;C5;5,557336;5,9962;0,33344016;2,3;14,18697616
+610;Gruy√®re Energie SA;10160012345;C6;4,322112;6,1684;0,25932672;2,3;13,04983872
+610;Gruy√®re Energie SA;10160012345;C7;3,791356548;5,760506978;0,137481393;2,3;11,98934492
 622;IB Langenthal AG;10005012345;H1;13,26916667;6,260833333;0,88;2,3;22,71
 622;IB Langenthal AG;10005012345;H2;10,9412;6,2164;0,88;2,3;20,3376
 622;IB Langenthal AG;10005012345;H3;8,776222222;5,742444444;0,88;2,3;17,69866667
@@ -1739,34 +1739,34 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 623;Industrielle Betriebe Murten;10557012345;C4;6,170372;4,9376;0,34;2,3;13,747972
 623;Industrielle Betriebe Murten;10557012345;C6;3,59038;5,492573333;0,34;2,3;11,72295333
 623;Industrielle Betriebe Murten;10557012345;C7;3,071439281;5,092056126;0,34;2,3;10,80349541
-626;Infrastruktur M‰nnedorf;10004012345;H1;14,75172619;5,640997024;0;2,3;22,69272321
-626;Infrastruktur M‰nnedorf;10004012345;H2;12,14611429;5,621714286;0;2,3;20,06782857
-626;Infrastruktur M‰nnedorf;10004012345;H3;9,201174603;5,38984127;0;2,3;16,89101587
-626;Infrastruktur M‰nnedorf;10004012345;H4;10,21536508;5,632365079;0;2,3;18,14773016
-626;Infrastruktur M‰nnedorf;10004012345;H5;8,350361905;5,422561905;0;2,3;16,07292381
-626;Infrastruktur M‰nnedorf;10004012345;H6;6,369108571;5,196768571;0;2,3;13,86587714
-626;Infrastruktur M‰nnedorf;10004012345;H7;8,016032967;5,492494505;0;2,3;15,80852747
-626;Infrastruktur M‰nnedorf;10004012345;H8;9,228085714;5,632452381;0;2,3;17,1605381
-626;Infrastruktur M‰nnedorf;10004012345;C1;10,43075;5,9421875;0;2,3;18,6729375
-626;Infrastruktur M‰nnedorf;10004012345;C2;9,335766667;5,9239;0;2,3;17,55966667
-626;Infrastruktur M‰nnedorf;10004012345;C3;8,83178;5,341333333;0;2,3;16,47311333
-626;Infrastruktur M‰nnedorf;10004012345;C4;6,369369333;5,254066667;0;2,3;13,923436
-626;Infrastruktur M‰nnedorf;10004012345;C5;9,054777333;5,0892;0;2,3;16,44397733
-630;L' Energie de Sion-RÈgion SA;10143012345;H1;9,2;5,5;1,1;2,3;18,1
-630;L' Energie de Sion-RÈgion SA;10143012345;H2;7,58;5,5;0,91;2,3;16,29
-630;L' Energie de Sion-RÈgion SA;10143012345;H3;6,3;5,5;0,76;2,3;14,86
-630;L' Energie de Sion-RÈgion SA;10143012345;H4;6,3;5,5;0,76;2,3;14,86
-630;L' Energie de Sion-RÈgion SA;10143012345;H5;5,66;5,5;0,68;2,3;14,14
-630;L' Energie de Sion-RÈgion SA;10143012345;H6;4,53824;4,63168;0,54;2,3;12,00992
-630;L' Energie de Sion-RÈgion SA;10143012345;H7;6,370153846;5,291076923;0,76;2,3;14,72123077
-630;L' Energie de Sion-RÈgion SA;10143012345;H8;5,66;5,5;0,68;2,3;14,14
-630;L' Energie de Sion-RÈgion SA;10143012345;C1;7,77925;5,242875;0,93;2,3;16,252125
-630;L' Energie de Sion-RÈgion SA;10143012345;C2;7,145533333;5,292;0,86;2,3;15,59753333
-630;L' Energie de Sion-RÈgion SA;10143012345;C3;5,687333333;5,228666667;0,68;2,3;13,896
-630;L' Energie de Sion-RÈgion SA;10143012345;C4;5,1028;5,0375;0,61;2,3;13,0503
-630;L' Energie de Sion-RÈgion SA;10143012345;C5;4,8292;5,0375;0,58;2,3;12,7467
-630;L' Energie de Sion-RÈgion SA;10143012345;C6;4,539333333;5,216433333;0,54;2,3;12,59576667
-630;L' Energie de Sion-RÈgion SA;10143012345;C7;3,83858157;4,974859191;0,46;2,3;11,57344076
+626;Infrastruktur M√§nnedorf;10004012345;H1;14,75172619;5,640997024;0;2,3;22,69272321
+626;Infrastruktur M√§nnedorf;10004012345;H2;12,14611429;5,621714286;0;2,3;20,06782857
+626;Infrastruktur M√§nnedorf;10004012345;H3;9,201174603;5,38984127;0;2,3;16,89101587
+626;Infrastruktur M√§nnedorf;10004012345;H4;10,21536508;5,632365079;0;2,3;18,14773016
+626;Infrastruktur M√§nnedorf;10004012345;H5;8,350361905;5,422561905;0;2,3;16,07292381
+626;Infrastruktur M√§nnedorf;10004012345;H6;6,369108571;5,196768571;0;2,3;13,86587714
+626;Infrastruktur M√§nnedorf;10004012345;H7;8,016032967;5,492494505;0;2,3;15,80852747
+626;Infrastruktur M√§nnedorf;10004012345;H8;9,228085714;5,632452381;0;2,3;17,1605381
+626;Infrastruktur M√§nnedorf;10004012345;C1;10,43075;5,9421875;0;2,3;18,6729375
+626;Infrastruktur M√§nnedorf;10004012345;C2;9,335766667;5,9239;0;2,3;17,55966667
+626;Infrastruktur M√§nnedorf;10004012345;C3;8,83178;5,341333333;0;2,3;16,47311333
+626;Infrastruktur M√§nnedorf;10004012345;C4;6,369369333;5,254066667;0;2,3;13,923436
+626;Infrastruktur M√§nnedorf;10004012345;C5;9,054777333;5,0892;0;2,3;16,44397733
+630;L' Energie de Sion-R√©gion SA;10143012345;H1;9,2;5,5;1,1;2,3;18,1
+630;L' Energie de Sion-R√©gion SA;10143012345;H2;7,58;5,5;0,91;2,3;16,29
+630;L' Energie de Sion-R√©gion SA;10143012345;H3;6,3;5,5;0,76;2,3;14,86
+630;L' Energie de Sion-R√©gion SA;10143012345;H4;6,3;5,5;0,76;2,3;14,86
+630;L' Energie de Sion-R√©gion SA;10143012345;H5;5,66;5,5;0,68;2,3;14,14
+630;L' Energie de Sion-R√©gion SA;10143012345;H6;4,53824;4,63168;0,54;2,3;12,00992
+630;L' Energie de Sion-R√©gion SA;10143012345;H7;6,370153846;5,291076923;0,76;2,3;14,72123077
+630;L' Energie de Sion-R√©gion SA;10143012345;H8;5,66;5,5;0,68;2,3;14,14
+630;L' Energie de Sion-R√©gion SA;10143012345;C1;7,77925;5,242875;0,93;2,3;16,252125
+630;L' Energie de Sion-R√©gion SA;10143012345;C2;7,145533333;5,292;0,86;2,3;15,59753333
+630;L' Energie de Sion-R√©gion SA;10143012345;C3;5,687333333;5,228666667;0,68;2,3;13,896
+630;L' Energie de Sion-R√©gion SA;10143012345;C4;5,1028;5,0375;0,61;2,3;13,0503
+630;L' Energie de Sion-R√©gion SA;10143012345;C5;4,8292;5,0375;0,58;2,3;12,7467
+630;L' Energie de Sion-R√©gion SA;10143012345;C6;4,539333333;5,216433333;0,54;2,3;12,59576667
+630;L' Energie de Sion-R√©gion SA;10143012345;C7;3,83858157;4,974859191;0,46;2,3;11,57344076
 632;Licht- & Wasserwerk Adelboden AG;10757012345;H1;17,56666667;10,575;0,18;2,3;30,62166667
 632;Licht- & Wasserwerk Adelboden AG;10757012345;H2;14,4648;9,544;0,18;2,3;26,4888
 632;Licht- & Wasserwerk Adelboden AG;10757012345;H3;10,71155556;7,88;0,18;2,3;21,07155556
@@ -1919,58 +1919,58 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 650;Politische Gemeinde Herdern;10642012345;C5;5,1005;5,75;0;2,3;13,1505
 650;Politische Gemeinde Herdern;10642012345;C6;4,723833333;5,75;0;2,3;12,77383333
 650;Politische Gemeinde Herdern;10642012345;C7;4,13886607;5,75;0;2,3;12,18886607
-651;Politische Gemeinde H¸ttlingen;10902012345;H1;15,61104167;6,582395833;0,43;2,3;24,9234375
-651;Politische Gemeinde H¸ttlingen;10902012345;H2;12,8664;6,5368;0,43;2,3;22,1332
-651;Politische Gemeinde H¸ttlingen;10902012345;H3;10,13466667;5,942666667;0,43;2,3;18,80733333
-651;Politische Gemeinde H¸ttlingen;10902012345;H4;10,75311111;6,552111111;0,43;2,3;20,03522222
-651;Politische Gemeinde H¸ttlingen;10902012345;H5;9,139866667;6,011266667;0,43;2,3;17,88113333
-651;Politische Gemeinde H¸ttlingen;10902012345;H6;7,44596;5,44338;0,43;2,3;15,61934
-651;Politische Gemeinde H¸ttlingen;10902012345;H7;8,641538462;6,242269231;0,43;2,3;17,61380769
-651;Politische Gemeinde H¸ttlingen;10902012345;H8;9,686688889;6,552311111;0,43;2,3;18,969
-651;Politische Gemeinde H¸ttlingen;10902012345;C1;10,00429167;6,94884375;0,43;2,3;19,68313542
-651;Politische Gemeinde H¸ttlingen;10902012345;C2;8,842355556;6,912455556;0,43;2,3;18,48481111
-653;Politische Gemeinde M¸llheim;10741012345;H1;11,65962054;5,7;0,5;2,3;20,15962054
-653;Politische Gemeinde M¸llheim;10741012345;H2;9,571571429;5,7;0,5;2,3;18,07157143
-653;Politische Gemeinde M¸llheim;10741012345;H3;7,126428571;5,7;0,5;2,3;15,62642857
-653;Politische Gemeinde M¸llheim;10741012345;H4;7,999880952;5,7;0,5;2,3;16,49988095
-653;Politische Gemeinde M¸llheim;10741012345;H5;6,440357143;5,7;0,5;2,3;14,94035714
-653;Politische Gemeinde M¸llheim;10741012345;H6;4,781107143;5,7;0,5;2,3;13,28110714
-653;Politische Gemeinde M¸llheim;10741012345;H7;6,172472527;5,7;0,5;2,3;14,67247253
-653;Politische Gemeinde M¸llheim;10741012345;H8;7,20022619;5,7;0,5;2,3;15,70022619
-653;Politische Gemeinde M¸llheim;10741012345;C1;8,4575;5,7;0,5;2,3;16,9575
-653;Politische Gemeinde M¸llheim;10741012345;C2;5,515991667;5,7;0,5;2,3;14,01599167
-653;Politische Gemeinde M¸llheim;10741012345;C3;4,078;5,7;0,5;2,3;12,578
-653;Politische Gemeinde M¸llheim;10741012345;C4;3,73055;5,7;0,5;2,3;12,23055
-653;Politische Gemeinde M¸llheim;10741012345;C5;3,73055;5,7;0,5;2,3;12,23055
-653;Politische Gemeinde M¸llheim;10741012345;C6;3,494661111;5,7;0,5;2,3;11,99466111
-653;Politische Gemeinde M¸llheim;10741012345;C7;3,075278936;5,7;0,5;2,3;11,57527894
-654;Politische Gemeinde M¸nsterlingen;10878012345;H1;15,35229167;5,8;0,75;2,3;24,20229167
-654;Politische Gemeinde M¸nsterlingen;10878012345;H2;12,5994;5,8;0,75;2,3;21,4494
-654;Politische Gemeinde M¸nsterlingen;10878012345;H3;9,791888889;5,8;0,75;2,3;18,64188889
-654;Politische Gemeinde M¸nsterlingen;10878012345;H4;10,51238889;5,8;0,75;2,3;19,36238889
-654;Politische Gemeinde M¸nsterlingen;10878012345;H5;8,828133333;5,8;0,75;2,3;17,67813333
-654;Politische Gemeinde M¸nsterlingen;10878012345;H6;7,04619;5,8;0,75;2,3;15,89619
-654;Politische Gemeinde M¸nsterlingen;10878012345;H7;8,371153846;5,8;0,75;2,3;17,22115385
-654;Politische Gemeinde M¸nsterlingen;10878012345;H8;9,445936111;5,8;0,75;2,3;18,29593611
-654;Politische Gemeinde M¸nsterlingen;10878012345;C1;10,34211979;5,8;0,75;2,3;19,19211979
-654;Politische Gemeinde M¸nsterlingen;10878012345;C2;10,1233;5,8;0,75;2,3;18,9733
-654;Politische Gemeinde M¸nsterlingen;10878012345;C3;8,284666667;5,8;0,75;2,3;17,13466667
-654;Politische Gemeinde M¸nsterlingen;10878012345;C4;7,704733333;5,8;0,75;2,3;16,55473333
-656;Politische Gemeinde W‰ldi;10674012345;H1;12,42740327;5,3;0;2,3;20,02740327
-656;Politische Gemeinde W‰ldi;10674012345;H2;9,959714286;5,3;0;2,3;17,55971429
-656;Politische Gemeinde W‰ldi;10674012345;H3;7,586507937;5,3;0;2,3;15,18650794
-656;Politische Gemeinde W‰ldi;10674012345;H4;8,060531746;5,3;0;2,3;15,66053175
-656;Politische Gemeinde W‰ldi;10674012345;H5;6,690461905;5,3;0;2,3;14,2904619
-656;Politische Gemeinde W‰ldi;10674012345;H6;5,241138571;5,3;0;2,3;12,84113857
-656;Politische Gemeinde W‰ldi;10674012345;H7;6,217917582;5,3;0;2,3;13,81791758
-656;Politische Gemeinde W‰ldi;10674012345;H8;7,100702381;5,3;0;2,3;14,70070238
-656;Politische Gemeinde W‰ldi;10674012345;C1;7,61609375;5,3;0;2,3;15,21609375
-656;Politische Gemeinde W‰ldi;10674012345;C2;6,59035;5,3;0;2,3;14,19035
-656;Politische Gemeinde W‰ldi;10674012345;C3;8,412;5,3;0;2,3;16,012
-656;Politische Gemeinde W‰ldi;10674012345;C4;7,7986;5,3;0;2,3;15,3986
-656;Politische Gemeinde W‰ldi;10674012345;C5;5,6765;5,3;0;2,3;13,2765
-656;Politische Gemeinde W‰ldi;10674012345;C6;5,295833333;5,3;0;2,3;12,89583333
-656;Politische Gemeinde W‰ldi;10674012345;C7;4,62718607;5,3;0;2,3;12,22718607
+651;Politische Gemeinde H√ºttlingen;10902012345;H1;15,61104167;6,582395833;0,43;2,3;24,9234375
+651;Politische Gemeinde H√ºttlingen;10902012345;H2;12,8664;6,5368;0,43;2,3;22,1332
+651;Politische Gemeinde H√ºttlingen;10902012345;H3;10,13466667;5,942666667;0,43;2,3;18,80733333
+651;Politische Gemeinde H√ºttlingen;10902012345;H4;10,75311111;6,552111111;0,43;2,3;20,03522222
+651;Politische Gemeinde H√ºttlingen;10902012345;H5;9,139866667;6,011266667;0,43;2,3;17,88113333
+651;Politische Gemeinde H√ºttlingen;10902012345;H6;7,44596;5,44338;0,43;2,3;15,61934
+651;Politische Gemeinde H√ºttlingen;10902012345;H7;8,641538462;6,242269231;0,43;2,3;17,61380769
+651;Politische Gemeinde H√ºttlingen;10902012345;H8;9,686688889;6,552311111;0,43;2,3;18,969
+651;Politische Gemeinde H√ºttlingen;10902012345;C1;10,00429167;6,94884375;0,43;2,3;19,68313542
+651;Politische Gemeinde H√ºttlingen;10902012345;C2;8,842355556;6,912455556;0,43;2,3;18,48481111
+653;Politische Gemeinde M√ºllheim;10741012345;H1;11,65962054;5,7;0,5;2,3;20,15962054
+653;Politische Gemeinde M√ºllheim;10741012345;H2;9,571571429;5,7;0,5;2,3;18,07157143
+653;Politische Gemeinde M√ºllheim;10741012345;H3;7,126428571;5,7;0,5;2,3;15,62642857
+653;Politische Gemeinde M√ºllheim;10741012345;H4;7,999880952;5,7;0,5;2,3;16,49988095
+653;Politische Gemeinde M√ºllheim;10741012345;H5;6,440357143;5,7;0,5;2,3;14,94035714
+653;Politische Gemeinde M√ºllheim;10741012345;H6;4,781107143;5,7;0,5;2,3;13,28110714
+653;Politische Gemeinde M√ºllheim;10741012345;H7;6,172472527;5,7;0,5;2,3;14,67247253
+653;Politische Gemeinde M√ºllheim;10741012345;H8;7,20022619;5,7;0,5;2,3;15,70022619
+653;Politische Gemeinde M√ºllheim;10741012345;C1;8,4575;5,7;0,5;2,3;16,9575
+653;Politische Gemeinde M√ºllheim;10741012345;C2;5,515991667;5,7;0,5;2,3;14,01599167
+653;Politische Gemeinde M√ºllheim;10741012345;C3;4,078;5,7;0,5;2,3;12,578
+653;Politische Gemeinde M√ºllheim;10741012345;C4;3,73055;5,7;0,5;2,3;12,23055
+653;Politische Gemeinde M√ºllheim;10741012345;C5;3,73055;5,7;0,5;2,3;12,23055
+653;Politische Gemeinde M√ºllheim;10741012345;C6;3,494661111;5,7;0,5;2,3;11,99466111
+653;Politische Gemeinde M√ºllheim;10741012345;C7;3,075278936;5,7;0,5;2,3;11,57527894
+654;Politische Gemeinde M√ºnsterlingen;10878012345;H1;15,35229167;5,8;0,75;2,3;24,20229167
+654;Politische Gemeinde M√ºnsterlingen;10878012345;H2;12,5994;5,8;0,75;2,3;21,4494
+654;Politische Gemeinde M√ºnsterlingen;10878012345;H3;9,791888889;5,8;0,75;2,3;18,64188889
+654;Politische Gemeinde M√ºnsterlingen;10878012345;H4;10,51238889;5,8;0,75;2,3;19,36238889
+654;Politische Gemeinde M√ºnsterlingen;10878012345;H5;8,828133333;5,8;0,75;2,3;17,67813333
+654;Politische Gemeinde M√ºnsterlingen;10878012345;H6;7,04619;5,8;0,75;2,3;15,89619
+654;Politische Gemeinde M√ºnsterlingen;10878012345;H7;8,371153846;5,8;0,75;2,3;17,22115385
+654;Politische Gemeinde M√ºnsterlingen;10878012345;H8;9,445936111;5,8;0,75;2,3;18,29593611
+654;Politische Gemeinde M√ºnsterlingen;10878012345;C1;10,34211979;5,8;0,75;2,3;19,19211979
+654;Politische Gemeinde M√ºnsterlingen;10878012345;C2;10,1233;5,8;0,75;2,3;18,9733
+654;Politische Gemeinde M√ºnsterlingen;10878012345;C3;8,284666667;5,8;0,75;2,3;17,13466667
+654;Politische Gemeinde M√ºnsterlingen;10878012345;C4;7,704733333;5,8;0,75;2,3;16,55473333
+656;Politische Gemeinde W√§ldi;10674012345;H1;12,42740327;5,3;0;2,3;20,02740327
+656;Politische Gemeinde W√§ldi;10674012345;H2;9,959714286;5,3;0;2,3;17,55971429
+656;Politische Gemeinde W√§ldi;10674012345;H3;7,586507937;5,3;0;2,3;15,18650794
+656;Politische Gemeinde W√§ldi;10674012345;H4;8,060531746;5,3;0;2,3;15,66053175
+656;Politische Gemeinde W√§ldi;10674012345;H5;6,690461905;5,3;0;2,3;14,2904619
+656;Politische Gemeinde W√§ldi;10674012345;H6;5,241138571;5,3;0;2,3;12,84113857
+656;Politische Gemeinde W√§ldi;10674012345;H7;6,217917582;5,3;0;2,3;13,81791758
+656;Politische Gemeinde W√§ldi;10674012345;H8;7,100702381;5,3;0;2,3;14,70070238
+656;Politische Gemeinde W√§ldi;10674012345;C1;7,61609375;5,3;0;2,3;15,21609375
+656;Politische Gemeinde W√§ldi;10674012345;C2;6,59035;5,3;0;2,3;14,19035
+656;Politische Gemeinde W√§ldi;10674012345;C3;8,412;5,3;0;2,3;16,012
+656;Politische Gemeinde W√§ldi;10674012345;C4;7,7986;5,3;0;2,3;15,3986
+656;Politische Gemeinde W√§ldi;10674012345;C5;5,6765;5,3;0;2,3;13,2765
+656;Politische Gemeinde W√§ldi;10674012345;C6;5,295833333;5,3;0;2,3;12,89583333
+656;Politische Gemeinde W√§ldi;10674012345;C7;4,62718607;5,3;0;2,3;12,22718607
 658;Politische Gemeinde Zihlschlacht-Sitterdorf (EW Blidegg);10845012345;H1;26,85694196;4,15;0;2,3;33,30694196
 658;Politische Gemeinde Zihlschlacht-Sitterdorf (EW Blidegg);10845012345;H2;21,37542857;4,15;0;2,3;27,82542857
 658;Politische Gemeinde Zihlschlacht-Sitterdorf (EW Blidegg);10845012345;H3;16,12857143;4,15;0;2,3;22,57857143
@@ -1983,18 +1983,18 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 658;Politische Gemeinde Zihlschlacht-Sitterdorf (EW Blidegg);10845012345;C2;13,85285;4,15;0;2,3;20,30285
 658;Politische Gemeinde Zihlschlacht-Sitterdorf (EW Blidegg);10845012345;C3;13,426;4,15;0;2,3;19,876
 658;Politische Gemeinde Zihlschlacht-Sitterdorf (EW Blidegg);10845012345;C4;12,5053;4,15;0;2,3;18,9553
-659;Provedimaint Electric Val M¸stair;10504012345;H1;22,07;4,6;0;2,3;28,97
-659;Provedimaint Electric Val M¸stair;10504012345;H2;18,02;4,6;0;2,3;24,92
-659;Provedimaint Electric Val M¸stair;10504012345;H3;14,82;4,6;0;2,3;21,72
-659;Provedimaint Electric Val M¸stair;10504012345;H4;14,82;4,6;0;2,3;21,72
-659;Provedimaint Electric Val M¸stair;10504012345;H5;12,525;4,623;0;2,3;19,448
-659;Provedimaint Electric Val M¸stair;10504012345;H6;9,9315;4,1869;0;2,3;16,4184
-659;Provedimaint Electric Val M¸stair;10504012345;H7;11,57288462;4,728653846;0;2,3;18,60153846
-659;Provedimaint Electric Val M¸stair;10504012345;H8;13,19263889;5,023583333;0;2,3;20,51622222
-659;Provedimaint Electric Val M¸stair;10504012345;C1;12,33070313;4,716421875;0;2,3;19,347125
-659;Provedimaint Electric Val M¸stair;10504012345;C2;10,44054167;4,682325;0;2,3;17,42286667
-659;Provedimaint Electric Val M¸stair;10504012345;C3;9,886555556;4,611933333;0;2,3;16,79848889
-659;Provedimaint Electric Val M¸stair;10504012345;C4;9,295941667;4,319565;0;2,3;15,91550667
+659;Provedimaint Electric Val M√ºstair;10504012345;H1;22,07;4,6;0;2,3;28,97
+659;Provedimaint Electric Val M√ºstair;10504012345;H2;18,02;4,6;0;2,3;24,92
+659;Provedimaint Electric Val M√ºstair;10504012345;H3;14,82;4,6;0;2,3;21,72
+659;Provedimaint Electric Val M√ºstair;10504012345;H4;14,82;4,6;0;2,3;21,72
+659;Provedimaint Electric Val M√ºstair;10504012345;H5;12,525;4,623;0;2,3;19,448
+659;Provedimaint Electric Val M√ºstair;10504012345;H6;9,9315;4,1869;0;2,3;16,4184
+659;Provedimaint Electric Val M√ºstair;10504012345;H7;11,57288462;4,728653846;0;2,3;18,60153846
+659;Provedimaint Electric Val M√ºstair;10504012345;H8;13,19263889;5,023583333;0;2,3;20,51622222
+659;Provedimaint Electric Val M√ºstair;10504012345;C1;12,33070313;4,716421875;0;2,3;19,347125
+659;Provedimaint Electric Val M√ºstair;10504012345;C2;10,44054167;4,682325;0;2,3;17,42286667
+659;Provedimaint Electric Val M√ºstair;10504012345;C3;9,886555556;4,611933333;0;2,3;16,79848889
+659;Provedimaint Electric Val M√ºstair;10504012345;C4;9,295941667;4,319565;0;2,3;15,91550667
 660;Rabiosa Energie;10055012345;H1;17,295;7,83;0,8;2,3;28,225
 660;Rabiosa Energie;10055012345;H2;14,064;7,7544;0,8;2,3;24,9184
 660;Rabiosa Energie;10055012345;H3;10,53333333;7,108;0,8;2,3;20,74133333
@@ -2099,36 +2099,36 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 672;Sankt Galler Stadtwerke;10199012345;C5;4,276790123;6,789320988;1,759259259;2,3;15,12537037
 672;Sankt Galler Stadtwerke;10199012345;C6;4,018106996;6,283744856;1,759259259;2,3;14,36111111
 672;Sankt Galler Stadtwerke;10199012345;C7;3,093374117;6,077893816;1,759259259;2,3;13,23052719
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;H1;11,67935268;6,998534226;2,1;2,3;23,0778869
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;H2;11,5398;6,9338;2,1;2,3;22,8736
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;H3;10,35766667;6,385444444;2,1;2,3;21,14311111
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;H4;11,50370952;6,91705873;2,1;2,3;22,82076825
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;H5;10,47874;6,441606667;2,1;2,3;21,32034667
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;H6;9,359622;5,922482;2,1;2,3;19,682104
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;H7;10,74638571;6,565759341;2,1;2,3;21,71214505
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;H8;11,50439048;6,917374603;2,1;2,3;22,82176508
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;C1;12,31;7,29;2,1;2,3;24
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;C2;12,31;7,29;2,1;2,3;24
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;C3;11,28722222;6,599688889;2,1;2,3;22,28691111
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;C4;10,42626667;6,322906667;2,1;2,3;21,14917333
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;C5;11,67653333;6,322906667;2,1;2,3;22,39944
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;C6;5,468044444;6,369275556;2,1;2,3;16,23732
-675;Service de l' ElectricitÈ de la Ville de Lausanne SIL;10085012345;C7;3,882524432;5,983259535;2,1;2,3;14,26578397
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;H1;12,12;4,3;0;2,3;18,72
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;H2;10,5;4,3;0;2,3;17,1
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;H3;9,22;4,3;0;2,3;15,82
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;H4;9,22;4,3;0;2,3;15,82
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;H5;8,58;4,3;0;2,3;15,18
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;H6;7,908;4,3;0;2,3;14,508
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;H7;8,173846154;4,3;0;2,3;14,77384615
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;H8;8,58;4,3;0;2,3;15,18
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;C1;8,52;4,3;0;2,3;15,12
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;C2;7,86;4,3;0;2,3;14,46
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;C3;9,278;4,3;0;2,3;15,878
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;C4;8,7332;4,3;0;2,3;15,3332
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;C5;4,32;4,3;0;2,3;10,92
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;C6;4,32;4,3;0;2,3;10,92
-678;Service d'ÈlectricitÈ Martigny-Combe;10506012345;C7;4,32;4,3;0;2,3;10,92
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;H1;11,67935268;6,998534226;2,1;2,3;23,0778869
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;H2;11,5398;6,9338;2,1;2,3;22,8736
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;H3;10,35766667;6,385444444;2,1;2,3;21,14311111
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;H4;11,50370952;6,91705873;2,1;2,3;22,82076825
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;H5;10,47874;6,441606667;2,1;2,3;21,32034667
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;H6;9,359622;5,922482;2,1;2,3;19,682104
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;H7;10,74638571;6,565759341;2,1;2,3;21,71214505
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;H8;11,50439048;6,917374603;2,1;2,3;22,82176508
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;C1;12,31;7,29;2,1;2,3;24
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;C2;12,31;7,29;2,1;2,3;24
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;C3;11,28722222;6,599688889;2,1;2,3;22,28691111
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;C4;10,42626667;6,322906667;2,1;2,3;21,14917333
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;C5;11,67653333;6,322906667;2,1;2,3;22,39944
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;C6;5,468044444;6,369275556;2,1;2,3;16,23732
+675;Service de l' Electricit√© de la Ville de Lausanne SIL;10085012345;C7;3,882524432;5,983259535;2,1;2,3;14,26578397
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;H1;12,12;4,3;0;2,3;18,72
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;H2;10,5;4,3;0;2,3;17,1
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;H3;9,22;4,3;0;2,3;15,82
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;H4;9,22;4,3;0;2,3;15,82
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;H5;8,58;4,3;0;2,3;15,18
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;H6;7,908;4,3;0;2,3;14,508
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;H7;8,173846154;4,3;0;2,3;14,77384615
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;H8;8,58;4,3;0;2,3;15,18
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;C1;8,52;4,3;0;2,3;15,12
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;C2;7,86;4,3;0;2,3;14,46
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;C3;9,278;4,3;0;2,3;15,878
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;C4;8,7332;4,3;0;2,3;15,3332
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;C5;4,32;4,3;0;2,3;10,92
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;C6;4,32;4,3;0;2,3;10,92
+678;Service d'√©lectricit√© Martigny-Combe;10506012345;C7;4,32;4,3;0;2,3;10,92
 683;Service Electrique de la commune de Saint-Blaise;10169012345;H1;15,295;6,2;0;2,3;23,795
 683;Service Electrique de la commune de Saint-Blaise;10169012345;H2;13;6,2;0;2,3;21,5
 683;Service Electrique de la commune de Saint-Blaise;10169012345;H3;10,91066667;5,633333333;0;2,3;18,844
@@ -2159,20 +2159,20 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 690;Services industriels de Belmont;10157012345;C5;5,25408;6,59;0;2,3;14,14408
 690;Services industriels de Belmont;10157012345;C6;5,305066667;6,983333333;0;2,3;14,5884
 690;Services industriels de Belmont;10157012345;C7;5,034755599;6,594934179;0;2,3;13,92968978
-695;Services Industriels de la Ville de DelÈmont;10330012345;H1;13,47;7,73;1,4;2,3;24,9
-695;Services Industriels de la Ville de DelÈmont;10330012345;H2;11,58;7,73;1,4;2,3;23,01
-695;Services Industriels de la Ville de DelÈmont;10330012345;H3;9,431111111;6,496044444;1,4;2,3;19,62715556
-695;Services Industriels de la Ville de DelÈmont;10330012345;H4;10,08666667;7,73;1,4;2,3;21,51666667
-695;Services Industriels de la Ville de DelÈmont;10330012345;H5;7,91564;6,7084;1,4;2,3;18,32404
-695;Services Industriels de la Ville de DelÈmont;10330012345;H6;4,495692;5,61052;1,4;2,3;13,806212
-695;Services Industriels de la Ville de DelÈmont;10330012345;H7;6,156946154;6,635615385;1,4;2,3;16,49256154
-695;Services Industriels de la Ville de DelÈmont;10330012345;H8;9,34;7,73;1,4;2,3;20,77
-695;Services Industriels de la Ville de DelÈmont;10330012345;C1;9,27;7,73;1,4;2,3;20,7
-695;Services Industriels de la Ville de DelÈmont;10330012345;C2;10,8662;6,891375556;1,4;2,3;21,45757556
-695;Services Industriels de la Ville de DelÈmont;10330012345;C3;8,497477778;4,194133333;1,4;2,3;16,39161111
-695;Services Industriels de la Ville de DelÈmont;10330012345;C4;7,668956667;4,05456;1,4;2,3;15,42351667
-695;Services Industriels de la Ville de DelÈmont;10330012345;C6;4,26068;4,16704;1,4;2,3;12,12772
-695;Services Industriels de la Ville de DelÈmont;10330012345;C7;3,717230729;4,043047803;1,4;2,3;11,46027853
+695;Services Industriels de la Ville de Del√©mont;10330012345;H1;13,47;7,73;1,4;2,3;24,9
+695;Services Industriels de la Ville de Del√©mont;10330012345;H2;11,58;7,73;1,4;2,3;23,01
+695;Services Industriels de la Ville de Del√©mont;10330012345;H3;9,431111111;6,496044444;1,4;2,3;19,62715556
+695;Services Industriels de la Ville de Del√©mont;10330012345;H4;10,08666667;7,73;1,4;2,3;21,51666667
+695;Services Industriels de la Ville de Del√©mont;10330012345;H5;7,91564;6,7084;1,4;2,3;18,32404
+695;Services Industriels de la Ville de Del√©mont;10330012345;H6;4,495692;5,61052;1,4;2,3;13,806212
+695;Services Industriels de la Ville de Del√©mont;10330012345;H7;6,156946154;6,635615385;1,4;2,3;16,49256154
+695;Services Industriels de la Ville de Del√©mont;10330012345;H8;9,34;7,73;1,4;2,3;20,77
+695;Services Industriels de la Ville de Del√©mont;10330012345;C1;9,27;7,73;1,4;2,3;20,7
+695;Services Industriels de la Ville de Del√©mont;10330012345;C2;10,8662;6,891375556;1,4;2,3;21,45757556
+695;Services Industriels de la Ville de Del√©mont;10330012345;C3;8,497477778;4,194133333;1,4;2,3;16,39161111
+695;Services Industriels de la Ville de Del√©mont;10330012345;C4;7,668956667;4,05456;1,4;2,3;15,42351667
+695;Services Industriels de la Ville de Del√©mont;10330012345;C6;4,26068;4,16704;1,4;2,3;12,12772
+695;Services Industriels de la Ville de Del√©mont;10330012345;C7;3,717230729;4,043047803;1,4;2,3;11,46027853
 696;Services industriels de Paudex;10486012345;H1;14,625;8,6;0,75;2,3;26,275
 696;Services industriels de Paudex;10486012345;H2;13,14;8,6;0,75;2,3;24,79
 696;Services industriels de Paudex;10486012345;H3;11,67511111;7,181333333;0,75;2,3;21,90644444
@@ -2274,36 +2274,36 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 710;Sierre - Energie SA;10127012345;C3;5,738;4,842666667;0,68856;2,3;13,56922667
 710;Sierre - Energie SA;10127012345;C4;5,1996;4,5616;0,623952;2,3;12,685152
 710;Sierre - Energie SA;10127012345;C7;3,941877875;4,44852314;0,473025331;2,3;11,16342635
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;H1;15,82;7,85;2;2,3;27,97
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;H2;13,12;7,85;2;2,3;25,27
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;H3;10,38044444;7,023333333;2;2,3;21,70377778
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;H4;10,75688889;7,536666667;2;2,3;22,59355556
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;H5;9,350933333;7,074;2;2,3;20,72493333
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;H6;7,85928;5,11652;2;2,3;17,2758
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;H7;8,755692308;5,590461538;2;2,3;18,64615385
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;H8;9,690466667;7,537;2;2,3;21,52746667
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;C1;14,050125;6,0008125;2;2,3;24,3509375
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;C2;11,33863333;5,973116667;2;2,3;21,61175
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;C3;9,262666667;6,032;2;2,3;19,59466667
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;C4;8,1442;5,8984;2;2,3;18,3426
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;C5;6,1598;5,8984;2;2,3;16,3582
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;C6;5,6322;5,920266667;1,2;2,3;15,05246667
-712;Societ‡ Elettrica Sopracenerina SA (Ticino);10206012345;C7;5,037751771;5,763402362;0,88;2,3;13,98115413
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;H1;17,395;10,1;1,62;2,3;31,415
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;H2;14,2868;9,4264;1,62;2,3;27,6332
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;H3;10,72377778;8,570222222;1,62;2,3;23,214
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;H4;12,17877778;9,410222222;1,62;2,3;25,509
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;H5;9,844366667;8,662933333;1,62;2,3;22,4273
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;H6;7,34231;7,84888;1,62;2,3;19,11119
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;H7;8,649576923;8,268153846;1,62;2,3;20,83773077
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;H8;11,13958611;9,410688889;1,62;2,3;24,470275
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;C1;11,74334896;9,815541667;1,62;2,3;25,47889063
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;C2;12,41430333;9,224994444;1,62;2,3;25,55929778
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;C3;9,668533333;8,512555556;1,62;2,3;22,10108889
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;C4;8,636258333;8,018233333;1,62;2,3;20,57449167
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;C5;6,24529;8,018233333;1,62;2,3;18,18352333
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;C6;5,83686;8,4166;1,62;2,3;18,17346
-716;SociÈtÈ des Forces Electriques de la Goule;10475012345;C7;5,051619266;7,977460968;1,62;2,3;16,94908023
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;H1;15,82;7,85;2;2,3;27,97
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;H2;13,12;7,85;2;2,3;25,27
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;H3;10,38044444;7,023333333;2;2,3;21,70377778
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;H4;10,75688889;7,536666667;2;2,3;22,59355556
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;H5;9,350933333;7,074;2;2,3;20,72493333
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;H6;7,85928;5,11652;2;2,3;17,2758
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;H7;8,755692308;5,590461538;2;2,3;18,64615385
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;H8;9,690466667;7,537;2;2,3;21,52746667
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;C1;14,050125;6,0008125;2;2,3;24,3509375
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;C2;11,33863333;5,973116667;2;2,3;21,61175
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;C3;9,262666667;6,032;2;2,3;19,59466667
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;C4;8,1442;5,8984;2;2,3;18,3426
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;C5;6,1598;5,8984;2;2,3;16,3582
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;C6;5,6322;5,920266667;1,2;2,3;15,05246667
+712;Societ√† Elettrica Sopracenerina SA (Ticino);10206012345;C7;5,037751771;5,763402362;0,88;2,3;13,98115413
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;H1;17,395;10,1;1,62;2,3;31,415
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;H2;14,2868;9,4264;1,62;2,3;27,6332
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;H3;10,72377778;8,570222222;1,62;2,3;23,214
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;H4;12,17877778;9,410222222;1,62;2,3;25,509
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;H5;9,844366667;8,662933333;1,62;2,3;22,4273
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;H6;7,34231;7,84888;1,62;2,3;19,11119
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;H7;8,649576923;8,268153846;1,62;2,3;20,83773077
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;H8;11,13958611;9,410688889;1,62;2,3;24,470275
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;C1;11,74334896;9,815541667;1,62;2,3;25,47889063
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;C2;12,41430333;9,224994444;1,62;2,3;25,55929778
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;C3;9,668533333;8,512555556;1,62;2,3;22,10108889
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;C4;8,636258333;8,018233333;1,62;2,3;20,57449167
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;C5;6,24529;8,018233333;1,62;2,3;18,18352333
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;C6;5,83686;8,4166;1,62;2,3;18,17346
+716;Soci√©t√© des Forces Electriques de la Goule;10475012345;C7;5,051619266;7,977460968;1,62;2,3;16,94908023
 468;St. Moritz Energie;10070012345;H1;15,32;6,8;1,5;2,3;25,92
 468;St. Moritz Energie;10070012345;H2;12,62;6,8;1,5;2,3;23,22
 468;St. Moritz Energie;10070012345;H3;10,48666667;6,8;1,5;2,3;21,08666667
@@ -2331,21 +2331,21 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 727;St.Gallisch-Appenzellische Kraftwerke AG SAK;10088012345;C5;5,969;4,912075;0,2;2,3;13,381075
 727;St.Gallisch-Appenzellische Kraftwerke AG SAK;10088012345;C6;5,512744444;4,67061;0,2;2,3;12,68335444
 727;St.Gallisch-Appenzellische Kraftwerke AG SAK;10088012345;C7;4,904064021;4,519533927;0,2;2,3;11,92359795
-729;St‰dtische Betriebe Olten;10152012345;H1;10,82546875;6,8734375;1,15;2,3;21,14890625
-729;St‰dtische Betriebe Olten;10152012345;H2;10,6254;6,7692;1,15;2,3;20,8446
-729;St‰dtische Betriebe Olten;10152012345;H3;8,689666667;5,760666667;1,15;2,3;17,90033333
-729;St‰dtische Betriebe Olten;10152012345;H4;10,6135;6,763;1,15;2,3;20,8265
-729;St‰dtische Betriebe Olten;10152012345;H5;8,9118;5,8764;1,15;2,3;18,2382
-729;St‰dtische Betriebe Olten;10152012345;H6;7,06254;4,91292;1,15;2,3;15,42546
-729;St‰dtische Betriebe Olten;10152012345;H7;9,39375;6,1275;1,15;2,3;18,97125
-729;St‰dtische Betriebe Olten;10152012345;H8;10,61449167;6,763516667;1,15;2,3;20,82800833
-729;St‰dtische Betriebe Olten;10152012345;C1;11,61198438;7,28321875;1,15;2,3;22,34520313
-729;St‰dtische Betriebe Olten;10152012345;C2;11,22608333;7,199583333;1,15;2,3;21,87566667
-729;St‰dtische Betriebe Olten;10152012345;C3;7,9;7,284833333;1,15;2,3;18,63483333
-729;St‰dtische Betriebe Olten;10152012345;C4;7,028;6,80485;1,15;2,3;17,28285
-729;St‰dtische Betriebe Olten;10152012345;C5;5,648;6,80485;0,71;2,3;15,46285
-729;St‰dtische Betriebe Olten;10152012345;C6;4,976;7,160833333;0,71;2,3;15,14683333
-729;St‰dtische Betriebe Olten;10152012345;C7;4,1888;6,729302441;0,71;2,3;13,92810244
+729;St√§dtische Betriebe Olten;10152012345;H1;10,82546875;6,8734375;1,15;2,3;21,14890625
+729;St√§dtische Betriebe Olten;10152012345;H2;10,6254;6,7692;1,15;2,3;20,8446
+729;St√§dtische Betriebe Olten;10152012345;H3;8,689666667;5,760666667;1,15;2,3;17,90033333
+729;St√§dtische Betriebe Olten;10152012345;H4;10,6135;6,763;1,15;2,3;20,8265
+729;St√§dtische Betriebe Olten;10152012345;H5;8,9118;5,8764;1,15;2,3;18,2382
+729;St√§dtische Betriebe Olten;10152012345;H6;7,06254;4,91292;1,15;2,3;15,42546
+729;St√§dtische Betriebe Olten;10152012345;H7;9,39375;6,1275;1,15;2,3;18,97125
+729;St√§dtische Betriebe Olten;10152012345;H8;10,61449167;6,763516667;1,15;2,3;20,82800833
+729;St√§dtische Betriebe Olten;10152012345;C1;11,61198438;7,28321875;1,15;2,3;22,34520313
+729;St√§dtische Betriebe Olten;10152012345;C2;11,22608333;7,199583333;1,15;2,3;21,87566667
+729;St√§dtische Betriebe Olten;10152012345;C3;7,9;7,284833333;1,15;2,3;18,63483333
+729;St√§dtische Betriebe Olten;10152012345;C4;7,028;6,80485;1,15;2,3;17,28285
+729;St√§dtische Betriebe Olten;10152012345;C5;5,648;6,80485;0,71;2,3;15,46285
+729;St√§dtische Betriebe Olten;10152012345;C6;4,976;7,160833333;0,71;2,3;15,14683333
+729;St√§dtische Betriebe Olten;10152012345;C7;4,1888;6,729302441;0,71;2,3;13,92810244
 735;Stadtwerk Winterthur;10186012345;H1;16,43366815;6,514769345;0,32;2,3;25,5684375
 735;Stadtwerk Winterthur;10186012345;H2;13,37514286;6,492857143;0,32;2,3;22,488
 735;Stadtwerk Winterthur;10186012345;H3;9,963968254;6,229365079;0,32;2,3;18,81333333
@@ -2459,18 +2459,18 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 741;SWL Energie AG;10054012345;C5;4,0252;5,8;0,7;2,3;12,8252
 741;SWL Energie AG;10054012345;C6;3,732133333;5,8;0,7;2,3;12,53213333
 741;SWL Energie AG;10054012345;C7;3,316101181;5,8;0,7;2,3;12,11610118
-749;TB Gr‰nichen Energie AG;10214012345;H1;13,47245536;5,858422619;0,6;2,3;22,23087798
-749;TB Gr‰nichen Energie AG;10214012345;H2;11,00542857;5,837142857;0,6;2,3;19,74257143
-749;TB Gr‰nichen Energie AG;10214012345;H3;8,345238095;5,411746032;0,6;2,3;16,65698413
-749;TB Gr‰nichen Energie AG;10214012345;H4;9,16;5,88;0,6;2,3;17,94
-749;TB Gr‰nichen Energie AG;10214012345;H5;7,510214286;5,483571429;0,6;2,3;15,89378571
-749;TB Gr‰nichen Energie AG;10214012345;H6;5,632792857;4,808314286;0,6;2,3;13,34110714
-749;TB Gr‰nichen Energie AG;10214012345;H7;7,225123626;5,403571429;0,6;2,3;15,52869505
-749;TB Gr‰nichen Energie AG;10214012345;H8;8,200172619;5,880099206;0,6;2,3;16,98027183
-749;TB Gr‰nichen Energie AG;10214012345;C1;10,02132813;6,4434375;0,6;2,3;19,36476563
-749;TB Gr‰nichen Energie AG;10214012345;C2;8,639975;6,406766667;0,6;2,3;17,94674167
-749;TB Gr‰nichen Energie AG;10214012345;C3;6,952;4,5;0,6;2,3;14,352
-749;TB Gr‰nichen Energie AG;10214012345;C4;6,5795;4,5;0,6;2,3;13,9795
+749;TB Gr√§nichen Energie AG;10214012345;H1;13,47245536;5,858422619;0,6;2,3;22,23087798
+749;TB Gr√§nichen Energie AG;10214012345;H2;11,00542857;5,837142857;0,6;2,3;19,74257143
+749;TB Gr√§nichen Energie AG;10214012345;H3;8,345238095;5,411746032;0,6;2,3;16,65698413
+749;TB Gr√§nichen Energie AG;10214012345;H4;9,16;5,88;0,6;2,3;17,94
+749;TB Gr√§nichen Energie AG;10214012345;H5;7,510214286;5,483571429;0,6;2,3;15,89378571
+749;TB Gr√§nichen Energie AG;10214012345;H6;5,632792857;4,808314286;0,6;2,3;13,34110714
+749;TB Gr√§nichen Energie AG;10214012345;H7;7,225123626;5,403571429;0,6;2,3;15,52869505
+749;TB Gr√§nichen Energie AG;10214012345;H8;8,200172619;5,880099206;0,6;2,3;16,98027183
+749;TB Gr√§nichen Energie AG;10214012345;C1;10,02132813;6,4434375;0,6;2,3;19,36476563
+749;TB Gr√§nichen Energie AG;10214012345;C2;8,639975;6,406766667;0,6;2,3;17,94674167
+749;TB Gr√§nichen Energie AG;10214012345;C3;6,952;4,5;0,6;2,3;14,352
+749;TB Gr√§nichen Energie AG;10214012345;C4;6,5795;4,5;0,6;2,3;13,9795
 785;Technische Betriebe Glarus;10081012345;H1;15,69544643;5,775446429;1,1;2,3;24,87089286
 785;Technische Betriebe Glarus;10081012345;H2;12,94285714;5,722857143;1,1;2,3;22,06571429
 785;Technische Betriebe Glarus;10081012345;H3;10,17714286;5,09047619;1,1;2,3;18,66761905
@@ -2591,21 +2591,21 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 762;Technische Gemeindebetriebe Hauptwil-Gottshaus;10060012345;C5;5,0849;5,75;0;2,3;13,1349
 762;Technische Gemeindebetriebe Hauptwil-Gottshaus;10060012345;C6;4,8769;5,75;0;2,3;12,9269
 762;Technische Gemeindebetriebe Hauptwil-Gottshaus;10060012345;C7;4,346758926;5,75;0;2,3;12,39675893
-763;Technische Gemeindebetriebe W‰ngi;10394012345;H1;14,085625;5,485267857;0;2,3;21,87089286
-763;Technische Gemeindebetriebe W‰ngi;10394012345;H2;11,312;5,453714286;0;2,3;19,06571429
-763;Technische Gemeindebetriebe W‰ngi;10394012345;H3;8,293333333;5,074285714;0;2,3;15,66761905
-763;Technische Gemeindebetriebe W‰ngi;10394012345;H4;9,219333333;5,471142857;0;2,3;16,99047619
-763;Technische Gemeindebetriebe W‰ngi;10394012345;H5;7,3516;5,127828571;0;2,3;14,77942857
-763;Technische Gemeindebetriebe W‰ngi;10394012345;H6;5,36948;4,758348571;0;2,3;12,42782857
-763;Technische Gemeindebetriebe W‰ngi;10394012345;H7;6,941692308;5,242263736;0;2,3;14,48395604
-763;Technische Gemeindebetriebe W‰ngi;10394012345;H8;8,153;5,471285714;0;2,3;15,92428571
-763;Technische Gemeindebetriebe W‰ngi;10394012345;C1;9,235625;5,978125;0;2,3;17,51375
-763;Technische Gemeindebetriebe W‰ngi;10394012345;C2;8,6345;5,7482;0;2,3;16,6827
-763;Technische Gemeindebetriebe W‰ngi;10394012345;C3;6,274666667;5,769333333;0;2,3;14,344
-763;Technische Gemeindebetriebe W‰ngi;10394012345;C4;5,634733333;5,532466667;0;2,3;13,4672
-763;Technische Gemeindebetriebe W‰ngi;10394012345;C5;5,3323;5,402733333;0;2,3;13,03503333
-763;Technische Gemeindebetriebe W‰ngi;10394012345;C6;4,8303;5,446555556;0;2,3;12,57685556
-763;Technische Gemeindebetriebe W‰ngi;10394012345;C7;4,051404047;5,214069759;0;2,3;11,56547381
+763;Technische Gemeindebetriebe W√§ngi;10394012345;H1;14,085625;5,485267857;0;2,3;21,87089286
+763;Technische Gemeindebetriebe W√§ngi;10394012345;H2;11,312;5,453714286;0;2,3;19,06571429
+763;Technische Gemeindebetriebe W√§ngi;10394012345;H3;8,293333333;5,074285714;0;2,3;15,66761905
+763;Technische Gemeindebetriebe W√§ngi;10394012345;H4;9,219333333;5,471142857;0;2,3;16,99047619
+763;Technische Gemeindebetriebe W√§ngi;10394012345;H5;7,3516;5,127828571;0;2,3;14,77942857
+763;Technische Gemeindebetriebe W√§ngi;10394012345;H6;5,36948;4,758348571;0;2,3;12,42782857
+763;Technische Gemeindebetriebe W√§ngi;10394012345;H7;6,941692308;5,242263736;0;2,3;14,48395604
+763;Technische Gemeindebetriebe W√§ngi;10394012345;H8;8,153;5,471285714;0;2,3;15,92428571
+763;Technische Gemeindebetriebe W√§ngi;10394012345;C1;9,235625;5,978125;0;2,3;17,51375
+763;Technische Gemeindebetriebe W√§ngi;10394012345;C2;8,6345;5,7482;0;2,3;16,6827
+763;Technische Gemeindebetriebe W√§ngi;10394012345;C3;6,274666667;5,769333333;0;2,3;14,344
+763;Technische Gemeindebetriebe W√§ngi;10394012345;C4;5,634733333;5,532466667;0;2,3;13,4672
+763;Technische Gemeindebetriebe W√§ngi;10394012345;C5;5,3323;5,402733333;0;2,3;13,03503333
+763;Technische Gemeindebetriebe W√§ngi;10394012345;C6;4,8303;5,446555556;0;2,3;12,57685556
+763;Technische Gemeindebetriebe W√§ngi;10394012345;C7;4,051404047;5,214069759;0;2,3;11,56547381
 766;Technische Werke der Gemeinde Thundorf;10449012345;H1;14,57;4,35;0,2;2,3;21,42
 766;Technische Werke der Gemeinde Thundorf;10449012345;H2;11,6;4,35;0,2;2,3;18,45
 766;Technische Werke der Gemeinde Thundorf;10449012345;H3;9,253333333;4,35;0,2;2,3;16,10333333
@@ -2618,21 +2618,21 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 766;Technische Werke der Gemeinde Thundorf;10449012345;C2;6,76;4,35;0,2;2,3;13,61
 766;Technische Werke der Gemeinde Thundorf;10449012345;C3;8,32;4,2;0,2;2,3;15,02
 766;Technische Werke der Gemeinde Thundorf;10449012345;C4;7,712;4,2;0,2;2,3;14,412
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;H1;14,99380952;4,993452381;0;2,3;22,2872619
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;H2;12,23771429;4,979428571;0;2,3;19,51714286
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;H3;9,42984127;4,810793651;0;2,3;16,54063492
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;H4;10,13536508;4,987174603;0;2,3;17,42253968
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;H5;8,458361905;4,834590476;0;2,3;15,59295238
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;H6;6,681508571;4,670377143;0;2,3;13,65188571
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;H7;7,984879121;4,885450549;0;2,3;15,17032967
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;H8;9,068952381;4,987238095;0;2,3;16,35619048
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;C1;9,87;5,2125;0;2,3;17,3825
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;C2;8,7168;5,1992;0;2,3;16,216
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;C3;8,753333333;4,5;0;2,3;15,55333333
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;C4;7,924666667;4,5;0;2,3;14,72466667
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;C5;4,8879;4,2;0;2,3;11,3879
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;C6;4,3755;4,2;0;2,3;10,8755
-767;Technische Werke der Gemeinde Tobel-T‰gerschen;10722012345;C7;3,745799642;4,2;0;2,3;10,24579964
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;H1;14,99380952;4,993452381;0;2,3;22,2872619
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;H2;12,23771429;4,979428571;0;2,3;19,51714286
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;H3;9,42984127;4,810793651;0;2,3;16,54063492
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;H4;10,13536508;4,987174603;0;2,3;17,42253968
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;H5;8,458361905;4,834590476;0;2,3;15,59295238
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;H6;6,681508571;4,670377143;0;2,3;13,65188571
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;H7;7,984879121;4,885450549;0;2,3;15,17032967
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;H8;9,068952381;4,987238095;0;2,3;16,35619048
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;C1;9,87;5,2125;0;2,3;17,3825
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;C2;8,7168;5,1992;0;2,3;16,216
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;C3;8,753333333;4,5;0;2,3;15,55333333
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;C4;7,924666667;4,5;0;2,3;14,72466667
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;C5;4,8879;4,2;0;2,3;11,3879
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;C6;4,3755;4,2;0;2,3;10,8755
+767;Technische Werke der Gemeinde Tobel-T√§gerschen;10722012345;C7;3,745799642;4,2;0;2,3;10,24579964
 768;Technische Werke Eschlikon;10011012345;H1;15,99217262;5,485267857;0;2,3;23,77744048
 768;Technische Werke Eschlikon;10011012345;H2;12,69257143;5,453714286;0;2,3;20,44628571
 768;Technische Werke Eschlikon;10011012345;H3;9,415873016;5,074285714;0;2,3;16,79015873
@@ -2691,19 +2691,19 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 773;Viteos SA;10882012345;C5;4,691903333;7,3063125;1,49;2,3;15,78821583
 773;Viteos SA;10882012345;C6;4,472114444;7,281940694;1,49;2,3;15,54405514
 773;Viteos SA;10882012345;C7;3,895484126;6,547633163;1,49;2,3;14,23311729
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;H1;15,32;7;0,65;2,3;25,27
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;H2;13,16;7;0,65;2,3;23,11
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;H3;11,0184127;6,627619048;0,65;2,3;20,59603175
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;H4;11,48666667;6,74;0,65;2,3;21,17666667
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;H5;10,02;6,644;0,65;2,3;19,614
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;H6;8,429642857;6,531114286;0,65;2,3;17,91075714
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;H7;9,283598901;6,633516484;0,65;2,3;18,86711538
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;H8;10,42009921;6,74002381;0,65;2,3;20,11012302
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;C1;11,15984375;6,9415625;0,65;2,3;21,05140625
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;C2;10,02458333;6,9331;0,65;2,3;19,90768333
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;C3;9,753333333;5,322666667;0,65;2,3;18,026
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;C4;9,2075;5,241;0,65;2,3;17,3985
-775;Wasser- & Elektrizit‰tswerk Walenstadt;10234012345;C5;6,903;5,241;0,65;2,3;15,094
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;H1;15,32;7;0,65;2,3;25,27
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;H2;13,16;7;0,65;2,3;23,11
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;H3;11,0184127;6,627619048;0,65;2,3;20,59603175
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;H4;11,48666667;6,74;0,65;2,3;21,17666667
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;H5;10,02;6,644;0,65;2,3;19,614
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;H6;8,429642857;6,531114286;0,65;2,3;17,91075714
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;H7;9,283598901;6,633516484;0,65;2,3;18,86711538
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;H8;10,42009921;6,74002381;0,65;2,3;20,11012302
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;C1;11,15984375;6,9415625;0,65;2,3;21,05140625
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;C2;10,02458333;6,9331;0,65;2,3;19,90768333
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;C3;9,753333333;5,322666667;0,65;2,3;18,026
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;C4;9,2075;5,241;0,65;2,3;17,3985
+775;Wasser- & Elektrizit√§tswerk Walenstadt;10234012345;C5;6,903;5,241;0,65;2,3;15,094
 782;Werkbetrieb EW der Politischen Gemeinde Amlikon-Bissegg;10233012345;H1;21,1700744;4,8;0,5;2,3;28,7700744
 782;Werkbetrieb EW der Politischen Gemeinde Amlikon-Bissegg;10233012345;H2;17,01314286;4,8;0,5;2,3;24,61314286
 782;Werkbetrieb EW der Politischen Gemeinde Amlikon-Bissegg;10233012345;H3;12,52730159;4,8;0,5;2,3;20,12730159
@@ -2719,42 +2719,42 @@ ID;Netzbetreiber;VSE-ID;Kategorie;Netznutzung;Energie;Abgabe;KEV;Total exkl. MWS
 782;Werkbetrieb EW der Politischen Gemeinde Amlikon-Bissegg;10233012345;C5;5,356133333;4,2;0,5;2,3;12,35613333
 782;Werkbetrieb EW der Politischen Gemeinde Amlikon-Bissegg;10233012345;C6;4,840222222;4,2;0,5;2,3;11,84022222
 782;Werkbetrieb EW der Politischen Gemeinde Amlikon-Bissegg;10233012345;C7;4,039163331;4,2;0,5;2,3;11,03916333
-513;Werke am Z¸richsee (Erlenbach);10296012345;H1;13,59810268;4,264769345;0;2,3;20,16287202
-513;Werke am Z¸richsee (Erlenbach);10296012345;H2;11,62029714;4,242857143;0;2,3;18,16315429
-513;Werke am Z¸richsee (Erlenbach);10296012345;H3;8,99527619;3,979365079;0;2,3;15,27464127
-513;Werke am Z¸richsee (Erlenbach);10296012345;H4;10,18452476;4,254960317;0;2,3;16,73948508
-513;Werke am Z¸richsee (Erlenbach);10296012345;H5;8,411726286;4,016547619;0;2,3;14,7282739
-513;Werke am Z¸richsee (Erlenbach);10296012345;H6;6,523317886;3,759964286;0;2,3;12,58328217
-513;Werke am Z¸richsee (Erlenbach);10296012345;H7;8,282496484;4,096016484;0;2,3;14,67851297
-513;Werke am Z¸richsee (Erlenbach);10296012345;H8;9,440952857;4,255059524;0;2,3;15,99601238
-513;Werke am Z¸richsee (Erlenbach);10296012345;C1;10,89003125;4,60703125;0;2,3;17,7970625
-513;Werke am Z¸richsee (Erlenbach);10296012345;C2;10,033106;4,58625;0;2,3;16,919356
-513;Werke am Z¸richsee (Erlenbach);10296012345;C3;8,9318;4,378;0;2,3;15,6098
-513;Werke am Z¸richsee (Erlenbach);10296012345;C4;7,9832;4,2284;0;2,3;14,5116
-444;Werke am Z¸richsee (K¸snacht);10382012345;H1;12,17793025;4,264769345;0,35;2,3;19,09269959
-444;Werke am Z¸richsee (K¸snacht);10382012345;H2;10,24565857;4,242857143;0,35;2,3;17,13851571
-444;Werke am Z¸richsee (K¸snacht);10382012345;H3;7,826921429;3,979365079;0,35;2,3;14,45628651
-444;Werke am Z¸richsee (K¸snacht);10382012345;H4;8,825513214;4,254960317;0,35;2,3;15,73047353
-444;Werke am Z¸richsee (K¸snacht);10382012345;H5;7,229648643;4,016547619;0,35;2,3;13,89619626
-444;Werke am Z¸richsee (K¸snacht);10382012345;H6;5,531344593;3,759964286;0,35;2,3;11,94130888
-444;Werke am Z¸richsee (K¸snacht);10382012345;H7;7,053057665;4,096016484;0,35;2,3;13,79907415
-444;Werke am Z¸richsee (K¸snacht);10382012345;H8;8,093872679;4,255059524;0,35;2,3;14,9989322
-444;Werke am Z¸richsee (K¸snacht);10382012345;C1;9,300582031;4,60703125;0,35;2,3;16,55761328
-444;Werke am Z¸richsee (K¸snacht);10382012345;C2;8,47040825;4,58625;0,35;2,3;15,70665825
-444;Werke am Z¸richsee (K¸snacht);10382012345;C3;6,63777;4,378;0,35;2,3;13,66577
-444;Werke am Z¸richsee (K¸snacht);10382012345;C4;5,852761;4,2284;0,35;2,3;12,731161
-596;Werke am Z¸richsee (Zollikon);10238012345;H1;13,59810268;4,264769345;0,4;2,3;20,56287202
-596;Werke am Z¸richsee (Zollikon);10238012345;H2;11,62029714;4,242857143;0,4;2,3;18,56315429
-596;Werke am Z¸richsee (Zollikon);10238012345;H3;8,99527619;3,979365079;0,4;2,3;15,67464127
-596;Werke am Z¸richsee (Zollikon);10238012345;H4;10,18452476;4,254960317;0,4;2,3;17,13948508
-596;Werke am Z¸richsee (Zollikon);10238012345;H5;8,411726286;4,016547619;0,4;2,3;15,1282739
-596;Werke am Z¸richsee (Zollikon);10238012345;H6;6,523317886;3,759964286;0,4;2,3;12,98328217
-596;Werke am Z¸richsee (Zollikon);10238012345;H7;6,519712143;4,096016484;0,4;2,3;13,31572863
-596;Werke am Z¸richsee (Zollikon);10238012345;H8;9,440952857;4,255059524;0,4;2,3;16,39601238
-596;Werke am Z¸richsee (Zollikon);10238012345;C1;10,89003125;4,60703125;0,4;2,3;18,1970625
-596;Werke am Z¸richsee (Zollikon);10238012345;C2;10,033106;4,58625;0,4;2,3;17,319356
-596;Werke am Z¸richsee (Zollikon);10238012345;C3;9,83886;4,378;0,4;2,3;16,91686
-596;Werke am Z¸richsee (Zollikon);10238012345;C4;8,826493;4,2284;0,4;2,3;15,754893
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;H1;13,59810268;4,264769345;0;2,3;20,16287202
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;H2;11,62029714;4,242857143;0;2,3;18,16315429
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;H3;8,99527619;3,979365079;0;2,3;15,27464127
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;H4;10,18452476;4,254960317;0;2,3;16,73948508
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;H5;8,411726286;4,016547619;0;2,3;14,7282739
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;H6;6,523317886;3,759964286;0;2,3;12,58328217
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;H7;8,282496484;4,096016484;0;2,3;14,67851297
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;H8;9,440952857;4,255059524;0;2,3;15,99601238
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;C1;10,89003125;4,60703125;0;2,3;17,7970625
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;C2;10,033106;4,58625;0;2,3;16,919356
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;C3;8,9318;4,378;0;2,3;15,6098
+513;Werke am Z√ºrichsee (Erlenbach);10296012345;C4;7,9832;4,2284;0;2,3;14,5116
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;H1;12,17793025;4,264769345;0,35;2,3;19,09269959
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;H2;10,24565857;4,242857143;0,35;2,3;17,13851571
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;H3;7,826921429;3,979365079;0,35;2,3;14,45628651
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;H4;8,825513214;4,254960317;0,35;2,3;15,73047353
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;H5;7,229648643;4,016547619;0,35;2,3;13,89619626
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;H6;5,531344593;3,759964286;0,35;2,3;11,94130888
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;H7;7,053057665;4,096016484;0,35;2,3;13,79907415
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;H8;8,093872679;4,255059524;0,35;2,3;14,9989322
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;C1;9,300582031;4,60703125;0,35;2,3;16,55761328
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;C2;8,47040825;4,58625;0,35;2,3;15,70665825
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;C3;6,63777;4,378;0,35;2,3;13,66577
+444;Werke am Z√ºrichsee (K√ºsnacht);10382012345;C4;5,852761;4,2284;0,35;2,3;12,731161
+596;Werke am Z√ºrichsee (Zollikon);10238012345;H1;13,59810268;4,264769345;0,4;2,3;20,56287202
+596;Werke am Z√ºrichsee (Zollikon);10238012345;H2;11,62029714;4,242857143;0,4;2,3;18,56315429
+596;Werke am Z√ºrichsee (Zollikon);10238012345;H3;8,99527619;3,979365079;0,4;2,3;15,67464127
+596;Werke am Z√ºrichsee (Zollikon);10238012345;H4;10,18452476;4,254960317;0,4;2,3;17,13948508
+596;Werke am Z√ºrichsee (Zollikon);10238012345;H5;8,411726286;4,016547619;0,4;2,3;15,1282739
+596;Werke am Z√ºrichsee (Zollikon);10238012345;H6;6,523317886;3,759964286;0,4;2,3;12,98328217
+596;Werke am Z√ºrichsee (Zollikon);10238012345;H7;6,519712143;4,096016484;0,4;2,3;13,31572863
+596;Werke am Z√ºrichsee (Zollikon);10238012345;H8;9,440952857;4,255059524;0,4;2,3;16,39601238
+596;Werke am Z√ºrichsee (Zollikon);10238012345;C1;10,89003125;4,60703125;0,4;2,3;18,1970625
+596;Werke am Z√ºrichsee (Zollikon);10238012345;C2;10,033106;4,58625;0,4;2,3;17,319356
+596;Werke am Z√ºrichsee (Zollikon);10238012345;C3;9,83886;4,378;0,4;2,3;16,91686
+596;Werke am Z√ºrichsee (Zollikon);10238012345;C4;8,826493;4,2284;0,4;2,3;15,754893
 788;WWZ Netze AG;10215012345;H1;11,695625;6,628482143;2,356732;2,3;22,98083914
 788;WWZ Netze AG;10215012345;H2;10,1456;6,530057143;2,192722;2,3;21,16837914
 788;WWZ Netze AG;10215012345;H3;7,245333333;5,627809524;1,81202;2,3;16,98516286
