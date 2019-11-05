@@ -8,6 +8,9 @@
 @prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix scale: <http://ns.bergnet.org/cube/scale/> .
+@prefix schema: <http://schema.org/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
 
 <http://elcom.zazuko.com/dataset/electricityTariffs> a qb:DataSet ;
   rdfs:label "Strompreis"@de ;
@@ -26,8 +29,14 @@ elcom-attr:category a rdf:Property, qb:DimensionProperty;
   rdfs:label "Kategorie"@de;
   rdfs:subPropertyOf sdmx-measure:obsValue;
   scale:scaleOfMeasure scale:Nominal;
-  rdfs:range rdfs:label .
-    
+  rdfs:range skos:Concept .
+
+elcom-attr:provider a rdf:Property, qb:DimensionProperty;
+	rdfs:label "Provider"@en;
+  rdfs:label "Stromnetzbetreiber"@de;
+  scale:scaleOfMeasure scale:Nominal;
+  rdfs:range schema:Organization .
+
 elcom-attr:total a rdf:Property, qb:MeasureProperty;
 	rdfs:label "Total excl. VAT"@en;
   rdfs:label "Total exkl. MWST"@de;
