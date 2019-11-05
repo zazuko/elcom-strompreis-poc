@@ -25,9 +25,9 @@ WHERE { GRAPH <https://lindas-data.ch/graph/elcom/strompreise> {
     schema:name ?providerName .
   
   ?obs elcom-attr:provider ?provider ;
-      elcom-attr:year "2020"^^xsd:gYear ;
-      elcom-attr:category ?category ;
-      elcom-attr:total ?total .
+    elcom-attr:year "2020"^^xsd:gYear ;
+    elcom-attr:category ?category ;
+    elcom-attr:total ?total .
     
   } GROUP BY ?munUri ?category
 }
