@@ -1,0 +1,46 @@
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX schema: <http://schema.org/>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX elcom-attr: <http://elcom.zazuko.com/attribute/>
+PREFIX geonames: <http://www.geonames.org/ontology#>
+
+CONSTRUCT {
+  ?obsMunUri a qb:Observation ;
+    qb:dataSet <http://elcom.zazuko.com/dataset/municipality/electricityTariffs> ;
+   	elcom-attr:category ?category ;
+    elcom-attr:gridusage ?gridusage ;
+    elcom-attr:energy ?energy ;
+    elcom-attr:fee ?fee ;
+    elcom-attr:kev ?kev ;
+    elcom-attr:total ?total ;
+    elcom-attr:vse ?vse ;
+    elcom-attr:provider ?provider ;
+    elcom-attr:year ?year  ;
+    elcom-attr:municipality ?munUri .
+}
+WHERE { GRAPH <https://lindas-data.ch/graph/elcom/strompreise> {
+  ?obs a qb:Observation ;
+    qb:dataSet <http://elcom.zazuko.com/dataset/electricityTariffs> ;
+    elcom-attr:category ?category ;
+    elcom-attr:gridusage ?gridusage ;
+    elcom-attr:energy ?energy ;
+    elcom-attr:fee ?fee ;
+    elcom-attr:kev ?kev ;
+    elcom-attr:total ?total ;
+    elcom-attr:vse ?vse ;
+    elcom-attr:provider ?provider ;
+    elcom-attr:year ?year  .
+    
+    
+  ?provider schema:areaServed ?munUri ;
+            
+  #FILTER(?munUri IN (<https://ld.geo.admin.ch/boundaries/municipality/1630>, <https://ld.geo.admin.ch/boundaries/municipality/1631>, <https://ld.geo.admin.ch/boundaries/municipality/1632> ))
+            
+  BIND(STRAFTER(STR(?munUri), "https://ld.geo.admin.ch/boundaries/municipality/") AS ?municipality )
+  BIND(IRI(CONCAT(STR(?obs), "/", ?municipality)) AS ?obsMunUri )
+
+}}

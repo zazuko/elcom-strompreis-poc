@@ -13,10 +13,16 @@
 
 
 <http://elcom.zazuko.com/dataset/electricityTariffs> a qb:DataSet ;
-  rdfs:label "Strompreis"@de ;
-  rdfs:label "Electricity tariff"@en ;
-  rdfs:label "Prix du courant"@fr ;
-  rdfs:label "Costo dell'energia elettrica"@it . 
+  rdfs:label "Strompreis per Stromnetzbetreiber"@de ;
+  rdfs:label "Electricity tariff per provider"@en ;
+  rdfs:label "Prix du courant par gestionnaire de réseau"@fr ;
+  rdfs:label "Costo dell'energia elettrica per gestore di rete"@it . 
+
+<http://elcom.zazuko.com/dataset/municipality/electricityTariffs> a qb:DataSet ;
+  rdfs:label "Strompreis per Gemeinde"@de ;
+  rdfs:label "Electricity tariff by municipality"@en ;
+  rdfs:label "Prix du courant par commune"@fr ;
+  rdfs:label "Costo dell'energia elettrica per comune"@it . 
 
 elcom-attr:year  a rdf:Property, qb:DimensionProperty;
   rdfs:label "reference year"@en;
@@ -36,6 +42,11 @@ elcom-attr:provider a rdf:Property, qb:DimensionProperty;
   rdfs:label "Stromnetzbetreiber"@de;
   scale:scaleOfMeasure scale:Nominal;
   rdfs:range schema:Organization .
+
+elcom-attr:municipality a rdf:Property, qb:DimensionProperty;
+	rdfs:label "Gemeinde"@de;
+  rdfs:label "Municipality"@en;
+  scale:scaleOfMeasure scale:Nominal. 
 
 elcom-attr:total a rdf:Property, qb:MeasureProperty;
 	rdfs:label "Total excl. VAT"@en;
