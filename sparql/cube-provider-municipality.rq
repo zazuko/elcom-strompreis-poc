@@ -8,7 +8,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX elcom-attr: <http://elcom.zazuko.com/attribute/>
 PREFIX geonames: <http://www.geonames.org/ontology#>
 
-CONSTRUCT {
+INSERT { GRAPH <https://lindas-data.ch/graph/elcom/strompreise> {
   ?obsMunUri a qb:Observation ;
     qb:dataSet <http://elcom.zazuko.com/dataset/municipality/electricityTariffs> ;
    	elcom-attr:category ?category ;
@@ -21,7 +21,7 @@ CONSTRUCT {
     elcom-attr:provider ?provider ;
     elcom-attr:year ?year  ;
     elcom-attr:municipality ?munUri .
-}
+}}
 WHERE { GRAPH <https://lindas-data.ch/graph/elcom/strompreise> {
   ?obs a qb:Observation ;
     qb:dataSet <http://elcom.zazuko.com/dataset/electricityTariffs> ;

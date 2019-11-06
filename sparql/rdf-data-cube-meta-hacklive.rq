@@ -1,0 +1,62 @@
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+INSERT { GRAPH <https://lindas-data.ch/graph/elcom/strompreise> {
+  	?dataSet a qb:DataSet ;
+      rdfs:label ?year ; 
+      qb:structure ?dsd .
+  
+    ?dsd qb:component ?component .
+  
+    ?component qb:dimension ?dimensionUri ;
+        qb:measure ?measureUri ;
+        qb:attribute ?attributeUri .
+}}
+WHERE { GRAPH <https://lindas-data.ch/graph/elcom/strompreise> {
+    
+    # Get distinct qb:ComponentProperty (the specific ones)
+    {
+        {
+            SELECT DISTINCT ?dataSet ?dimensionUri 
+            WHERE {
+                ?obs a qb:Observation ;
+                    qb:dataSet ?dataSet ;
+                    ?dimensionUri ?dimension .
+        
+                ?dimensionUri a qb:DimensionProperty .       
+            }
+        }
+            UNION
+        {
+
+            SELECT DISTINCT ?dataSet ?measureUri 
+            WHERE {
+                ?obs a qb:Observation ;
+                    qb:dataSet ?dataSet ;
+                    ?measureUri ?measure .
+        
+                ?measureUri a qb:MeasureProperty .       
+            }
+        }   
+            UNION
+        {
+
+            SELECT DISTINCT ?dataSet ?attributeUri 
+            WHERE {
+                ?obs a qb:Observation ;
+                    qb:dataSet ?dataSet ;
+                    ?attributeUri ?attribute .
+        
+                ?attributeUri a qb:AttributeProperty .       
+            }
+        }
+    } # subselect
+    
+    #BIND( STRLANG(CONCAT( "Strompreis " ,STRAFTER(STR(?dataSet), "/dataset/")), "de") AS ?year )
+    #BIND( STRLANG(CONCAT( "Electricity tariff " ,STRAFTER(STR(?dataSet), "/dataset/")), "en") AS ?year )
+    #BIND( STRLANG(CONCAT( "Prix du courant " ,STRAFTER(STR(?dataSet), "/dataset/")), "fr") AS ?year )
+    #BIND( STRLANG(CONCAT( "Costo dell'energia elettrica " ,STRAFTER(STR(?dataSet), "/dataset/")), "it") AS ?year )
+    BIND( URI(CONCAT(STR(?dataSet),"/dsd")) AS ?dsd)
+    BIND( URI(CONCAT(STR(?dataSet),"/component")) AS ?component)
+  } }
