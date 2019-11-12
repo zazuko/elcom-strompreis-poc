@@ -1,0 +1,20 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX schema: <http://schema.org/>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX elcom-attr: <http://elcom.zazuko.com/attribute/>
+PREFIX geonames: <http://www.geonames.org/ontology#>
+
+SELECT ?canton ?municipality ?population ?name WHERE {
+  ?version schema:validUntil "2019-12-31"^^xsd:date ;
+    geonames:parentADM1 ?canton ;
+    geonames:population ?population ;
+    schema:name ?name .
+
+  ?municipality dct:hasVersion ?version ;
+    geonames:featureCode geonames:A.ADM3 .
+} ORDER BY ?municipality

@@ -5,21 +5,27 @@
   "main": "index.js",
   "scripts": {
     "test": "standard && jest",
-    "start": "mkdir -p target source; barnard59 run --pipeline urn:pipeline:cube-ld#Root --format text/turtle pipelines/pipeline.ttl",
-    "provider": "mkdir -p target source; barnard59 run --pipeline urn:pipeline:provider/provider --format text/turtle pipelines/provider.ttl",
+    "postinstall": "mkdir -p target source",
+    "start": "barnard59 run --pipeline urn:pipeline:cube-ld#Root --format text/turtle pipelines/pipeline.ttl",
+    "provider": "barnard59 run --pipeline urn:pipeline:provider/provider --format text/turtle pipelines/provider.ttl",
+    "calc": "barnard59 run --pipeline https://linked.opendata.swiss/elcom/pipeline/calcFilePipeline --format text/turtle pipelines/calc.ttl",
     "pipeline": "npm start -- --pipeline"
   },
   "author": "Zazuko>",
   "license": "MIT",
   "bugs": {},
   "dependencies": {
+    "@rdfjs/namespace": "^1.1.0",
     "barnard59": "0.0.5",
     "barnard59-formats": "0.0.6",
     "barnard59-shell": "0.0.1",
+    "barnard59-sparql": "0.0.1",
     "barnard59-tdb": "git+https://github.com/zazuko/barnard59-tdb.git",
     "crc": "^3.8.0",
+    "get-stream": "^5.1.0",
     "node-fetch": "^2.6.0",
     "rdf-ext": "^1.3.0",
+    "readable-stream": "^3.4.0",
     "unzipper": "^0.9.11"
   },
   "devDependencies": {

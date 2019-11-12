@@ -1,0 +1,25 @@
+BASE <http://elcom.zazuko.com/calc/>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX schema: <http://schema.org/>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX elcom-attr: <http://elcom.zazuko.com/attribute/>
+PREFIX geonames: <http://www.geonames.org/ontology#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+
+SELECT DISTINCT ?municipality ?category (AVG(?totalRaw) AS ?total) WHERE {
+  GRAPH <https://lindas-data.ch/graph/elcom/strompreise> {
+    ?provider schema:areaServed ?municipality ;
+      schema:name ?name .
+
+    ?obs elcom-attr:provider ?provider ;
+      elcom-attr:year "2020"^^xsd:gYear ;
+      elcom-attr:category ?category ;
+      elcom-attr:total ?totalRaw .
+
+  }
+} GROUP BY ?municipality ?category
+

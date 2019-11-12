@@ -1,0 +1,67 @@
+@base <https://linked.opendata.swiss/elcom/pipeline/> .
+@prefix code: <https://code.described.at/> .
+@prefix p: <https://pipeline.described.at/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<variables>
+  p:variable [ a p:Variable;
+    p:name "tariffEndpoint";
+    p:value "https://trifid-lindas.test.cluster.ldbar.ch/query"
+  ], [ a p:Variable;
+    p:name "graph";
+    p:value "default"
+    # p:value "https://lindas-data.ch/graph/elcom/strompreise/calc"
+  ], [ a p:Variable;
+    p:name "outputFile";
+    p:value "target/calc.nq"
+  ].
+
+<calcPipeline> a p:Pipeline;
+  p:variables <variables>;
+  p:steps [
+    p:stepList ( <calc> <serialize> <upload> )
+  ].
+
+<calcFilePipeline> a p:Pipeline;
+  p:variables <variables>;
+  p:steps [
+    p:stepList ( <calc> <serialize> <writeFile> )
+  ].
+
+<calc> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <file:../lib/calcSource.js>
+  ];
+  code:arguments [
+    code:name "graph";
+    code:value "graph"^^p:VariableName
+  ], [
+    code:name "tariffEndpoint";
+    code:value "tariffEndpoint"^^p:VariableName
+  ].
+
+<serialize> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-formats#ntriples.serialize>
+  ].
+
+<writeFile> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:fs#createWriteStream>
+  ];
+  code:arguments ("outputFile"^^p:VariableName).
+
+<upload> a p:Step;
+  code:implementedBy [ a code:EcmaScript;
+    code:link <node:barnard59-graph-store#put>
+  ];
+  code:arguments [
+    code:name "endpoint";
+    code:value "endpoint"^^p:VariableName
+  ], [
+    code:name "user";
+    code:value "user"^^p:VariableName
+  ], [
+    code:name "password";
+    code:value "password"^^p:VariableName
+  ].
