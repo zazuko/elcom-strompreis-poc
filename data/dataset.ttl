@@ -25,7 +25,8 @@
   rdfs:label "Costo dell'energia elettrica per comune"@it . 
 
 elcom-attr:year  a rdf:Property, qb:DimensionProperty;
-  rdfs:label "reference year"@en;
+  rdfs:label "Reference year"@en;
+  rdfs:label "Referenzjahr"@de;
   rdfs:subPropertyOf sdmx-dimension:refPeriod;
   scale:scaleOfMeasure scale:Temporal;
   rdfs:range xsd:gYear .
@@ -70,7 +71,7 @@ elcom-attr:fee  a rdf:Property, qb:MeasureProperty;
   rdfs:range xsd:decimal .
 
 elcom-attr:energy  a rdf:Property, qb:MeasureProperty;
-	rdfs:label "Engergy"@en;
+	rdfs:label "Energy"@en;
   rdfs:label "Energie"@de;
   rdfs:subPropertyOf sdmx-measure:obsValue;
   scale:scaleOfMeasure scale:Continuous;
