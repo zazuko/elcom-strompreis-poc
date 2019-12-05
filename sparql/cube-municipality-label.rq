@@ -1,0 +1,19 @@
+PREFIX geonames: <http://www.geonames.org/ontology#>
+PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX elcom-attr: <http://elcom.zazuko.com/attribute/>
+INSERT { GRAPH <https://lindas-data.ch/graph/elcom/strompreise> {
+  ?munUri rdfs:label ?munLabel .
+}}
+WHERE {
+  SERVICE <https://ld.geo.admin.ch/query> {
+    ?munUri geonames:featureCode geonames:A.ADM3 ;
+      schema:name ?munLabel .
+  }
+  {
+    SELECT DISTINCT ?munUri WHERE { GRAPH <https://lindas-data.ch/graph/elcom/strompreise> {
+      ?obs elcom-attr:municipality ?munUri 
+    }}
+  }
+}
