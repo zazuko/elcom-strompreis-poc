@@ -6,11 +6,9 @@
   "scripts": {
     "test": "standard && jest",
     "postinstall": "mkdir -p target source",
-    "start": "barnard59 run --pipeline urn:pipeline:cube-ld#Root --format text/turtle pipelines/pipeline.ttl",
+    "tariff": "barnard59 run --pipeline urn:pipeline:cube-ld#Root --format text/turtle pipelines/pipeline.ttl",
     "provider": "barnard59 run --pipeline urn:pipeline:provider/provider --format text/turtle pipelines/provider.ttl",
-    "calc": "barnard59 run --pipeline https://linked.opendata.swiss/elcom/pipeline/calcFilePipeline --format text/turtle pipelines/calc.ttl",
-    "pipeline": "npm start -- --pipeline"
-  },
+    "calc": "barnard59 run --pipeline https://linked.opendata.swiss/elcom/pipeline/calcFilePipeline --format text/turtle pipelines/calc.ttl"  },
   "author": "Zazuko>",
   "license": "MIT",
   "bugs": {},
