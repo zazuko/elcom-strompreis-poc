@@ -13,7 +13,7 @@
     # p:value "https://lindas-data.ch/graph/elcom/strompreise/calc"
   ], [ a p:Variable;
     p:name "outputFile";
-    p:value "target/calc.nq"
+    p:value "target/calc.nt"
   ].
 
 <calcPipeline> a p:Pipeline;
