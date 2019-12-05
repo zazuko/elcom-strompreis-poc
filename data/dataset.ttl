@@ -24,6 +24,12 @@
   rdfs:label "Prix du courant par commune"@fr ;
   rdfs:label "Costo dell'energia elettrica per comune"@it . 
 
+<http://elcom.zazuko.com/dataset/canton/medianElectricityTariffs> a qb:DataSet ;
+  rdfs:label "Median Strompreis per Kanton"@de ;
+  rdfs:label "Median electricity tariff per canton"@en ;
+  rdfs:label "Prix médian du courant par canton"@fr ;
+  rdfs:label "Costo medio dell'energia per cantone"@it . 
+
 elcom-attr:year  a rdf:Property, qb:DimensionProperty;
   rdfs:label "Reference year"@en;
   rdfs:label "Referenzjahr"@de;
@@ -49,9 +55,21 @@ elcom-attr:municipality a rdf:Property, qb:DimensionProperty;
   rdfs:label "Municipality"@en;
   scale:scaleOfMeasure scale:Nominal. 
 
+elcom-attr:canton a rdf:Property, qb:DimensionProperty;
+	rdfs:label "Kanton"@de;
+  rdfs:label "Canton"@en;
+  scale:scaleOfMeasure scale:Nominal. 
+
 elcom-attr:total a rdf:Property, qb:MeasureProperty;
 	rdfs:label "Total excl. VAT"@en;
   rdfs:label "Total exkl. MWST"@de;
+  rdfs:subPropertyOf sdmx-measure:obsValue;
+  scale:scaleOfMeasure scale:Continuous;
+  rdfs:range xsd:decimal .
+
+elcom-attr:totalMedian a rdf:Property, qb:MeasureProperty;
+	rdfs:label "Total median excl. VAT"@en;
+  rdfs:label "Total median exkl. MWST"@de;
   rdfs:subPropertyOf sdmx-measure:obsValue;
   scale:scaleOfMeasure scale:Continuous;
   rdfs:range xsd:decimal .
